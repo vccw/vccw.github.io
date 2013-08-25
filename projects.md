@@ -5,7 +5,7 @@ title: Projects
 # Sponsored Projects
 
 In addition to the annual Violet Crown Festival in May and Violet Crown Arts Festival in
-December, VCCW also  hassponsored art projects in the community.  These include:
+December, VCCW also  has sponsored art projects in the community.  These include:
 
 * [Voices of the Violet Crown](voices.html), a project gathering the stories
   of our neighborhood from past generations
