@@ -446,6 +446,13 @@ if (!jQuery) { throw new Error("Bootstrap requires jQuery") }
       if (typeof option == 'number') data.to(option)
       else if (action) data[action]()
       else if (options.interval) data.pause().cycle()
+
+      if (options.random) {
+        $this.find('.item.active').removeClass('active')
+        var $items = $this.find('.item')
+        var pos = Math.floor(Math.random() * $items.length)
+        $($items[pos]).addClass('active')
+      }
     })
   }
 
