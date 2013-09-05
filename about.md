@@ -4,7 +4,7 @@ title: About VCCW
 ---
 # About Violet Crown Community Works
 
-<img src="img/header_2.jpg" class="img-responsive" alt="Welcome to the Neighborhood">
+<img src="img/header_2.jpg" class="img-responsive well" alt="Welcome to the Neighborhood">
 
 <br>
 

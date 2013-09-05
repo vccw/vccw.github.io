@@ -3,7 +3,7 @@ layout: default
 title: Home Page
 ---
 
-## Coming December 7th and 8th,<br>the [2013 Violet Crown Arts Festival](http://localhost:4000/artsfest.html)!
+## Coming December 7th and 8th,<br>the [2013 Violet Crown Arts Festival](artsfest.html)!
 
 ### The [call for artists](https://violetcrownartsfest.eventbrite.com/) is now open!
 
