@@ -3,9 +3,9 @@ layout: default
 title: Home Page
 ---
 
-Coming This December, the 2013 Violet Crown Arts Festival!
+## Coming December 7th and 8th,<br>the [2013 Violet Crown Arts Festival](http://localhost:4000/artsfest.html)!
 
-![VCAF Crown](img/vcarts_crown.png)
+### The [call for artists](https://violetcrownartsfest.eventbrite.com/) is now open!
 
-The call for artists for the fall festival is now open.  To apply, go to
-[the VCAF Eventbrite page](https://violetcrownartsfest.eventbrite.com/).
+<img src="img/vcaf_beads.jpg" class="img-responsive">
+

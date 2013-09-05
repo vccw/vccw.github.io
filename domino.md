@@ -15,7 +15,7 @@ There’s a pig running loose!” yelled John Fremgen into the mike. He had a
 bird’s-eye view of what was happening—A baby pig had escaped from the petting
 zoo and was running as fast as his little legs could carry him.
 
-![Domino the Pig](img/domino-sm.jpg )
+<img src="img/domino-sm.jpg" alt="Domino the Pig" class="img-responsive well">
 
 Volunteers stopped what they were doing and gave chase. It was a sight to
 behold— people running, diving, lunging after this small pig, who made a
@@ -92,3 +92,8 @@ beautiful sunflowers; and to all our neighborhood legends who make this such a
 unique place to call home.
 
 _&mdash; Shayla Fleshman and Susan Burneson_
+
+<img src="img/vccw_domino_flu.jpg" alt="Domino the Pig" class="img-responsive well">
+
+Domino lives on as the mascot for the Violet Crown Festival and
+visits every year for mirth and photos!

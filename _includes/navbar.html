@@ -1,0 +1,28 @@
+            <div class="navbar navbar-default" role="navigation">
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-vccw-collapse">
+                      <span class="sr-only">Toggle navigation</span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                      <span class="icon-bar"></span>
+                    </button>
+                    <a class="navbar-brand" href="index.html">Violet Crown Community Works</a>
+                </div>
+                <div class="collapse navbar-collapse navbar-vccw-collapse">
+                  <ul class="nav navbar-nav">
+                        <li {% if page.url contains 'vcf.html' %}class='active'}{% endif %}><a href="vcf.html">VC Fest (May)</a></li>
+                        <li {% if page.url contains 'artsfest.html' %}class='active'}{% endif %}><a href="artsfest.html">VC Arts Fest (Dec)</a></li>
+                        <li {% if page.url contains 'projects.html' %}class='active'}{% endif %}class="dropdown">
+                          <a href="projects.html" class="dropdown-toggle" data-toggle="dropdown">Projects <b class="caret"></b></a>
+                          <ul class="dropdown-menu">
+                            <li><a href="voices.html">Voices of the Violet Crown</a></li>
+                            <li><a href="wall.html">The Wall of Welcome</a></li>
+                          </ul>
+                        </li>
+                        <li {% if page.url contains 'domino.html' %}class='active'}{% endif %}><a href="domino.html">Domino the Pig</a></li>
+                  </ul>
+                  <ul class="nav navbar-nav navbar-right">
+                      <li {% if page.url contains 'about.html' %}class='active'}{% endif %}><a href="about.html">About</a></li>
+                  </ul>
+                </div><!--/.nav-collapse -->
+            </div>

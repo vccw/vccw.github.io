@@ -6,6 +6,12 @@ title: Violet Crown Arts Festival (December 2013)
 
 ## Saturday and Sunday, December 7th-8th, 2013 <br> 10AM to 5PM, [The Triangle](https://plus.google.com/108698261328485139812/about?gl=us&hl=en)
 
+### Artist Application now Open until November 10th
+
+<a href="http://www.eventbrite.com/event/7875984281?ref=ebtn" target="_blank"><img src="http://www.eventbrite.com/custombutton?eid=7875984281" alt="Eventbrite - 2013 Violet Crown Arts Festival" /></a>
+
+### Details
+
 ![](img/vcarts_crown.png)
 
 Bring the family, friends & neighbors, pack a blanket and some lawn chairs,
