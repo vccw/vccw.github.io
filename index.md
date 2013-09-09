@@ -7,5 +7,5 @@ title: Home Page
 
 ### The [call for artists](https://violetcrownartsfest.eventbrite.com/) is now open!
 
-<img src="img/vcaf_beads.jpg" class="img-responsive">
+<img src="img/vccw_clocks.jpg" class="img-responsive">
 

@@ -2,11 +2,22 @@
 layout: default
 title: Violet Crown Festival (Spring 2013)
 ---
-# Violet Crown Festival
+<div class="container">
+	<div class="row">
+		<div class="col-md-8">
+			<h1>Violet Crown Festival</h1>
+			<h2>
+				Saturday, May 4th, 2013 <br>
+				11AM to 6PM
+				10AM to 5PM,
+				<a href="https://plus.google.com/105953711653254975745/about?gl=us&amp;hl=en">Brentwood Park</a>
+			</h2>
+		</div>
+		<div class="col-md-4"><img src="img/Crown-facebook.jpg" class="img-responsive"></div>
+	</div>
+</div>
 
-## Saturday, May 4th, 2013 <br> 11AM to 6PM, [Brentwood Park](https://plus.google.com/105953711653254975745/about?gl=us&hl=en)
-
-![](img/Crown-facebook.jpg)
+### Details
 
 Art, music and more on tap at this year’s festival!
 
@@ -21,7 +32,9 @@ festival.
 
 For more information, contact Mona Prater at 512-450-1167 or [beadornment@hotmail.com](mailto:beadornment@hotmail.com).
 
-## Vendors
+<img src="img/vccw_hoops.jpg" class="img-responsive well">
+
+### Vendors
 
 * [Amy’s Ice Creams](http://www.amysicecreams.com/)
 * [Cheko’s Mexican](http://www.gotchekos.com/)
@@ -29,7 +42,7 @@ For more information, contact Mona Prater at 512-450-1167 or [beadornment@hotmai
 * [Jack Hates Coffee](http://jackhatescoffee.com/)
 * VCCW Domino Dogs, featuring sausage from [Ruby’s BBQ](http://rubysbbq.com/) and [Curras’ Grill](http://www.currasgrill.com/)
 
-## Artists
+### Artists
 
 * [jmaeson's creations](http://Etsy.com/shop/jmaeson) &mdash; handmade purses
 * [Merchant Ship Collective](http://Mscleather.com) &mdash; handmade leather goods
@@ -79,7 +92,7 @@ For more information, contact Mona Prater at 512-450-1167 or [beadornment@hotmai
 * [Hoops by Hullaba Loola](https://www.facebook.com/pages/Hoops-by-Hullaba-Loola/103331009703181) &mdash; hula hoops
 * [Third Coast Art Glass](http://thirdcoastartglass.blog.com) &mdash; art glass creations
 
-## Kids Activities
+### Kids Activities
 
 * Activity/Craft Table &mdash; Goldwasser Real Estate & Essential Acupuncture
 * Activity Table &mdash; Stepping Stone
@@ -95,7 +108,7 @@ For more information, contact Mona Prater at 512-450-1167 or [beadornment@hotmai
 * Science/Activity/Craft Table &mdash; Camp Vamanos
 * Spin Art &mdash; Austin Creative ReUse
 
-## Music Lineup
+### Music Lineup
 
 * 11:00am &mdash; Roger Beck & the 29th Street Band
 * Noon &mdash; [Jill and the Jaybirds](http://www.myspace.com/junglejilljaybirds)
@@ -105,7 +118,7 @@ For more information, contact Mona Prater at 512-450-1167 or [beadornment@hotmai
 * 4:00pm &mdash; [The New Maps](http://www.reverbnation.com/thenewmaps)
 * 5:00pm &mdash; [La Guerrilla](http://www.laguerrillamusic.com/)
 
-## Gold Sponsors
+### Gold Sponsors
 
 * [Austin Parks & Recreation Department](http://www.austintexas.gov/department/parks-and-recreation)
 * [Grande Communications](http://www.grandecom.com/)
@@ -123,7 +136,7 @@ For more information, contact Mona Prater at 512-450-1167 or [beadornment@hotmai
 * [Chris Chappell – Artist](http://chrischappellart.com/)
 * [David Ohlerking – Artist](http://davidohlerking.com/)
 
-## Silver Sponsors
+### Silver Sponsors
 
 * [Barnstormer's Studio](http://www.barnstormersmusic.com/)
 * [Brentwood Neighborhood Association](http://brentwoodaustin.blogspot.com/)
@@ -133,14 +146,14 @@ For more information, contact Mona Prater at 512-450-1167 or [beadornment@hotmai
 * [Ruby’s BBQ](http://rubysbbq.com/)
 * [GeNext Wellness](http://www.genextwellness.com/)
 
-## Bronze Sponsors
+### Bronze Sponsors
 
 * [Crestview Doors](http://www.crestviewdoors.com/)
 * [UT Performing Arts](http://texasperformingarts.org/)
 * [Camp Vamanos](http://www.campvamonos.com/)
 * [Violet Crown Yoga](http://www.violetcrownyoga.com/)
 
-## Friends of Violet Crown Community Fest
+### Friends of Violet Crown Community
 
 * [Reddogbetty Pet Care](http://www.reddogbetty.com/)
 * Mike McChesney

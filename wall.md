@@ -4,6 +4,8 @@ title: The Wall of Welcome
 ---
 # Wall of Welcome
 
+<img src="img/header_2.jpg" class="img-responsive well" alt="Welcome to the Neighborhood">
+
 The 120-foot-long mosaic Wall of Welcome, located at 7100 Woodrow Avenue in
 Austin, was first envisioned by artist and Brentwood resident Jean Graham in
 2002. Fundraising for the wall began in 2003 with the first Violet Crown
