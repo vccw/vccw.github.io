@@ -10,7 +10,7 @@ title: Violet Crown Festival (Spring 2013)
 				Saturday, May 4th, 2013 <br>
 				11AM to 6PM
 				10AM to 5PM,
-				<a href="https://plus.google.com/105953711653254975745/about?gl=us&amp;hl=en">Brentwood Park</a>
+				<a href="https://plus.google.com/105953711653254975745/about?gl=us&amp;hl=en">Brentwood Park (map)</a>
 			</h2>
 		</div>
 		<div class="col-md-4"><img src="img/Crown-facebook.jpg" class="img-responsive"></div>

@@ -11,7 +11,7 @@ title: Violet Crown Arts Festival (December 2013)
 				Saturday and Sunday,<br>
 				December 7th-8th, 2013,<br>
 				10AM to 5PM,
-				<a href="https://plus.google.com/100912139126813023202/about?gl=us&amp;hl=en">Triangle Park</a>
+				<a href="https://plus.google.com/100912139126813023202/about?gl=us&amp;hl=en">Triangle Park (map)</a>
 			</h2>
 		</div>
 		<div class="col-md-4"><img src="img/vcarts_crown.png" class="img-responsive"></div>
