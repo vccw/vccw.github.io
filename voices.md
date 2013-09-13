@@ -4,18 +4,19 @@ title: Voices of the Violet Crown
 ---
 # "A Community Mosaic" (film) and Voices of the Violet Crown (community history project)
 
-A Community Mosaic introduces viewers to Brentwood and Crestview, mid-century
+"A Community Mosaic" introduces viewers to Brentwood and Crestview, mid-century
 neighborhoods that were among the first suburbs of Austin, Texas, and today
 are part of Central Austin. Produced by Susan and Rob Burneson, the film
 premiered at the dedication of the mosaic Wall of Welcome in March 2008.
 
-!["A Community Mosaid"](img/CommunityMosaic250-229x300.jpg)
+!["A Community Mosaic"](img/CommunityMosaic250-229x300.jpg)
 
-In 2009, Susan and RA Community Mosaicob received the Mary Faye Barnes Award
-for Excellence in Community History Projects from the Texas Oral History
-Association. In 2010, A Community Mosaic was featured in the City of Austin’s
-Faces of Austin multimedia program and the Lights, Camera, Austin film series
-at the Windsor Park Branch Library.
+In 2009, Susan and Rob received the Mary Faye Barnes Award for Excellence in
+Community History Projects from the Texas Oral History Association. In 2010,
+"A Community Mosaic" was featured in the City of Austin’s Faces of Austin
+multimedia program and the Lights, Camera, Austin film series at the Windsor
+Park Branch Library.
+
 [A shorter version is on the City of Austin YouTube page.](http://www.youtube.com/watch?v=IQCCWD5oiqA)
 
 Since its premiere, the film has been screened for a number of community
