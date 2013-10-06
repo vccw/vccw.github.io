@@ -21,8 +21,8 @@ Austin, TX 78703
 In addition to the annual Violet Crown Festival in May and Violet Crown Arts Festival in
 December, VCCW also  has sponsored art projects in the community.  These include:
 
-* [Voices of the Violet Crown](voices.html), stories of neighbors creating community—past, present, and future
 * [The Wall of Welcome](wall.html), the mural in front of the Minimax grocery store
+* [Voices of the Violet Crown](voices.html), stories of neighbors creating community—past, present, and future
 * [Friends of Brentwood Park](http://friendsofbrentwoodpark.org/)
 * [Urban Patchwork Neighborhood Farms](http://urbanpatchwork.org/) at Brentwood Elementary
 
