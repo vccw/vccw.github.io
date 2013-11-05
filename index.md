@@ -5,7 +5,6 @@ title: Home Page
 
 ## Coming December 7th and 8th,<br>the [2013 Violet Crown Arts Festival](artsfest.html)!
 
-### The [call for artists](https://violetcrownartsfest.eventbrite.com/) is now open!
+### The [call for artists](https://violetcrownartsfest.eventbrite.com/) is now open through November 15th!
 
-<img src="img/vccw_clocks.jpg" class="img-responsive">
-
+<img src="img/vcaf_beads.jpg" class="img-responsive well">
