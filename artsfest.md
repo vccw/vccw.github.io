@@ -23,7 +23,7 @@ title: Violet Crown Arts Festival (December 2013)
 Expect to find unique artwork from talented sculptors, potters, and fiber
 artists, painters, jewelers, glass artists, woodworkers and metal smiths. Shop
 for hand made gifts and great quality art, and support local cottage
-businesses.
+businesses. Plenty of free parking, and free admission.
 
 ### Music
 
@@ -114,4 +114,4 @@ Ideal for the festival, this city park is family friendly with a seating area
 perfect for a picnic lunch, plus two Bocce courts are available for anyone who
 brings their own playing set. Centrally located between  N. Lamar and W.
 Guadalupe, Triangle Park is literally on the border of the Violet Crown
-Community Works neighborhoods. Plenty of free parking, and free admission.
+Community Works neighborhoods.
