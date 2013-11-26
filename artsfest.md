@@ -7,12 +7,12 @@ title: Violet Crown Arts Festival (December 2013)
 	<div class="row">
 		<div class="col-md-8">
 			<h1>Violet Crown Arts Festival</h1>
-			<h2>
+			<h3>
 				<a href="https://plus.google.com/100912139126813023202/about?gl=us&amp;hl=en">Triangle Park (map)</a><br>
 				Saturday and Sunday,<br>
 				December 7th-8th, 2013,<br>
 				10AM to 5PM
-			</h2>
+			</h3>
 		</div>
 		<div class="col-md-4"><img src="img/vcarts_crown.png" class="img-responsive"></div>
 	</div>
@@ -24,14 +24,6 @@ Expect to find unique artwork from talented sculptors, potters, and fiber
 artists, painters, jewelers, glass artists, woodworkers and metal smiths. Shop
 for hand made gifts and great quality art, and support local cottage
 businesses.
-
-### Triangle Park
-
-Ideal for the festival, this city park is family friendly with a seating area
-perfect for a picnic lunch, plus two Bocce courts are available for anyone who
-brings their own playing set. Centrally located between  N. Lamar and W.
-Guadalupe, Triangle Park is literally on the border of the Violet Crown
-Community Works neighborhoods. Plenty of free parking, and free admission.
 
 ### Music
 
@@ -54,6 +46,8 @@ Sunday, December 8th
 <tr><td>1:30-3:00   <td> <a href="http://www.austincommunitysteelband.org/">Austin Community Steel Band</a>
 <tr><td>3:30-5:00   <td> <a href="http://www.dianacantu.com/">Diana Cantu Band</a>
 </table>
+
+<img src="img/vcaf_beads.jpg" class="img-responsive well">
 
 ### Artists
 
@@ -113,3 +107,11 @@ Sunday, December 8th
 * [Tina Lewis Pottery and Ceramic Art](http://tinalewis.etsy.com) - pottery and ceramic art
 * Applied Design & Technology - wood & stone
 * [Elementals](http://gems23rd.blogspot.com) - jewelry
+
+### Triangle Park
+
+Ideal for the festival, this city park is family friendly with a seating area
+perfect for a picnic lunch, plus two Bocce courts are available for anyone who
+brings their own playing set. Centrally located between  N. Lamar and W.
+Guadalupe, Triangle Park is literally on the border of the Violet Crown
+Community Works neighborhoods. Plenty of free parking, and free admission.
