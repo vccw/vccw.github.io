@@ -126,3 +126,8 @@ perfect for a picnic lunch, plus two Bocce courts are available for anyone who
 brings their own playing set. Centrally located between  N. Lamar and W.
 Guadalupe, Triangle Park is literally on the border of the Violet Crown
 Community Works neighborhoods.
+
+### Contact
+
+For questions about the festival, please mail violetcrownartsfestival@gmail.com.  For the artist application website,
+see https://violetcrownartsfest.eventbrite.com.
