@@ -54,8 +54,8 @@ Sunday, December 8th
 * [Squid Friends](http://www.squidfriends.com) - Plush, quilts and prints
 * Pomp & Parchment - Handmade cards, Hair accessories, ornaments
 * [Odd Bird](http://www.oddbirdshop.com) - Home goods handmade from reclaimed wood
-* [Hoops by Hullaba Loola](https://www.facebook.com/pages/Hoops-by-Hullaba-Loola/103331009703181) - totally rad, circus-* grade, built for play groove and dance hoops for kidz of all ages
-* [Natural Magick Shop](http://naturalmagickshop.com) - magick potions and tools, ritually crafted for the modern * practitioner
+* [Hoops by Hullaba Loola](https://www.facebook.com/pages/Hoops-by-Hullaba-Loola/103331009703181) - totally rad, circus-* grade, built for play groove and dance hoops
+* [Natural Magick Shop](http://naturalmagickshop.com) - magick potions and tools, ritually crafted for the modern practitioner
 * [Flameless Shirt](http://www.flamelessshirt.com) - aparrel
 * EarthArtAustin - ceramics
 * [Betty Loo Project](http://bettylooproject.bigcartel.com/) - hand crafted leather goods
@@ -63,7 +63,6 @@ Sunday, December 8th
 * [Hey Audrey]( http://www.heyaudrey.com) - hand illustrated/screen printed tea towels
 * [Victrola Design](http://www.victrolastudio.com) - illustration/screen printed clothing
 * [Junebeam](http://www.etsy.com/shop/junebeam) - shirts, headbands, rings, bracelets
-* Fabreco - handmade convertible scarves
 * [Seven Hills](http://ancientscent.com) - handmade natural soap w/ scents based on Roman perfume recipes
 * [Sew Fun Bags](http://facebook.com/sewfunbags) - bags, zippered pouches
 * Lopsided Pottery - ceramics
@@ -71,6 +70,7 @@ Sunday, December 8th
 * Austin Upcycled Art - glass mosaic
 * [Foxy Flight](http://www.facebook.com/foxyflight) - handmade one of a kind feather jewelry and art
 * Portable Soul - jewelry
+* Sara Dumas Jewelry - jewelry
 * [EcoChic Floral](http://www.ecochicfloral.com) - living ornaments, succulent pumpkins
 * [Jamie Shelton](http://archeomoderndesigns.com) - hand dyed silk evening wraps and scarves
 * Plan B - fiber art
@@ -82,6 +82,7 @@ Sunday, December 8th
 * [unrepeatables](http://www.unrepeatables.com) - nail polish jewelry
 * [Carol Bradley Designs](https://www.etsy.com/shop/carolbradley) - handcrafted gemstone, enamel and sterling silver * jewelry
 * [Lip Glosserie](http://lipglosserie.etsy.com) - bath & body
+* [Kate Winternitz Jewlery](http://www.katewinternitzjewelry.com/) - fine silver jewelry
 * [Fleegal Farms Soap](http://www.fleegalfarms.com) - cold process soap maker
 * [Latika Soap, Inc](http://www.latikasoap.com) - handmade soap shaped like sweets and fun objects, and natural bath * products
 * [CDQ ART](http://cdqart.com) - watercolor, acrylics
@@ -107,6 +108,16 @@ Sunday, December 8th
 * [Tina Lewis Pottery and Ceramic Art](http://tinalewis.etsy.com) - pottery and ceramic art
 * Applied Design & Technology - wood & stone
 * [Elementals](http://gems23rd.blogspot.com) - jewelry
+* PandP - button accessories
+* [Salvation Central](http://www.salvationcentral.com/) - stained glass & jewelry
+* Monica Boulton & Andrea Ewen - recycled bags and repurposed plastic bottles
+* Moon Dance Labs - quilts, bags, and purses
+* Maya Weaver - Guatamalan weaving
+* [Fox On First](http://www.foxonfirst.com) - tie dying
+* Monkey Volt - facepainting
+* [David Dettmer](http://utpress.utexas.edu/index.php/books/dettex) - Editor of _The Texas Book Two More Profiles, History, and Reminiscences of the University_
+* [Austin Eco School](http://www.austinecoschool.org/) - coffee, chai, hot cocoa, baked goods & kids activities
+* [Violet Crown Community Works](http://violetcrowncommunity.org) - info booth & silent auction
 
 ### Triangle Park
 
