@@ -3,15 +3,20 @@ layout: default
 title: Violet Crown Arts Festival (December 2013)
 ---
 
+<div class="jumbotron alert alert-danger">
+<h2>Due to bad weather this weekend, the <a href="artsfest.html">2013 Violet Crown Arts Festival</a> has been cancelled.
+All artists will be receiving refunds of their booth fees.</h2>
+</div>
+
 <div class="container">
 	<div class="row">
 		<div class="col-md-8">
 			<h1>Violet Crown Arts Festival</h1>
 			<h3>
 				<a href="https://plus.google.com/100912139126813023202/about?gl=us&amp;hl=en">Triangle Park (map)</a><br>
-				Saturday and Sunday,<br>
+				<s>Saturday and Sunday,<br>
 				December 7th-8th, 2013,<br>
-				10AM to 5PM
+				10AM to 5PM</s>
 			</h3>
 		</div>
 		<div class="col-md-4"><img src="img/vcarts_crown.png" class="img-responsive"></div>
