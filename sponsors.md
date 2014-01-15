@@ -8,6 +8,8 @@ volunteers and artists, and with the generous support of our sponsors. These
 businesses and individuals provided funding and services that help us run the
 festivals and sponsor local arts projects.  Join us in thanking them.
 
+If you're interested in being a sponsor for the 2014 festival, please contact <vccwpresident@yahoo.com>.
+
 ### Gold Sponsors
 
 * [Austin Parks & Recreation Department](http://www.austintexas.gov/department/parks-and-recreation)
