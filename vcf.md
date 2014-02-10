@@ -37,7 +37,9 @@ Food vendors will be announced in April.
 
 ### Artists
 
-Artist signup will be announced in early March.
+To sign up as an artist, please download the [2014 Artist Application](docs/2014_VCF_Vendor_App.pdf).
+You'll need to fill this out and mail it in along with a check by March 15th, 2014.  Please read the
+[2014 artist guidelines](docs/2014_VCF_Vendor_Guidelines.pdf) for additional information.
 
 ### Kids Activities
 
