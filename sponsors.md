@@ -26,6 +26,7 @@ If you're interested in being a sponsor for the 2014 festival, please contact <v
 * [State Farm &mdash; Nancy Callahan](http://nancyjocallahan.com/)
 * [Brentwood Neighborhood Association](http://brentwoodaustin.blogspot.com/)
 * [Crestview Neighborhood Association](http://www.crestviewna.org/)
+* [Texas DPS Credit Union](http://www.txdpscu.org/)
 
 ### Bronze Sponsors
 
@@ -34,5 +35,4 @@ If you're interested in being a sponsor for the 2014 festival, please contact <v
 ### Friends of Violet Crown Community
 
 * [Reddogbetty Pet Care](http://www.reddogbetty.com/)
-* Mike McChesney
-* [Highway Technologies](http://www.hwy-tech.com/)
+* TRP Construction Group
