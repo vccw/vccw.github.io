@@ -42,15 +42,14 @@ festival.
 
 ### Music
 
-| Time | Band | Description |
------------------------------
 | 11am | [Jungle Jill and the Jaybirds](http://www.myspace.com/junglejilljaybirds) | entertainment for kids of all ages |
 | noon | Roger Beck and the 29th Street Band | honored in 2005 by the [Texas Western Swing Hall of Fame](http://thewesternartists.com/twshof.htm) |
-| 1pm | Lunch with Danny | soft rock/southern country |
-| 2pm | Mooncharmer | McCallum High School's own hard rock/metal band |
-| 3pm | [Dan Rixon](https://www.facebook.com/Rixonmusic) | rock/pop/jazz |
-| 4pm | [Jon Emery and the Red Hot Review](http://www.jonemery.com/) | hillbilly rock and roll |
-| 5pm | [Deeanne Ren&eacute;](http://www.deannrene.com/) | rock and roll |
+|  1pm | Lunch with Danny | soft rock/southern country |
+|  2pm | Mooncharmer | McCallum High School's own hard rock/metal band |
+|  3pm | [Dan Rixon](https://www.facebook.com/Rixonmusic) | rock/pop/jazz |
+|  4pm | [Jon Emery and the Red Hot Review](http://www.jonemery.com/) | hillbilly rock and roll |
+|  5pm | [Deeanne René](http://www.deannrene.com/) | rock and roll |
+{:.table}
 
 ### Artists
 
