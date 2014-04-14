@@ -31,9 +31,26 @@ festival.
 
 <img src="img/vccw_hoops.jpg" class="img-responsive well">
 
-### Vendors
+### Food Vendors
 
-Food vendors will be announced in April.
+* [Checko's Restaurant](http://www.gotchekos.com)
+* [Craig O's Pizza](http://www.craigositalian.com)
+* VCCW Domino Dogs (Hot Dogs and Sausage Wraps)
+* [Amy's Ice Creams](http://www.amysicecreams.com)
+* [Snowie Shaved Ice](http://www.austinshavedice.com)
+* [Jack Hates Coffee](http://www.jackhatescoffee.com)
+
+### Music
+
+| Time | Band | Description |
+-----------------------------
+| 11am | [Jungle Jill and the Jaybirds](http://www.myspace.com/junglejilljaybirds) | entertainment for kids of all ages |
+| noon | Roger Beck and the 29th Street Band | honored in 2005 by the [Texas Western Swing Hall of Fame](http://thewesternartists.com/twshof.htm) |
+| 1pm | Lunch with Danny | soft rock/southern country |
+| 2pm | Mooncharmer | McCallum High School's own hard rock/metal band |
+| 3pm | [Dan Rixon](https://www.facebook.com/Rixonmusic) | rock/pop/jazz |
+| 4pm | [Jon Emery and the Red Hot Review](http://www.jonemery.com/) | hillbilly rock and roll |
+| 5pm | [Deeanne Ren&eacute;](http://www.deannrene.com/) | rock and roll |
 
 ### Artists
 
@@ -44,10 +61,6 @@ You'll need to fill this out and mail it in along with a check by March 15th, 20
 ### Kids Activities
 
 Want to help with organizing our children's activities? Contact <vccwpresident@yahoo.com>
-
-### Music Lineup
-
-Musicians will be announced in April.
 
 ### Previous Years
 
