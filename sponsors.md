@@ -18,8 +18,8 @@ If you're interested in being a sponsor for the 2014 festival, please contact <v
 * [Burnet Road Storage](http://www.burnetroadstorage.com/)
 * [Crestview IGA](https://www.facebook.com/pages/Crestview-Minimax-IGA/102220176512681)
 * [Juice Realty &mdash; John Dunham](http://www.johndunham.com/home.asp)
-* [Pilates Center of Austin](http://www.pilatescenterofaustin.com/)
 * [Barnstormer's Studio](http://www.barnstormersmusic.com/)
+* [Texas Kettlebell Academy](http://www.txkettlebell.com/)
 
 ### Silver Sponsors
 
