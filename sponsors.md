@@ -28,10 +28,11 @@ If you're interested in being a sponsor for the 2014 festival, please contact <v
 * [Brentwood Neighborhood Association](http://brentwoodaustin.blogspot.com/)
 * [Crestview Neighborhood Association](http://www.crestviewna.org/)
 * [Texas DPS Credit Union](http://www.txdpscu.org/)
+* [Ed's Photo Booth](http://www.edsphotobooth.com/)
 
 ### Bronze Sponsors
 
-* [Camp Vamanos](http://www.campvamonos.com/)
+* [Camp ¡Vámonos!](http://www.campvamonos.com/)
 
 ### Friends of Violet Crown Community
 
