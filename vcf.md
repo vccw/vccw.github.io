@@ -23,11 +23,14 @@ Art, music and more on tap at this year’s festival!
 There’s no better way to enjoy a spring Saturday than by spending it at the
 Violet Crown Festival. Admission is free.
 
-The festival will feature over 55 local arts and crafts vendors, family fun,
-children’s activities, live music, and refreshments.
+The festival will feature
+[over 50 local arts and crafts vendors](#artists),
+[family fun and children’s activities](#kids-activities),
+[live music](#music),
+[refreshments](#food-vendors), and a silent auction.
 
-Parking is limited, so attendees are encouraged to walk or cycle to the
-festival.
+Parking by the festival is limited, so attendees are encouraged to walk or 
+bike over if possible.
 
 <img src="img/vccw_hoops.jpg" class="img-responsive well">
 
@@ -46,14 +49,70 @@ festival.
 | noon | Roger Beck and the 29th Street Band | honored in 2005 by the [Texas Western Swing Hall of Fame](http://thewesternartists.com/twshof.htm) |
 |  1pm | Lunch with Danny | soft rock/southern country |
 |  2pm | Mooncharmer | McCallum High School's own hard rock/metal band |
-|  3pm | [Dan Rixon](https://www.facebook.com/Rixonmusic) | rock/pop/jazz |
+|  3pm | [Rixon](http://www.rixonmusic.com/) | rock/pop/jazz |
 |  4pm | [Jon Emery and the Red Hot Review](http://www.jonemery.com/) | hillbilly rock and roll |
 |  5pm | [Deeanne René](http://www.deannrene.com/) | rock and roll |
 {:.table}
 
 ### Artists
 
-Vendor list coming soon!
+[ArtByLinds](http://artbylinds.etsy.com) | handmade cards, stationery, and paper goods
+[Marta Pelrine-Bacon](http://www.martapelrinebacon.com) | stained glass
+[Best Friends Forever Pet Portraits](http://bestfriendsforeverpetportraits.blogspot.com/) | pet portraits
+[Hobo's Nickle](https://www.facebook.com/HobosNickel) | cigar box guitars
+[Handmade Austin Women](http://handmadeaustinwomen.com) | handmade jewlery and accessories
+[ArcheoModern](http://Archeomoderndesigns.com) | ancient inspirations, contemporary creations
+[Phishstuff](http://phishstuff.etsy.com) | lampwork beads and jewlery
+[Shannon Kors](http://sksurfgirl.etsy.com) | baby clothes
+[jpear Design](http://jpeardesign.etsy.com) | ceramics
+[Carol Bradley Designs](https://www.facebook.com/CarolBradleyDesigns) | hand-crafted casual jewelry with a rustic influence
+[White Loft](http://shopwhiteloft.com) | handmade growth charts
+[Sewn Joys](http://sewnjoys.etsy.com) | design dolls and unique gifts
+Dark Star Jewelry | jewelry
+[Sweet Sparrow Studio](http://facebook.com/sweetsparrowstudio) | handmade vintage inspired jewelry
+[Left Hand Studios](http://lefthandart.com) | Drew Mounce's painting
+[Stampin' Up - Kathleen Johnson](http://Kathleenstamps.stampinup.net) | handmade cards
+[Elementals](http://gems23rd.blogspot.com) | artisan crafted gemstone and precious metal jewelry
+Earth Art Austin | ceramics
+David Fox | tie dye clothing
+[Woman to Blame Tie Dyes](http://womantoblametiedyes.com) | tie dye clothing
+[Merchant Ship Collective](http://Mscleather.com) | handmade leather goods
+[Magpie's Trick](http://magpiestrick.com) | husband and wife collaboration of jewellery designers
+[Masterpieces by Michiel](http://masterpiecesbymichiel.com) | jewelry and glasswork
+[CarmenCanCreate](http://carmencancreate.com) | painting
+[CDQ Art - Connie Adcock](http://cdqart.com) | painting
+[Victrola Design](http://etsy.com/shop/victroladesign) | clothing
+[Ruffled Clothing](http://facebook.com/ruffledclothing) | jewelry and clothing
+[Sew Fun Bags](http://facebook.com/sewfunbags) | clothing and baby items
+[Stones Throw Studio](http://stonesthrowstudio.com) | jewelry
+[Elisa Alvarado](http://elisaalvarado.etsy.com) | paintings, crosses, assemblage and colorful unique art
+[Wicked Whatnots](http://wickedwhatnots.com) | jewelry and gifts
+[By Lillian](http://bylillian.com) | jewelry
+Nancy Willis | clothing and wall art
+[Violet Crown Soap Company](http://Violetcrownsoap.com) | hand-made soaps, lotions, and bath treats
+[Petite Pensieri](http://petitepensieri.etsy.com) | baby clothes
+[inviting](http://inviting.myshopify.com/) | letterpress cards
+[Loggerhead Creations](https://www.facebook.com/LoggerheadCreations) | terrariums
+Forrest Pettigrew | canned goods
+[Monster Dance Designs](http://monsterdancedesigns.com) | sandblaster glasswear
+Susan Prior | jewelry
+Glen Corser | wooden costers, lamps
+[Coral Reef Dreams](http://coralreefdreams.com) | ocean inspired jewelry
+Lisa Rosenthal | hummingbird feeders & journals
+[Saved Salvaged Sewn](http://facebook.com/savedsalvagedsewn) | refillable salvaged leather notebook covers
+Lesley Woods | mosaic pots, stepping stones
+[Third Coast Art Glass](http://thirdcoastartglass.blog.com) | art glass creations
+[David Dettmer](http://utpress.utexas.edu/index.php/books/dettex) | Editor of _The Texas Book Two More Profiles, History, and Reminiscences of the University_
+[Chaos Card Company](http://www.chaoscardcompany.com/) | printed clothing
+[Flameless Shirt](http://flamelessshirt.com) | printed men's shirts
+[Miz Tex Creations](http://facebook.com/MizTexCreations) | pet bandanas
+[Mimosa Screen Printing ](http://mimosascreenprinting.com) | art prints
+[Doug Naugle](http://dougnaugle.com) | acrylic paintings
+[tEChLECTIC](http://techlectic.com) | clocks from upcycled computer hardware
+[Medieval Moccasins](http://medievalmoccasins.com) | original handcrafted leather footwear
+[Stoneworks Pottery](http://etsy.com/shop/stoneworkspottery) | handmade pots
+[Zanny Adornments](http://facebook.com/zannyadornments.love) | jewelry
+{:.table}
 
 ### Kids Activities
 
