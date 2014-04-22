@@ -30,7 +30,10 @@ The festival will feature
 [refreshments](#food-vendors), and a silent auction.
 
 Parking by the festival is limited, so attendees are encouraged to walk or 
-bike over if possible.
+bike over if possible.  Brentwood Park is also near the Capital Metro
+[#5](http://www.capmetro.org/schedulemap.aspx?f1=005&s=1&d=1) and
+[#320](http://www.capmetro.org/schedulemap.aspx?f1=320&s=1&d=1)
+bus lines if you're coming from further away.
 
 <img src="img/vccw_hoops.jpg" class="img-responsive well">
 
