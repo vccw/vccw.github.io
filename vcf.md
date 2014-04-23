@@ -115,6 +115,7 @@ Lesley Woods | mosaic pots, stepping stones
 [Medieval Moccasins](http://medievalmoccasins.com) | original handcrafted leather footwear
 [Stoneworks Pottery](http://etsy.com/shop/stoneworkspottery) | handmade pots
 [Zanny Adornments](http://facebook.com/zannyadornments.love) | jewelry
+[Salvation Central](http://www.salvationcentral.com/) | stained glass & jewelry
 {:.table}
 
 ### Kids Activities
