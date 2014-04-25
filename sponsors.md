@@ -21,6 +21,7 @@ If you're interested in being a sponsor for the 2014 festival, please contact <v
 * [Barnstormer's Studio](http://www.barnstormersmusic.com/)
 * [Texas Kettlebell Academy](http://www.txkettlebell.com/)
 * [Snapology](http://www.snapology.com/)
+* [Enhanced Space](http://www.enhancedspace.com/)
 
 ### Silver Sponsors
 
