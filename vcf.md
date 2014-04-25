@@ -126,6 +126,7 @@ Lesley Woods | mosaic pots, stepping stones
 * Science/Activity/Craft Table &mdash; [Camp ¡Vámonos!](http://www.campvamonos.com/)
 * Giant Chess &mdash; [Revive Church](http://revivechurchtx.com/)
 * Face Painting &mdash; [Redeemer Lutheran Church](http://redeemer.net)
+* Eye Testing Booth &mdash; [North Austin Lions Club](http://northaustinlionsclub.org/)
 * Jugglers
 * Hula Hoops
 * Photobooth &mdash; [Ed's Photo Booth](http://www.edsphotobooth.com/)
