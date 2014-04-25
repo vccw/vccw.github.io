@@ -129,7 +129,6 @@ Lesley Woods | mosaic pots, stepping stones
 * Jugglers
 * Hula Hoops
 * Photobooth &mdash; [Ed's Photo Booth](http://www.edsphotobooth.com/)
-* Caricatures
 * Lego Brick Activity Table &mdash; [Snapology](http://snapology.com)
 * Stuffed Animal Petting Zoo &mdash; [The Stuffed Animal Rescue Foundation](http://thesarf.org/)
 
