@@ -127,7 +127,8 @@ Lesley Woods | mosaic pots, stepping stones
 * Giant Chess &mdash; [Revive Church](http://revivechurchtx.com/)
 * Face Painting &mdash; [Redeemer Lutheran Church](http://redeemer.net)
 * Eye Testing Booth &mdash; [North Austin Lions Club](http://northaustinlionsclub.org/)
-* Jugglers
+* Seed planting and facepainting &mdash; [Gardenheads](http://www.gardenheads.net/)
+* Jugglers &mdash; [Texas Juggling Society](http://www.juggling.place.org/)
 * Hula Hoops
 * Photobooth &mdash; [Ed's Photo Booth](http://www.edsphotobooth.com/)
 * Lego Brick Activity Table &mdash; [Snapology](http://snapology.com)
