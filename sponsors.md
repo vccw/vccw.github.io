@@ -23,6 +23,7 @@ If you're interested in being a sponsor for the 2014 festival, please contact <v
 * [Snapology](http://www.snapology.com/)
 * [Enhanced Space](http://www.enhancedspace.com/)
 * [Mimosa Screen Printing](http://www.mimosascreenprinting.com/)
+* [Native Edge Landscape](http://nativeedgelandscape.com/)
 
 ### Silver Sponsors
 
