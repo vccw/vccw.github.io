@@ -32,6 +32,7 @@ If you're interested in being a sponsor for the 2014 festival, please contact <v
 * [Texas DPS Credit Union](http://www.txdpscu.org/)
 * [Ed's Photo Booth](http://www.edsphotobooth.com/)
 * [The Cloth Pocket](https://www.facebook.com/theclothpocket)
+* [Blue Guitar Photography](https://www.facebook.com/BlueGuitarPhotography)
 
 ### Bronze Sponsors
 
