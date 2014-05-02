@@ -44,3 +44,4 @@ If you're interested in being a sponsor for the 2014 festival, please contact <v
 * TRP Construction Group
 * [Terra Toys](http://www.terratoys.com/)
 * [Five Star Interiors](https://www.facebook.com/pages/Five-Star-Interiors/155474834491448)
+* [Freytag's Florist](http://www.freytagsflorist.com/)
