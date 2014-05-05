@@ -3,19 +3,9 @@ layout: default
 title: Home Page
 ---
 
-Less than a month away!  May 3rd is the [2014 Violet Crown Festival](vcf.html).
-
-### Want to Sponsor the Fest?
-
-We're looking for local businesses to help sponsor the Violet Crown Festival. Contact <vccwpresident@yahoo.com>
-to get a copy of our sponsor packet. Sponsor benefits can include having a listing on the VCCW website, including
-your logo on our festival materials, and showing your products or services at the festival.
-
-### Volunteers Wanted
-
-We're looking for people to help in the organization of the spring
-festival, as well as running all the various activities and events.  Interested in volunteering?
-Send email to <vccwpresident@yahoo.com>
+Thanks to everyone who attended the [2014 Violet Crown Festival](vcf.html).  We had a great turnout on a nice,
+but hot, Spring day.  Now, it's time to turn some of our proceeds into community art projects for Brentwood
+and Crestview; keep watching for details on what we're sponsoring next.
 
 <br>
 
