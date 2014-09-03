@@ -7,11 +7,11 @@ title: Violet Crown Arts Festival (December 2014)
 	<div class="row">
 		<div class="col-md-8">
 			<h1>Violet Crown Arts Festival</h1>
-			<h3>
+			<h2>
 				Saturday and Sunday,<br>
 				December 6th-7th, 2014,<br>
 				10AM to 5PM
-			</h3>
+			</h2>
 		</div>
 		<div class="col-md-4"><img src="img/vcarts_crown.png" class="img-responsive"></div>
 	</div>
