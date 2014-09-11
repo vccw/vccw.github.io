@@ -3,9 +3,16 @@ layout: default
 title: Home Page
 ---
 
-We're in preparation for the <a href="artsfest.html">Violet Crown Arts Festival</a>, happening this 
-December 6th and 7th.  Details on the location and the application to be a featured artist 
-will be posted soon.
+# Violet Crown Arts Fest Announced!
+
+We're pleased to announce our <a href="artsfest.html">2014 Violet Crown Arts Festival</a>,
+happening on the first weekend in December, the 6th and 7th, at Brentwood Elementary.
+
+If you'd like to exhibit at the festival as an artist, please visit our
+<a href="artsfest_apply.html">festival guidelines and application page</a> for more
+information. Our first submission deadline is October 20th, with artists being announced
+starting on November 1st.  Applications may be taken after that date on as space-available
+basis.
 
 <br>
 
