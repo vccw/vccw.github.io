@@ -5,7 +5,7 @@ title: Violet Crown Arts Festival (December 2014)
 
 <div class="container">
 	<div class="row">
-		<div class="col-md-4"><img src="img/Accordion player 400x496.png" title="Many thanks to Jean Graham mosaics master for the use of images" class="img-responsive"></div>
+		<div class="col-md-4"><img src="img/Accordion player 400x496.png" title="Many thanks to artist Jean Graham for the use of images from the Wall of Welcome" class="img-responsive"></div>
 		<div class="col-md-4">
 			<h1>2014 Violet Crown Arts Festival</h1>
 			<h2>
