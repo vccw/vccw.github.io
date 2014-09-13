@@ -29,10 +29,11 @@ December, VCCW also  has sponsored art projects in the community.  These include
 ## Board Members
 
 * Carla Guthrie (President)
-* Bradley Linscomb (President-Elect)
-* Mona Prater (Past President)
 * Angie Ward (Treasurer)
 * Sue Minear (Secretary)
 * Ben Combee (Webmaster)
+* Bradley Linscomb
+* Mona Prater
 * Laura Cruzada
 * Lori Gieger
+* Mike McChesney
