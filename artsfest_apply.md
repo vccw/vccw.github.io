@@ -37,7 +37,9 @@ non-refundable application fee.
 
 Deadline for entry has been extended to October 31, 2014.
 
-Notification of acceptance will be emailed by Oct. 31st.
+Notification of acceptance for submissions before
+October 20th will be emailed by Oct. 31st.  Notifications for
+entries before October 31st will be emailed by November 10th.
 If not accepted, your booth rental will be refunded.
 Do not phone for confirmation.
 
