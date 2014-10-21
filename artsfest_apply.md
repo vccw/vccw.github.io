@@ -35,7 +35,7 @@ non-refundable application fee.
 
 ## Timeline
 
-Deadline for entry is Oct. 20, 2014
+Deadline for entry has been extended to October 31, 2014.
 
 Notification of acceptance will be emailed by Oct. 31st.
 If not accepted, your booth rental will be refunded.
