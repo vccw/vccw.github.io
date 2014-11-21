@@ -77,66 +77,68 @@ title: Violet Crown Arts Festival (December 2014)
 
 		<h3>Artists</h3>
 
-* [3 Doggs Design](http://3doggsdesigns.etsy.com)
-* [ADAPT](http://www.adapt.org)
-* [Alley Artisan Designs](http://www.etsy.com/shop/alleyartisandesigns)
-* [ArcheoModern Designs](http://www.archeomoderndesigns.com)
-* [Artsee Pics](http://www.artseepics.etsy.com)
-* [Blu Heron Photo](http://www.rondessain.com)
-* [BlueBamboo Crafts](http://www.etsy.com/shop/bluebamboo)
-* [Bright- Eyed Birdie](http://www.brighteyedbirdie.com)
-* [by Lillian](http://www.bylillian.com)
-* [Carly Weaver](http://www.carlyweaver.com)
-* [Carol Bradley Designs](http://www.carolbradleydesigns.com)
-* [Cat's Customs: Contemporary Tie Dye](http://www.facebook.com/catscustomtiedye)
-* [Chaos Card Company](http://www.chaoscardcompany.com)
-* [Dark Star Jewelry Designs](http://www.darkstarjewelrydesigns.com)
-* [Deadly Creative](http://www.deadlycreative.com)
-* [Deb Wight Studios](http://www.debwightstudios.com)
-* [Design Make Art](http://www.designmakeart.com)
-* [Elementals](http://gems23rd.blogspot.com)
-* [Flameless Shirts](http://www.flamelessshirt.com)
-* Fox On First
-* [Garden Gizmos](http://www.facebook.com/gardengizmos.org)
-* Genevieve Duncan
-* [Granny Good Fish](http://www.grannygoodfish.com)
-* [Green Dog Studio](http://www.jimbobsalazar.blogspot.com)
-* [Hidden Dragon Art](http://www.hiddendragonart.com)
-* [Hoops By Huilabaloola](http://www.hoopsbyhuilabaloola.com)
-* [J. Bennett Gems](http://www.etsy.com/shop/jbennettgems)
-* [Kath](http://www.kathhamilton.com)
-* [LadyAlchemy 13](http://www.etsy.com/shop/ladyalchemy13)
-* [Lindsay Designs](http://www.lindsay-designs.net)
-* [Master Pieces By Michiel](http://www.masterpiecesbymichiel.com)
-* Maya Weaver
-* Medieval Rune Casting
-* [Meditative Massage And Yoga](http://www.meditativemassageandyoga.com)
-* [Meeshle Art](http://www.meeshle.com)
-* Mettle Works Studios
-* Monkey Volt
-* [Monster Dance Designs](http://www.monsterdancedesigns.com)
-* Mudslinger Pottery
-* [Muggs Clay Studio](http://www.etsy.com/shop/muggsclaystudio)
-* [Natural Magick Shop](http://www.naturalmagickshop.com)
-* [Nature's Key Botanicals](http://natureskeybotanicals.etsy.com)
-* [Pigsey Art](http://www.pigseyart.com)
-* Portable Soul Studio
-* [Radiances](http://radiances.vpweb.com)
-* Rocks Around The Clock
-* [Sew Kors](http://sksfurgirl.etsy.com)
-* [Sewn Joys](http://sewnjoys.etsy.com)
-* Sheila Slevin Ceramics
-* [Sporecloud](http://www.sporecloud.com)
-* [Squidrabbit Artz](http://www.squidrabbit.com)
-* [Stones Throw Studio](http://www.stonesthrowstudio.com)
-* [Sweet Thyme Design](http://www.etsy.com/shop/sweetthymedesign)
-* [techlectic](http://www.techlectic.com)
-* [Terri's Glass Creations](http://www.terrisglasscreations.com)
-* [Third Coast Art Glass](http://thirdcoastartglass.blog.com)
-* [Twin Creek Studio](http://www.artist123.com)
-* [Uproar Jewelry](http://www.uproarjewelry.com)
-* [Victrola Design](http://www.etsy.com/shop/victroladesign)
-* [Willow Tree Works](http://willowtreeworks.wordpress.com)
+<ul>
+<li><a href="http://3doggsdesigns.etsy.com">3 Doggs Design</a>
+<li><a href="http://www.adapt.org">ADAPT</a>
+<li><a href="http://www.etsy.com/shop/alleyartisandesigns">Alley Artisan Designs</a>
+<li><a href="http://www.archeomoderndesigns.com">ArcheoModern Designs</a>
+<li><a href="http://www.artseepics.etsy.com">Artsee Pics</a>
+<li><a href="http://www.rondessain.com">Blu Heron Photo</a>
+<li><a href="http://www.etsy.com/shop/bluebamboo">BlueBamboo Crafts</a>
+<li><a href="http://www.brighteyedbirdie.com">Bright- Eyed Birdie</a>
+<li><a href="http://www.bylillian.com">by Lillian</a>
+<li><a href="http://www.carlyweaver.com">Carly Weaver</a>
+<li><a href="http://www.carolbradleydesigns.com">Carol Bradley Designs</a>
+<li><a href="http://www.facebook.com/catscustomtiedye">Cat's Customs: Contemporary Tie Dye</a>
+<li><a href="http://www.chaoscardcompany.com">Chaos Card Company</a>
+<li><a href="http://www.darkstarjewelrydesigns.com">Dark Star Jewelry Designs</a>
+<li><a href="http://www.deadlycreative.com">Deadly Creative</a>
+<li><a href="http://www.debwightstudios.com">Deb Wight Studios</a>
+<li><a href="http://www.designmakeart.com">Design Make Art</a>
+<li><a href="http://gems23rd.blogspot.com">Elementals</a>
+<li><a href="http://www.flamelessshirt.com">Flameless Shirts</a>
+<li>Fox On First
+<li><a href="http://www.facebook.com/gardengizmos.org">Garden Gizmos</a>
+<li>Genevieve Duncan
+<li><a href="http://www.grannygoodfish.com">Granny Good Fish</a>
+<li><a href="http://www.jimbobsalazar.blogspot.com">Green Dog Studio</a>
+<li><a href="http://www.hiddendragonart.com">Hidden Dragon Art</a>
+<li><a href="http://www.hoopsbyhuilabaloola.com">Hoops By Huilabaloola</a>
+<li><a href="http://www.etsy.com/shop/jbennettgems">J. Bennett Gems</a>
+<li><a href="http://www.kathhamilton.com">Kath</a>
+<li><a href="http://www.etsy.com/shop/ladyalchemy13">LadyAlchemy 13</a>
+<li><a href="http://www.lindsay-designs.net">Lindsay Designs</a>
+<li><a href="http://www.masterpiecesbymichiel.com">Master Pieces By Michiel</a>
+<li>Maya Weaver
+<li>Medieval Rune Casting
+<li><a href="http://www.meditativemassageandyoga.com">Meditative Massage And Yoga</a>
+<li><a href="http://www.meeshle.com">Meeshle Art</a>
+<li>Mettle Works Studios
+<li>Monkey Volt
+<li><a href="http://www.monsterdancedesigns.com">Monster Dance Designs</a>
+<li>Mudslinger Pottery
+<li><a href="http://www.etsy.com/shop/muggsclaystudio">Muggs Clay Studio</a>
+<li><a href="http://www.naturalmagickshop.com">Natural Magick Shop</a>
+<li><a href="http://natureskeybotanicals.etsy.com">Nature's Key Botanicals</a>
+<li><a href="http://www.pigseyart.com">Pigsey Art</a>
+<li>Portable Soul Studio
+<li><a href="http://radiances.vpweb.com">Radiances</a>
+<li>Rocks Around The Clock
+<li><a href="http://sksfurgirl.etsy.com">Sew Kors</a>
+<li><a href="http://sewnjoys.etsy.com">Sewn Joys</a>
+<li>Sheila Slevin Ceramics
+<li><a href="http://www.sporecloud.com">Sporecloud</a>
+<li><a href="http://www.squidrabbit.com">Squidrabbit Artz</a>
+<li><a href="http://www.stonesthrowstudio.com">Stones Throw Studio</a>
+<li><a href="http://www.etsy.com/shop/sweetthymedesign">Sweet Thyme Design</a>
+<li><a href="http://www.techlectic.com">techlectic</a>
+<li><a href="http://www.terrisglasscreations.com">Terri's Glass Creations</a>
+<li><a href="http://thirdcoastartglass.blog.com">Third Coast Art Glass</a>
+<li><a href="http://www.artist123.com">Twin Creek Studio</a>
+<li><a href="http://www.uproarjewelry.com">Uproar Jewelry</a>
+<li><a href="http://www.etsy.com/shop/victroladesign">Victrola Design</a>
+<li><a href="http://willowtreeworks.wordpress.com">Willow Tree Works</a>
+</ul>
 
 		<p>There are still some slots available.  If you wish to exhibit at the festival,
 		please <a href="artsfest_apply.html">visit our festival guidelines and application page</a>.
