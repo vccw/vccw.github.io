@@ -77,10 +77,69 @@ title: Violet Crown Arts Festival (December 2014)
 
 		<h3>Artists</h3>
 
-		<p>Artist applications are now open!  If you wish to exhibit at the festival,
+* [3 Doggs Design](http://3doggsdesigns.etsy.com)
+* [ADAPT](http://www.adapt.org)
+* [Alley Artisan Designs](http://www.etsy.com/shop/alleyartisandesigns)
+* [ArcheoModern Designs](http://www.archeomoderndesigns.com)
+* [Artsee Pics](http://www.artseepics.etsy.com)
+* [Blu Heron Photo](http://www.rondessain.com)
+* [BlueBamboo Crafts](http://www.etsy.com/shop/bluebamboo)
+* [Bright- Eyed Birdie](http://www.brighteyedbirdie.com)
+* [by Lillian](http://www.bylillian.com)
+* [Carly Weaver](http://www.carlyweaver.com)
+* [Carol Bradley Designs](http://www.carolbradleydesigns.com)
+* [Cat's Customs: Contemporary Tie Dye](http://www.facebook.com/catscustomtiedye)
+* [Chaos Card Company](http://www.chaoscardcompany.com)
+* [Dark Star Jewelry Designs](http://www.darkstarjewelrydesigns.com)
+* [Deadly Creative](http://www.deadlycreative.com)
+* [Deb Wight Studios](http://www.debwightstudios.com)
+* [Design Make Art](http://www.designmakeart.com)
+* [Elementals](http://gems23rd.blogspot.com)
+* [Flameless Shirts](http://www.flamelessshirt.com)
+* Fox On First
+* [Garden Gizmos](http://www.facebook.com/gardengizmos.org)
+* Genevieve Duncan
+* [Granny Good Fish](http://www.grannygoodfish.com)
+* [Green Dog Studio](http://www.jimbobsalazar.blogspot.com)
+* [Hidden Dragon Art](http://www.hiddendragonart.com)
+* [Hoops By Huilabaloola](http://www.hoopsbyhuilabaloola.com)
+* [J. Bennett Gems](http://www.etsy.com/shop/jbennettgems)
+* [Kath](http://www.kathhamilton.com)
+* [LadyAlchemy 13](http://www.etsy.com/shop/ladyalchemy13)
+* [Lindsay Designs](http://www.lindsay-designs.net)
+* [Master Pieces By Michiel](http://www.masterpiecesbymichiel.com)
+* Maya Weaver
+* Medieval Rune Casting
+* [Meditative Massage And Yoga](http://www.meditativemassageandyoga.com)
+* [Meeshle Art](http://www.meeshle.com)
+* Mettle Works Studios
+* Monkey Volt
+* [Monster Dance Designs](http://www.monsterdancedesigns.com)
+* Mudslinger Pottery
+* [Muggs Clay Studio](http://www.etsy.com/shop/muggsclaystudio)
+* [Natural Magick Shop](http://www.naturalmagickshop.com)
+* [Nature's Key Botanicals](http://natureskeybotanicals.etsy.com)
+* [Pigsey Art](http://www.pigseyart.com)
+* Portable Soul Studio
+* [Radiances](http://radiances.vpweb.com)
+* Rocks Around The Clock
+* [Sew Kors](http://sksfurgirl.etsy.com)
+* [Sewn Joys](http://sewnjoys.etsy.com)
+* Sheila Slevin Ceramics
+* [Sporecloud](http://www.sporecloud.com)
+* [Squidrabbit Artz](http://www.squidrabbit.com)
+* [Stones Throw Studio](http://www.stonesthrowstudio.com)
+* [Sweet Thyme Design](http://www.etsy.com/shop/sweetthymedesign)
+* [techlectic](http://www.techlectic.com)
+* [Terri's Glass Creations](http://www.terrisglasscreations.com)
+* [Third Coast Art Glass](http://thirdcoastartglass.blog.com)
+* [Twin Creek Studio](http://www.artist123.com)
+* [Uproar Jewelry](http://www.uproarjewelry.com)
+* [Victrola Design](http://www.etsy.com/shop/victroladesign)
+* [Willow Tree Works](http://willowtreeworks.wordpress.com)
+
+		<p>There are still some slots available.  If you wish to exhibit at the festival,
 		please <a href="artsfest_apply.html">visit our festival guidelines and application page</a>.
-		Once we've accepted our artists, they'll be listed here so you can see who will
-		be selling their works.</p>
 
 	</div></div>
 
