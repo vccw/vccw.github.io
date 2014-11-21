@@ -90,7 +90,7 @@ title: Violet Crown Arts Festival (December 2014)
 <li><a href="http://www.bylillian.com">by Lillian</a></li>
 <li><a href="http://www.carlyweaver.com">Carly Weaver</a></li>
 <li><a href="http://www.carolbradleydesigns.com">Carol Bradley Designs</a></li>
-<li><a href="http://www.facebook.com/catscustomtiedye">Cat's Customs: Contemporary Tie Dye</a></li>
+<li><a href="http://www.facebook.com/catscustomstiedye">Cat's Customs: Contemporary Tie Dye</a></li>
 <li><a href="http://www.chaoscardcompany.com">Chaos Card Company</a></li>
 <li><a href="http://www.darkstarjewelrydesigns.com">Dark Star Jewelry Designs</a></li>
 <li><a href="http://www.deadlycreative.com">Deadly Creative</a></li>
@@ -104,15 +104,15 @@ title: Violet Crown Arts Festival (December 2014)
 <li><a href="http://www.grannygoodfish.com">Granny Good Fish</a></li>
 <li><a href="http://www.jimbobsalazar.blogspot.com">Green Dog Studio</a></li>
 <li><a href="http://www.hiddendragonart.com">Hidden Dragon Art</a></li>
-<li><a href="http://www.hoopsbyhuilabaloola.com">Hoops By Huilabaloola</a></li>
+<li><a href="https://www.facebook.com/pages/Hoops-by-Hullaba-Loola/103331009703181">Hoops by Hullaba Loola</a></li>
 <li><a href="http://www.etsy.com/shop/jbennettgems">J. Bennett Gems</a></li>
 <li><a href="http://www.kathhamilton.com">Kath</a></li>
 <li><a href="http://www.etsy.com/shop/ladyalchemy13">LadyAlchemy 13</a></li>
+<li><a href="http://www.lindsay-designs.net">Lindsay Designs</a></li>
 </ul>
 </div>
 <div class="col-xs-4">
 <ul>
-<li><a href="http://www.lindsay-designs.net">Lindsay Designs</a></li>
 <li><a href="http://www.masterpiecesbymichiel.com">Master Pieces By Michiel</a></li>
 <li>Maya Weaver</li>
 <li>Medieval Rune Casting</li>
@@ -129,7 +129,7 @@ title: Violet Crown Arts Festival (December 2014)
 <li>Portable Soul Studio</li>
 <li><a href="http://radiances.vpweb.com">Radiances</a></li>
 <li>Rocks Around The Clock</li>
-<li><a href="http://sksfurgirl.etsy.com">Sew Kors</a></li>
+<li><a href="https://www.etsy.com/shop/sksurfgirl">Sew Kors</a></li>
 <li><a href="http://sewnjoys.etsy.com">Sewn Joys</a></li>
 <li>Sheila Slevin Ceramics</li>
 <li><a href="http://www.sporecloud.com">Sporecloud</a></li>
@@ -146,9 +146,6 @@ title: Violet Crown Arts Festival (December 2014)
 </ul>
 </div>
 
-		<p>There are still some slots available.  If you wish to exhibit at the festival,
-		please <a href="artsfest_apply.html">visit our festival guidelines and application page</a>.</p>
-
 	</div></div>
 
 	<div class="row"><div class="col-md-8">
@@ -156,6 +153,9 @@ title: Violet Crown Arts Festival (December 2014)
 		<h3>Contact</h3>
 
 		<p>For questions about the festival, please mail <a href="mailto:violetcrownartsfestival@gmail.com">violetcrownartsfestival@gmail.com</a>.</p>
+
+		<p>There are still some slots available.  If you wish to exhibit at the festival,
+		please <a href="artsfest_apply.html">visit our festival guidelines and application page</a>.</p>
 
 	</div></div>
 </div>
