@@ -64,7 +64,7 @@ title: Violet Crown Arts Festival (December 2014)
 
 		<h3>Music</h3>
 
-		<div class="col-md-4">
+		<div class="col-md-5">
 		<p>Saturday</p>
 		<ul>
 		<li>10:00 - 11:00  The Telephone Company</li>
@@ -84,7 +84,7 @@ title: Violet Crown Arts Festival (December 2014)
 		</ul>
 		</div>
 
-		<div class="col-md-4">
+		<div class="col-md-3">
 			<img src="img/juggler 400x460.png" title='Red Rider, the neighborhood juggler, as depicted on the Wall of Welcome'>
 		</div>
 
