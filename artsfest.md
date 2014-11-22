@@ -20,7 +20,7 @@ title: Violet Crown Arts Festival (December 2014)
 	<div class="row"><p><br><br></p></div>
 	<div class="row">
 
-		<div class="col-md-3">
+		<div class="col-md-8">
 
 			<h3>The Festival</h3>
 
@@ -35,10 +35,6 @@ title: Violet Crown Arts Festival (December 2014)
 			for hand made gifts and great quality art, and support local cottage
 			businesses.  It's always free admission for the whole family!</p>
 
-		</div>
-
-		<div class="col-md-5">
-			<img src="img/juggler 400x460.png" title='Red Rider, the neighborhood juggler, as depicted on the Wall of Welcome'>
 		</div>
 
 	</div>
@@ -68,8 +64,31 @@ title: Violet Crown Arts Festival (December 2014)
 
 		<h3>Music</h3>
 
-		<p>We'll have live music on both days of the festival.  Come back closed to the
-		event to see who's playing.</p>
+		<div class="col-md-4">
+		<p>Saturday</p>
+
+		<ul>
+		<li>10:00 - 11:00  The Telephone Company</li>
+		<li>11:00 - 12:00  Jungle Jill &amp; the Jaybirds</li>
+		<li>12:30 - 1:30  Kathy &amp; the Kilowatts</li>
+		<li>1:30 - 2:00  Dead Music Capital Band</li>
+		<li>2:00 - 3:00  We Are Blood Bays</li>
+		<li>3:30 - 5:00  Paul Klemperer</li>
+
+		<p>Sunday</p>
+		<ul>
+		<li>10:00 - 11:00  Voices of Light</li>
+		<li>11:00 - 12:00  Feet First</li>
+		<li>12:30 - 1:30  Shaidri &amp; Ezra</li>
+		<li>2:00 - 3:00  Michelle Stewart</li>
+		<li>3:30 - 5:00  Diana Cantu Band</li>
+		</ul>
+
+		</div>
+
+		<div class="col-md-4">
+			<img src="img/juggler 400x460.png" title='Red Rider, the neighborhood juggler, as depicted on the Wall of Welcome'>
+		</div>
 
 	</div></div>
 
