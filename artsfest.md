@@ -66,7 +66,6 @@ title: Violet Crown Arts Festival (December 2014)
 
 		<div class="col-md-4">
 		<p>Saturday</p>
-
 		<ul>
 		<li>10:00 - 11:00  The Telephone Company</li>
 		<li>11:00 - 12:00  Jungle Jill &amp; the Jaybirds</li>
@@ -74,7 +73,7 @@ title: Violet Crown Arts Festival (December 2014)
 		<li>1:30 - 2:00  Dead Music Capital Band</li>
 		<li>2:00 - 3:00  We Are Blood Bays</li>
 		<li>3:30 - 5:00  Paul Klemperer</li>
-
+		</ul>
 		<p>Sunday</p>
 		<ul>
 		<li>10:00 - 11:00  Voices of Light</li>
@@ -83,7 +82,6 @@ title: Violet Crown Arts Festival (December 2014)
 		<li>2:00 - 3:00  Michelle Stewart</li>
 		<li>3:30 - 5:00  Diana Cantu Band</li>
 		</ul>
-
 		</div>
 
 		<div class="col-md-4">
