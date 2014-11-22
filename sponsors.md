@@ -13,6 +13,7 @@ in December, please contact <vccwpresident@yahoo.com>.
 
 ### Gold Sponsors
 
+* [Wheatsville Food Co-Op](http://www.wheatsville.coop/)
 * [Grande Communications](http://www.grandecom.com/)
 * [Burnet Road Storage](http://www.burnetroadstorage.com/)
 * [Crestview IGA](https://www.facebook.com/pages/Crestview-Minimax-IGA/102220176512681)
