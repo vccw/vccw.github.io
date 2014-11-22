@@ -117,7 +117,7 @@ title: Violet Crown Arts Festival (December 2014)
 <li>Maya Weaver</li>
 <li>Medieval Rune Casting</li>
 <li><a href="http://www.meditativemassageandyoga.com">Meditative Massage And Yoga</a></li>
-<li><a href="http://www.meeshle.com">Meeshle Art</a></li>
+<li><a href="http://www.meeshle.com">MEESHLE Art</a></li>
 <li>Mettle Works Studios</li>
 <li>Monkey Volt</li>
 <li><a href="http://www.monsterdancedesigns.com">Monster Dance Designs</a></li>
