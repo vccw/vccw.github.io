@@ -102,7 +102,7 @@ title: Violet Crown Arts Festival (December 2014)
 <li><a href="http://www.artseepics.etsy.com">Artsee Pics</a></li>
 <li><a href="http://www.etsy.com/shop/bluebamboo">BlueBamboo Crafts</a></li>
 <li><a href="http://www.brighteyedbirdie.com">Bright-Eyed Birdie</a></li>
-<li><a href="http://bunkybows.com">Bunky Bows<a> (Sunday only)</li>
+<li><a href="http://bunkybows.com">Bunky Bows</a> (Sunday only)</li>
 <li><a href="http://www.bylillian.com">by Lillian</a></li>
 <li><a href="http://www.carlyweaver.com">Carly Weaver</a></li>
 <li><a href="http://www.carolbradleydesigns.com">Carol Bradley Designs</a></li>
