@@ -62,7 +62,8 @@ Security will be provided overnight Saturday.
 
 ## Application
 
-<script type="text/javascript" src="http://form.jotform.us/jsform/42464822469159"></script>
+Applications are now closed for the 2014 festival.
+<!-- script type="text/javascript" src="http://form.jotform.us/jsform/42464822469159"></script -->
 
 ## Questions?
 
