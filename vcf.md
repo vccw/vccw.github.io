@@ -4,7 +4,8 @@ title: Violet Crown Festival (Spring 2015)
 ---
 <div class="container">
 	<div class="row">
-		<div class="col-md-8">
+		<div class="col-md-2"><img src="img/Crown-facebook.jpg" class="img-responsive"></div>
+		<div class="col-md-6">
 			<h1>Violet Crown Festival</h1>
 			<h2>
 				Saturday, May 2nd, 2015 <br>
@@ -12,7 +13,6 @@ title: Violet Crown Festival (Spring 2015)
 				<a href="https://goo.gl/maps/xov1S">Brentwood Elementary School</a>
 			</h2>
 		</div>
-		<div class="col-md-4"><img src="img/Crown-facebook.jpg" class="img-responsive"></div>
 	</div>
 </div>
 
