@@ -27,15 +27,17 @@ To get up-to-date information, check the [Violet Crown Festival page on Facebook
 
 ### Food Vendors
 
-TBD
+If you're interested in running a food truck at the festival, contact
+[Mike McChesney via email](mailto:mcchesneym@vmware.com).
 
 ### Music
 
-TBD
+We're currently booking bands for the festival.  Please contact [Mona Prater via email](mailto:beadornment@Hotmail.com).
 
 ### Artists
 
-Potential artists should contact Mona Prater.
+Potential artists should contact [Mona Prater via email](mailto:beadornment@Hotmail.com) with 
+"Violet Crown App" in the subject line.
 
 ### Kids Activities
 
@@ -50,4 +52,4 @@ TBD
 
 ### Previous Years
 
-Learn about our [2014 Violet Crown Festival](vcf_2013.html) and [2013 Violet Crown Festival](vcf_2013.html).
+Learn about our [2014 Violet Crown Festival](vcf_2014.html) and [2013 Violet Crown Festival](vcf_2013.html).
