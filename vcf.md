@@ -4,7 +4,7 @@ title: Violet Crown Festival (Spring 2015)
 ---
 <div class="container">
 	<div class="row">
-		<div class="col-md-2"><img src="img/Crown-facebook.jpg" class="img-responsive"></div>
+		<div class="col-md-2"><img src="img/VCF_Logo_2014_sm.png" class="img-responsive"></div>
 		<div class="col-md-6">
 			<h1>Violet Crown Festival</h1>
 			<h2>
