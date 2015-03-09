@@ -4,7 +4,7 @@ title: About VCCW
 ---
 # About Violet Crown Community Works
 
-<img src="img/vccw_urban_patchwork_shirts.jpg" class="img-responsive well">
+<img src="img/vccw-small-2014.png" class="img-responsive well">
 
 Violet Crown Community Works is a 501(c)(3) nonprofit organization based in
 Austin, Texas, helping build and sustain community in
