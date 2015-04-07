@@ -25,9 +25,13 @@ in May, please contact <vccwpresident@yahoo.com>.
 
 * [Stepping Stone School](http://www.steppingstoneschool.com/)
 
+{% comment %} 
+* [Texas DPS Credit Union](http://www.txdpscu.org/)
+{% endcomment %} 
+
 ### Bronze Sponsors
 
-Your name here!
+* [Lightcrafters, Inc.](https://www.lightcrafters.com)
 
 ### Friends of Violet Crown Community
 

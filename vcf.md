@@ -24,15 +24,27 @@ There’s no better way to enjoy a spring Saturday than by spending it at the
 Violet Crown Festival. Admission is free.
 
 To get up-to-date information, check the [Violet Crown Festival page on Facebook](https://www.facebook.com/VioletCrownFestival).
+We are making frequent updates there with announcements of artists and activities.
 
 ### Food Vendors
 
-If you're interested in running a food truck at the festival, contact
-[Mike McChesney via email](mailto:mcchesneym@vmware.com).
+* VCCW Domino Dogs (Hot Dogs and Sausage Wraps)
+* [Amy's Ice Creams](http://www.amysicecreams.com)
+* [Snowie Shaved Ice](http://www.austinshavedice.com)
+* [Jack Hates Coffee](http://www.jackhatescoffee.com)
+
+with more to come!
 
 ### Music
 
-We're currently booking bands for the festival.  Please contact [Mona Prater via email](mailto:beadornment@Hotmail.com).
+| 10am | Lunch with Danny | soft rock/southern country |
+| 11am | [Jungle Jill and the Jaybirds](http://www.myspace.com/junglejilljaybirds) | entertainment for kids of all ages |
+| noon | Roger Beck and the 29th Street Band | honored in 2005 by the [Texas Western Swing Hall of Fame](http://thewesternartists.com/twshof.htm) |
+|  1pm | [Jamie Lynn](http://www.jamielynnbellydance.com/) | belly dancer |
+|  2pm | [Deeanne René](http://www.deannrene.com/) | rock and roll |
+|  3pm | [The Light Upstairs](http://thelightupstairsband.com) | electic folk duo |
+|  4pm | Feet First | neighborhood rock |
+{:.table}
 
 ### Artists
 
@@ -41,7 +53,7 @@ Potential artists should contact [Mona Prater via email](mailto:beadornment@Hotm
 
 ### Kids Activities
 
-TBD
+To be listed soon!
 
 ### Community Groups
 
