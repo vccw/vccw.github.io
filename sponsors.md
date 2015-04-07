@@ -24,6 +24,7 @@ in May, please contact <vccwpresident@yahoo.com>.
 ### Silver Sponsors
 
 * [Stepping Stone School](http://www.steppingstoneschool.com/)
+* [Barnstormer's Studio](http://www.barnstormersmusic.com/)
 
 {% comment %} 
 * [Texas DPS Credit Union](http://www.txdpscu.org/)
