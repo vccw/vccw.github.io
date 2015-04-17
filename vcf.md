@@ -29,7 +29,7 @@ We are making frequent updates there with announcements of artists and activitie
 ### Food Vendors
 
 * VCCW Domino Dogs (Hot Dogs and Sausage Wraps)
-* [Fire and Slice Pizza](http://fireandslicepizza.com/)
+* [Fire and Slice Pizza](http://www.fireandsliceaustin.com/)
 * [Fork and Taco](http://forkandtaco.com/)
 * [Amy's Ice Creams](http://www.amysicecreams.com)
 * [Snowie Shaved Ice](http://www.austinshavedice.com)
