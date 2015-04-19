@@ -32,7 +32,7 @@ We are making frequent updates there with announcements of artists and activitie
 * [Fire and Slice Pizza](http://www.fireandsliceaustin.com/)
 * [Fork and Taco](http://forkandtaco.com/)
 * [Amy's Ice Creams](http://www.amysicecreams.com)
-* [Snowie Shaved Ice](http://www.austinshavedice.com)
+* [Snowie Shaved Ice](http://austinshavediceco.com)
 * [Jack Hates Coffee](http://www.jackhatescoffee.com)
 
 with more to come!
