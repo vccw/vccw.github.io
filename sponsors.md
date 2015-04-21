@@ -50,8 +50,6 @@ in May, please contact <vccwpresident@yahoo.com>.
     <a href="http://www.tacodeli.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-tacodeli.png" alt="Tacodeli" title=""></a>
 </div>
 </div>
-</div><!-- col-md-12 -->
-</div><!-- row -->
 </div><!-- container -->
 
 ### Silver Sponsors
