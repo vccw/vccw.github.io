@@ -18,22 +18,32 @@ in May, please contact <vccwpresident@yahoo.com>.
 * [Crestview IGA](https://www.facebook.com/pages/Crestview-Minimax-IGA/102220176512681)
 * [Snapology Austin](http://austin.snapology.com/)
 * [Native Edge Landscape](http://nativeedgelandscape.com/)
-* [Brentwood Neighborhood Association](http://brentwoodaustin.blogspot.com/)
 * [Juice Homes - John Dunham](http://juicehomes.com/idx/?idx-q-ListingAgentID%3C0%3E=491811)
+* [Jump! Gymnastics](http://www.jump-austin.com/)
+* [Dave's Ultimate Automotive](http://www.davesultimateautomotive.com/)
+* [Austin Chronicle](http://www.austinchronicle.com/)
+* [Tacodeli](http://www.tacodeli.com/)
 
 ### Silver Sponsors
 
+* [Brentwood Neighborhood Association](http://brentwoodaustin.blogspot.com/)
 * [Stepping Stone School](http://www.steppingstoneschool.com/)
 * [Barnstormer's Studio](http://www.barnstormersmusic.com/)
-
-{% comment %} 
 * [Texas DPS Credit Union](http://www.txdpscu.org/)
-{% endcomment %} 
+* [Sparkle Stories](http://www.sparklestories.com/)
+* [State Farm - Nancy Jo Callahan](http://nancyjocallahan.com/)
 
 ### Bronze Sponsors
 
 * [Lightcrafters, Inc.](https://www.lightcrafters.com)
+* [Crestview Neighborhood Association](http://www.crestviewna.org/)
+* [Tecolote Farm](http://tecolotefarm.net/)
+* [Pinthouse Pizza](http://pinthousepizza.com/)
+* [Kelti Smith, artist](http://www.keltismith.com/)
 
 ### Friends of Violet Crown Community
 
-* [Crestview Neighborhood Association](http://www.crestviewna.org/)
+* [Fork and Taco](http://forkandtaco.com/)
+* [BD Therapy](http://www.bdtherapy.com/)
+* Mike McChesney for his Brisket
+* [Ground Floor Theatre](http://www.groundfloortheatre.org)
