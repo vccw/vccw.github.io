@@ -15,19 +15,41 @@ in May, please contact <vccwpresident@yahoo.com>.
 
 <div class="container">
 <div class="row">
-<div class="col-md-12">
-
+<div class="col-md-3">
     <a href="http://www.burnetroadstorage.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-BRStorage-bg.jpg" alt="Burnet Road Storage" title=""></a>
+</div>
+<div class="col-md-3">
     <a href="https://www.facebook.com/pages/Crestview-Minimax-IGA/102220176512681" target="_blank"><img class="img-rounded" src="sponsors/carousel-CrestviewIGA.jpg" alt="Crestview IGA" title=""></a>
+</div>
+<div class="col-md-3">
     <a href="http://www.grandecom.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-GrandeServices_ColorPMS_Vertical.jpg" alt="Grande Communications" title=""></a>
+</div>
+<div class="col-md-3">
     <a href="http://austin.snapology.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-snapology.png" alt="Snapology Austin" title=""></a>
+</div>
+</div>
+<div class="row">
+<div class="col-md-3">
     <a href="http://nativeedgelandscape.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-nativeedge.png" alt="Native Edge Landscape" title=""></a>
+</div>
+<div class="col-md-3">
     <a href="http://juicehomes.com/idx/?idx-q-ListingAgentID%3C0%3E=491811" target="_blank"><img class="img-rounded" src="sponsors/carousel-vccw-gold-juice.jpg" alt="Juice Homes - John Dunham" title=""></a>
+</div>
+<div class="col-md-3">
     <a href="http://www.jump-austin.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-jump.png" alt="Jump! Gymnastics" title=""></a>
+</div>
+<div class="col-md-3">
     <a href="http://www.davesultimateautomotive.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-daves.png" alt="Dave's Ultimate Automotive" title=""></a>
+</div>
+</div>
+<div class="row">
+<div class="col-md-3">
     <a href="http://www.austinchronicle.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-chronicle.png" alt="Austin Chronicle" title=""></a>
+</div>
+<div class="col-md-3">
     <a href="http://www.tacodeli.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-tacodeli.png" alt="Tacodeli" title=""></a>
-
+</div>
+</div>
 </div><!-- col-md-12 -->
 </div><!-- row -->
 </div><!-- container -->
