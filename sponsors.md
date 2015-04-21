@@ -45,5 +45,5 @@ in May, please contact <vccwpresident@yahoo.com>.
 
 * [Fork and Taco](http://forkandtaco.com/)
 * [BD Therapy](http://www.bdtherapy.com/)
-* Mike McChesney for his Brisket
+* Mike McChesney
 * [Ground Floor Theatre](http://www.groundfloortheatre.org)
