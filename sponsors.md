@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: no-sponsors
 title: Our Sponsors
 ---
 
@@ -13,16 +13,44 @@ in May, please contact <vccwpresident@yahoo.com>.
 
 ### Gold Sponsors
 
-* [Grande Communications](http://www.grandecom.com/)
-* [Burnet Road Storage](http://www.burnetroadstorage.com/)
-* [Crestview IGA](https://www.facebook.com/pages/Crestview-Minimax-IGA/102220176512681)
-* [Snapology Austin](http://austin.snapology.com/)
-* [Native Edge Landscape](http://nativeedgelandscape.com/)
-* [Juice Homes - John Dunham](http://juicehomes.com/idx/?idx-q-ListingAgentID%3C0%3E=491811)
-* [Jump! Gymnastics](http://www.jump-austin.com/)
-* [Dave's Ultimate Automotive](http://www.davesultimateautomotive.com/)
-* [Austin Chronicle](http://www.austinchronicle.com/)
-* [Tacodeli](http://www.tacodeli.com/)
+<div class="container">
+{% include navbar.html %}
+<div class="row">
+<div class="col-md-12">
+
+        <div class="img-rounded">
+            <a href="http://www.burnetroadstorage.com/" target="_blank"><img src="sponsors/carousel-BRStorage-bg.jpg" alt="Burnet Road Storage" title=""></a>
+        </div>
+        <div class="img-rounded">
+            <a href="https://www.facebook.com/pages/Crestview-Minimax-IGA/102220176512681" target="_blank"><img src="sponsors/carousel-CrestviewIGA.jpg" alt="Crestview IGA" title=""></a>
+        </div>
+        <div class="img-rounded">
+            <a href="http://www.grandecom.com/" target="_blank"><img src="sponsors/carousel-GrandeServices_ColorPMS_Vertical.jpg" alt="Grande Communications" title=""></a>
+        </div>
+        <div class="img-rounded">
+            <a href="http://austin.snapology.com/" target="_blank"><img src="sponsors/carousel-snapology.png" alt="Snapology Austin" title=""></a>
+        </div>
+        <div class="img-rounded">
+            <a href="http://nativeedgelandscape.com/" target="_blank"><img src="sponsors/carousel-nativeedge.png" alt="Native Edge Landscape" title=""></a>
+        </div>
+        <div class="img-rounded">
+            <a href="http://juicehomes.com/idx/?idx-q-ListingAgentID%3C0%3E=491811" target="_blank"><img src="sponsors/carousel-vccw-gold-juice.jpg" alt="Juice Homes - John Dunham" title=""></a>
+        </div>
+        <div class="img-rounded">
+            <a href="http://www.jump-austin.com/" target="_blank"><img src="sponsors/carousel-jump.png" alt="Jump! Gymnastics" title=""></a>
+        </div>
+        <div class="img-rounded">
+            <a href="http://www.davesultimateautomotive.com/" target="_blank"><img src="sponsors/carousel-daves.png" alt="Dave's Ultimate Automotive" title=""></a>
+        </div>
+        <div class="img-rounded">
+            <a href="http://www.austinchronicle.com/" target="_blank"><img src="sponsors/carousel-chronicle.png" alt="Austin Chronicle" title=""></a>
+        </div>
+        <div class="img-rounded">
+            <a href="http://www.tacodeli.com/" target="_blank"><img src="sponsors/carousel-tacodeli.png" alt="Tacodeli" title=""></a>
+        </div>
+
+</div><!-- col-md-12 -->
+</div><!-- row -->
 
 ### Silver Sponsors
 
