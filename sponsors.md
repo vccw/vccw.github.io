@@ -68,6 +68,7 @@ in May, please contact <vccwpresident@yahoo.com>.
 * [Tecolote Farm](http://tecolotefarm.net/)
 * [Pinthouse Pizza](http://pinthousepizza.com/)
 * [Kelti Smith, artist](http://www.keltismith.com/)
+* [SOLart Designs](http://www.solartdesigns.com/)
 
 ### Friends of Violet Crown Community
 
