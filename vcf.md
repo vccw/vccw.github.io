@@ -57,7 +57,7 @@ with more to come!
 [Willow Tree Works](https://willowtreeworks.wordpress.com/) | jewelry made from recycled cycle parts
 [What a Hoot Boutique](https://www.facebook.com/WhatAHootBoutique) | sewn children and household items
 [Athena Silversmith](http://www.athenasilversmith.com/) | sterling jewelry
-[Hope St Market](https://www.etsy.com/shop/HopeStreetMarket) | co-op group of Iranian immigrants, upcycled clothing and gift items
+[Hope Street Market](http://www.hsm-austin.com/) | co-op group of Iranian immigrants, upcycled clothing and gift items
 [3doggsdesigns](https://www.etsy.com/shop/3doggsdesigns) | metalsmith jewelry
 [Christine Linial](http://christinethepsychic.com/) | tarot card reader
 [Deadly Creative](http://www.deadlycreative.com/) | photography
