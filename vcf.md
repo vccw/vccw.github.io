@@ -50,8 +50,58 @@ with more to come!
 
 ### Artists
 
-Potential artists should contact [Mona Prater via email](mailto:beadornment@Hotmail.com) with 
-"Violet Crown App" in the subject line.
+[Amber Dopita-Todd](http://amberdopita.com) | photography
+[Erica Huff](http://etsy.com/shop/wickhabit/) |soy candles
+[David Becker](https://www.facebook.com/DavidBeckerArtist) | paintings on canvas
+[Radiances](http://radiances.vpweb.com/) | bath and body products
+[Willow Tree Works](https://willowtreeworks.wordpress.com/) | jewelry made from recycled cycle parts
+[What a Hoot Boutique](https://www.facebook.com/WhatAHootBoutique) | sewn children and household items
+[Athena Silversmith](http://www.athenasilversmith.com/) | sterling jewelry
+[Hope St Market](https://www.etsy.com/shop/HopeStreetMarket) | co-op group of Iranian immigrants, upcycled clothing and gift items
+[3doggsdesigns](https://www.etsy.com/shop/3doggsdesigns) | metalsmith jewelry
+[Christine Linial](http://christinethepsychic.com/) | tarot card reader
+[Deadly Creative](http://www.deadlycreative.com/) | photography
+[LadyAlchemy13](https://www.etsy.com/shop/ladyalchemy13) | painting, prints, & photos
+[Mettle Works Studio](https://www.etsy.com/shop/MettleWorksStudio) | steampunk jewelry. Mixed media
+Bill Woodburn | rune casting
+[Pomp Boutique](http://keatleydesigns.com/) | upcycled clothing and jewelry
+Nancy Willis | sewn kitchen items and home decore, woodwork
+[Own a Lisa](http://ownalisa.com/) | time out stuffed animals, soap and hummingbird feeders
+[Jim Bob Salazar](http://jimbobsalazar.blogspot.com/) | hand thrown ceramic garden art
+Forrest Pettigrew | home canned pickles, salsa, perserves
+Mona Prater | fused glass jewelry and dishes
+Libby Farris | painting and drawing
+Jaime Fernandez | stoneware and photography
+[Elementals Austin](https://www.facebook.com/elementals.austin) | sterling and gemstone jewelry
+[Sweet Thyme Design](https://www.etsy.com/shop/sweetthymedesign) | food-inspired greeting cards and garden markers
+[Natural Magick Shop](https://www.facebook.com/pages/Natural-Magick-Shop/228780966758) | hula hoops
+[Nature's Key Botanicals](https://www.etsy.com/shop/NaturesKeyBotanicals/) | body products
+Clare Wuellner and Marta Pelrine-Bacon | painting and drawing
+Glen Courser | wood lamps, coasters and other decorative objects
+[The Crafty Monkey](https://www.etsy.com/shop/craftymonkey/) | quilted purses and wall hangings
+[Sporecloud](https://www.etsy.com/shop/sporecloud/) | ceramic planters and pottery
+Tina Jackson | mosaic tiles
+[Ross De La Garza](http://www.phishross.com) | ceramic sea creatures
+[MGS Arts](http://www.mgsarts.com/) | engraved sandstone and mosaic
+[ArcheoModern](http://Archeomoderndesigns.com) | ancient inspirations, contemporary creations
+[Phishstuff](http://phishstuff.etsy.com) | lampwork beads and jewlery
+[Shannon Kors](http://sksurfgirl.etsy.com) | baby and toddler clothes and gifts
+[Sewn Joys](http://sewnjoys.etsy.com) | design dolls and unique gifts
+[Stampin' Up - Kathleen Johnson](http://Kathleenstamps.stampinup.net) | handmade cards
+David Fox | tie dye clothing
+[Masterpieces by Michiel](http://masterpiecesbymichiel.com) | jewelry and glasswork
+[CDQ Art - Connie Adcock](http://cdqart.com) | acrylic and watercolor painting
+[By Lillian](http://bylillian.com) | jewelry
+[Violet Crown Soap Company](http://Violetcrownsoap.com) | hand-made soaps, lotions, and bath treats
+[Petite Pensieri](http://petitepensieri.etsy.com) | baby clothes
+Susan Prior | clocks, bottle lights, greeting cards
+[Chaos Card Company](http://www.chaoscardcompany.com/) | printed clothing
+[Flameless Shirt](http://flamelessshirt.com) | printed men's shirts
+[tEChLECTIC](http://techlectic.com) | clocks from upcycled computer hardware
+[Medieval Moccasins](http://medievalmoccasins.com) | original handcrafted leather footwear
+[Stoneworks Pottery](http://etsy.com/shop/stoneworkspottery) | handmade pots
+[Salvation Central](http://www.salvationcentral.com/) | stained glass & jewelry
+{:.table}
 
 ### Kids Activities
 
