@@ -74,5 +74,6 @@ in May, please contact <vccwpresident@yahoo.com>.
 
 * [Fork and Taco](http://forkandtaco.com/)
 * [BD Therapy](http://www.bdtherapy.com/)
-* Mike McChesney
+* Mike McChesney's Famous Brisket
 * [Ground Floor Theatre](http://www.groundfloortheatre.org)
+* [Mimosa Screen Printing](http://www.mimosascreenprinting.com/)

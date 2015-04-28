@@ -28,27 +28,52 @@ We are making frequent updates there with announcements of artists and activitie
 
 ### Food Vendors
 
-* VCCW Domino Dogs (Hot Dogs and Sausage Wraps)
-* [Fire and Slice Pizza](http://www.fireandsliceaustin.com/)
-* [Fork and Taco](http://forkandtaco.com/)
-* [Amy's Ice Creams](http://www.amysicecreams.com)
-* [Snowie Shaved Ice](http://austinshavediceco.com)
-* [Jack Hates Coffee](http://www.jackhatescoffee.com)
-
-with more to come!
+| VCCW Domino Dogs | hot dogs and sausage wraps, a festival tradition
+| [Fire and Slice Pizza](http://www.fireandsliceaustin.com/) | wood-fired pizza slices
+| [Fork and Taco](http://forkandtaco.com/) | gourmet tacos
+| [Amy's Ice Creams](http://www.amysicecreams.com) | ice cream
+| [Snowie Shaved Ice](http://austinshavediceco.com) | shaved ice
+| [Jack Hates Coffee](http://www.jackhatescoffee.com) | coffee, tea, and snacks
+{:.table .table-condensed}
 
 ### Music
 
 | 10am | Lunch with Danny | soft rock/southern country |
 | 11am | [Jungle Jill and the Jaybirds](http://www.myspace.com/junglejilljaybirds) | entertainment for kids of all ages |
-| noon | Roger Beck and the 29th Street Band | honored in 2005 by the [Texas Western Swing Hall of Fame](http://thewesternartists.com/twshof.htm) |
-|  1pm | [Jamie Lynn](http://www.jamielynnbellydance.com/) | belly dancer |
+| noon | Roger Beck and the 29th Street Band | Texas Western Swing legends |
 |  2pm | [Deeanne René](http://www.deannrene.com/) | rock and roll |
 |  3pm | [The Light Upstairs](http://thelightupstairsband.com) | electic folk duo |
 |  4pm | Feet First | neighborhood rock |
-{:.table}
+{:.table .table-condensed}
 
-### Artists
+### Kid's Activities
+
+| 11am | [Jungle Jill and the Jaybirds](http://www.myspace.com/junglejilljaybirds) | entertainment for kids of all ages |
+| 11:45am | Surprise kid's activity
+|  1pm | [Jamie Lynn](http://www.jamielynnbellydance.com/) | belly dancer |
+| 1:20pm | The Tree Man | meet the living tree |
+| 1:45pm | [Sparkle Stories](http://www.sparklestories.com/) | storytelling for kids |
+|  2pm | Jugglers | watch and learn |
+{:.table .table-condensed}
+
+and stations featuring
+
+Spin Art | [Austin Creative ReUse](http://austincreativereuse.org/)
+Crafts | [Camp ¡Vámonos!](http://www.campvamonos.com/)
+Face Painting, Life-Sized Jenga, and Crafts | [Redeemer Lutheran School](http://www.redeemerschool.net/)
+Mechanized Paper Airplanes | [Austin Tinkering School](http://austintinkeringschool.com/)
+Lego Brick Building | [Snapology](http://austin.snapology.com)
+Cake Walk | [Hope Chapel](http://hope.org/)
+Terra Cotta Pot Painting | [Native Edge Landscape](http://nativeedgelandscape.com/)
+Vintage Toys | [Toybrary Austin](http://toybraryaustin.com/)
+Robotics | [McCallum Robotics Team](http://mccallumrobotics.weebly.com/)
+Balloon Pop/Prizes | [McCallum High School Class of 2018](http://www.austinschools.org/campus/mccallum/)
+Life-Sized Chess and Craft | [Faith Lutheran Child Development Center](http://www.faithlutherancdc.com/)
+Seed Balls | [Habitat Stewards](http://www.austintexas.gov/page/austin-habitat-stewards)
+Ladder Golf | [Crestview United Methodist Church](http://crestviewmethodist.org/)
+{:.table .table-striped .table-condensed}
+
+### Artists and Vendors
 
 [Amber Dopita-Todd](http://amberdopita.com) | photography
 [Erica Huff](http://etsy.com/shop/wickhabit/) |soy candles
@@ -101,11 +126,7 @@ Susan Prior | clocks, bottle lights, greeting cards
 [Medieval Moccasins](http://medievalmoccasins.com) | original handcrafted leather footwear
 [Stoneworks Pottery](http://etsy.com/shop/stoneworkspottery) | handmade pots
 [Salvation Central](http://www.salvationcentral.com/) | stained glass & jewelry
-{:.table}
-
-### Kids Activities
-
-To be listed soon!
+{:.table .table-striped .table-condensed}
 
 ### Community Groups
 
