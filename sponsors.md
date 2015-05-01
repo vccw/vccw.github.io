@@ -69,6 +69,7 @@ in May, please contact <vccwpresident@yahoo.com>.
 * [Pinthouse Pizza](http://pinthousepizza.com/)
 * [Kelti Smith, artist](http://www.keltismith.com/)
 * [SOLart Designs](http://www.solartdesigns.com/)
+* [Five Star Interiors](http://www.fivestarinteriors.com/)
 
 ### Friends of Violet Crown Community
 
