@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Violet Crown Arts Festival (December 2014)
+title: Violet Crown Arts Festival Application (December 2015)
 ---
 
 <div class="container">
@@ -8,12 +8,12 @@ title: Violet Crown Arts Festival (December 2014)
 		<div class="col-md-4"><img src="img/Accordion player 400x496.png" title="Many thanks to Jean Graham mosaics master for the use of images" class="img-responsive"></div>
 		<div class="col-md-4">
 			<h1>Artist Application</h1>
-			<h2>2014 Violet Crown Arts Festival</h2>
+			<h2>2015 Violet Crown Arts Festival</h2>
 		</div>
 	</div>
 </div>
 
-## 2014 Entry Requirements
+## 2015 Entry Requirements
 
 1. Only original work will be accepted (no kits or imports).
 2. The jury will select all participating artists. Even if you have been accepted
@@ -30,12 +30,12 @@ title: Violet Crown Arts Festival (December 2014)
 
 ## Fees
 
-Our fees for 2014 are $155 for the booth rental (10' by 10' space) and $10 for the 
+Our fees for 2015 are $155 for the booth rental (10' by 10' space) and $10 for the 
 non-refundable application fee.
 
 ## Timeline
 
-Deadline for entry has been extended to November 10th.
+Deadline for entry is October 31st.
 
 Notification of acceptance for submissions before
 October 20th will be emailed by November 5th.  Notifications for
@@ -47,14 +47,14 @@ Do not phone for confirmation.
 
 Refunds will not be issued once you have been accepted unless you notify us before
 Dec. 1 and your booth space can be filled by another approved exhibitor. Spaces not
-occupied by 8:30 A.M. on Sat. Dec. 6 will be reassigned without a refund. This is a
+occupied by 8:30 A.M. on Sat. Dec. 5th will be reassigned without a refund. This is a
 rain or shine event, there will be no refunds in case of rain.
 
 If the festival is cancelled, refunds will be issued less processing fees. 
 
 ## Setup
 
-Set up begins 7:00 A.M. Saturday, Dec. 6 and at 8:00 A.M. Sunday, Dec. 7. 
+Set up begins 7:00 A.M. Saturday, Dec. 5th and at 8:00 A.M. Sunday, Dec. 6th. 
 After check-in, participants must unload and immediately remove their vehicle to
 designated vendor parking area. Festival begins at 10:00 A.M.
 
@@ -62,10 +62,9 @@ Security will be provided overnight Saturday.
 
 ## Application
 
-Applications are now closed for the 2014 festival.
+Applications have not yet opened for the 2015 festival.
 <!-- script type="text/javascript" src="http://form.jotform.us/jsform/42464822469159"></script -->
 
 ## Questions?
 
 If your question isn't answered here, please email violetcrownartsfestival@gmail.com.
-

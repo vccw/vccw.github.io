@@ -3,9 +3,12 @@ layout: default
 title: Home Page
 ---
 
-Happy 2015!  We're proud to announce the spring [Violet Crown Festival](vcf.html)
-will be returning on Saturday, May 2nd at Brentwood Elementary, from 10am to 5pm.
+Coming this December 5th and 6th, the [2015 Violet Crown Arts Festival](artsfest.html),
+a neighborhood holiday tradition!
 
-To get up-to-date information, check the [Violet Crown Festival page on Facebook](https://www.facebook.com/VioletCrownFestival).
+Artist applications will be live in early September.  See the
+[artist application page](artsfest_apply.html) for details.
 
-<img src="img/7000691842_260e5747fa_b.jpg" class="img-responsive well">
+To get up-to-date information as the festival nears, check the [Violet Crown Festival page on Facebook](https://www.facebook.com/VioletCrownFestival).
+
+<img src="img/arts2014_01.jpg" class="img-responsive well">
