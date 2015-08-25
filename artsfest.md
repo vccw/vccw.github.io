@@ -24,8 +24,6 @@ title: Violet Crown Arts Festival (December 2015)
 
 			<h3>The Festival</h3>
 
-			<p>Introducing the Accordion Player who valiantly wears the diadem of Violet Crown Community Works.</p>
-
 			<p>Brentwood Elementary School, a Creative Learning Classroom Initiative, has
 			embraced the Violet Crown Arts Festival and will host it in the heart of the
 			Brentwood &amp; Crestview neighborhoods that the VCCW supports. The festival
