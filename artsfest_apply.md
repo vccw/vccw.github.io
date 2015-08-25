@@ -41,7 +41,7 @@ Notification of acceptance for submissions before
 October 20th will be emailed by November 5th.  Notifications for
 entries after October 20th will be provided as soon as possible.
 If not accepted, your booth rental will be refunded.
-Do not phone for confirmation.
+Please, do not call for confirmation.
 
 ## Refunds and Cancellation
 
