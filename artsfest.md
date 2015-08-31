@@ -7,10 +7,10 @@ title: Violet Crown Arts Festival (December 2015)
 	<div class="row">
 		<div class="col-md-4"><img src="img/Accordion player 400x496.png" title="Many thanks to artist Jean Graham for the use of images from the Wall of Welcome" class="img-responsive"></div>
 		<div class="col-md-4">
-			<h1>2015 Violet Crown Arts Festival</h1>
+			<h1>Violet Crown Arts Festival</h1>
 			<h2>
-				Saturday, December 5th<br>
-				Sunday, December 6th<br>
+				Saturday, December 5th, 2015<br>
+				Sunday, December 6th, 2015<br>
 				10AM to 5PM<br>
 				<br>
 				<a href="https://goo.gl/maps/xov1S">Brentwood Elementary School</a>
@@ -48,6 +48,10 @@ title: Violet Crown Arts Festival (December 2015)
 
 	</div></div>
 
+	<div class="row">
+		<div class="col-md-8"><img src="img/arts2014_02.jpg" class="img-responsive"></div>
+        </div>
+
 	<div class="row"><div class="col-md-8">
 
 		<h3>Getting There</h3>
@@ -59,6 +63,7 @@ title: Violet Crown Arts Festival (December 2015)
 
 	</div></div>
 
+<!--
 	<div class="row"><div class="col-md-8">
 
 		<h3>Music</h3>
@@ -82,6 +87,7 @@ title: Violet Crown Arts Festival (December 2015)
 		TBA
 
 	</div></div>
+-->	
 	<div class="row"><div class="col-md-8">
 
 		<h3>Contact</h3>
