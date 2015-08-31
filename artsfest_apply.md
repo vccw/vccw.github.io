@@ -62,8 +62,8 @@ Security will be provided overnight Saturday.
 
 ## Application
 
-Applications have not yet opened for the 2015 festival.
-<!-- <script type="text/javascript" src="http://form.jotform.us/jsform/52374722590154"></script> -->
+<script type="text/javascript" src="http://form.jotform.us/jsform/52374722590154"></script>
+
 ## Questions?
 
 If your question isn't answered here, please email violetcrownartsfestival@gmail.com.
