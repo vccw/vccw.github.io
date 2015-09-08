@@ -27,7 +27,8 @@ title: Violet Crown Arts Festival (December 2015)
 			<p>Brentwood Elementary School, a Creative Learning Classroom Initiative, has
 			embraced the Violet Crown Arts Festival and will host it in the heart of the
 			Brentwood &amp; Crestview neighborhoods that the VCCW supports. The festival
-			will be held in the school’s west parking lot at 6700 Yates.</p>
+			will be held in the school’s west parking lot at
+			<a href="https://goo.gl/maps/xov1S">6700 Yates, Austin, TX 78757</a>.</p>
 
 			<p>Expect to find unique artwork from talented sculptors, potters, and fiber
 			artists, painters, jewelers, glass artists, woodworkers and metal smiths. Shop
