@@ -9,5 +9,3 @@ Elements include a website at http://violetcrownvoices.com; oral history intervi
 In 2009, Susan and Rob received the Mary Faye Barnes Award for Excellence in Community History Projects from the Texas Oral History Association for "A Community Mosaic." The film premiered at the dedication of the mosaic Wall of Welcome in 2008. It has been screened at other neighborhood events, at the Baylor University Institute for Oral History, and as part of the City of Austin's Faces of Austin multimedia program and Lights, Camera, Austin film series.
 
 Voices of the Violet Crown has been funded in part by Friends of Brentwood Park, Richard and Sharon Hanson Charitable Fund, Violet Crown Community Works, sales of films and history booklets, and individual donations.
-
-!["A Community Mosaic"](img/CommunityMosaic250-229x300.jpg)
