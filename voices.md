@@ -2,37 +2,12 @@
 layout: default
 title: Voices of the Violet Crown
 ---
-# "A Community Mosaic" (film) and Voices of the Violet Crown (community history project)
+Voices of the Violet Crown is a community/history project created and sustained by Crestview neighbors Susan and Rob Burneson beginning in 2003.
 
-"A Community Mosaic" introduces viewers to Brentwood and Crestview, mid-century
-neighborhoods that were among the first suburbs of Austin, Texas, and today
-are part of Central Austin. Produced by Susan and Rob Burneson, the film
-premiered at the dedication of the mosaic Wall of Welcome in March 2008.
+Elements include a website at http://violetcrownvoices.com; oral history interviews of neighbors ages 6 to 90; articles in history journals and neighborhood newsletters; community and history exhibits at local events; a booklet, "From Abercrombie to the Violet Crown"; three films, "First Night w/ Domino & Friends" (2006), "A Community Mosaic" (2008), and "We Planted 115 Trees" (2011); and other community outreach and history research projects.
+
+In 2009, Susan and Rob received the Mary Faye Barnes Award for Excellence in Community History Projects from the Texas Oral History Association for "A Community Mosaic." The film premiered at the dedication of the mosaic Wall of Welcome in 2008. It has been screened at other neighborhood events, at the Baylor University Institute for Oral History, and as part of the City of Austin's Faces of Austin multimedia program and Lights, Camera, Austin film series.
+
+Voices of the Violet Crown has been funded in part by Friends of Brentwood Park, Richard and Sharon Hanson Charitable Fund, Violet Crown Community Works, sales of films and history booklets, and individual donations.
 
 !["A Community Mosaic"](img/CommunityMosaic250-229x300.jpg)
-
-In 2009, Susan and Rob received the Mary Faye Barnes Award for Excellence in
-Community History Projects from the Texas Oral History Association. In 2010,
-"A Community Mosaic" was featured in the City of Austin’s Faces of Austin
-multimedia program and the Lights, Camera, Austin film series at the Windsor
-Park Branch Library.
-
-[A shorter version is on the City of Austin YouTube page.](http://www.youtube.com/watch?v=IQCCWD5oiqA)
-
-Since its premiere, the film has been screened for a number of community
-groups and at several Violet Crown Festivals. The film can be checked out from
-the Austin Public Library, and copies have been donated to neighborhood
-schools (Brentwood Elementary School, Lamar Middle School, and McCallum High
-School), Austin History Center, Baylor University Institute for Oral History,
-and Hot Springs Documentary Film Institute Library.
-
-The film is one element of
-[Voices of the Violet Crown](http://violetcrownvoices.com), an ongoing
-community history project coordinated by Susan and Rob. The project also
-includes history displays at Violet Crown Festivals, the history booklet From
-Abercrombie to the Violet Crown, oral history interviews, and feature articles
-in the Crestview Neighborhood Association newsletter.
-
-For more information about the project, visit the website at
-[violetcrownvoices.com](http://violetcrownvoices.com). Contact Susan and Rob
-Burneson, [nimbus@austin.rr.com](mailto:nimbus@austin.rr.com), 512-459-9613.
