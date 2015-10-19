@@ -2,6 +2,8 @@
 layout: default
 title: Voices of the Violet Crown
 ---
+# Voices of the Violet Crown
+
 Voices of the Violet Crown is a community/history project created and sustained by Crestview neighbors Susan and Rob Burneson beginning in 2003.
 
 Elements include a website at http://violetcrownvoices.com; oral history interviews of neighbors ages 6 to 90; articles in history journals and neighborhood newsletters; community and history exhibits at local events; a booklet, "From Abercrombie to the Violet Crown"; three films, "First Night w/ Domino & Friends" (2006), "A Community Mosaic" (2008), and "We Planted 115 Trees" (2011); and other community outreach and history research projects.
