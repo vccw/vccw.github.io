@@ -12,7 +12,7 @@ Austin, Texas, helping build and sustain community in
 [Crestview](http://www.crestviewna.org/) by supporting neighborhood
 enhancement projects.
 
-For more information about VCCW, contact Carla Guthrie, President,
+For more information about VCCW, contact Bradley Linscomb, President,
 [vccwpresident@yahoo.com](mailto:vccwpresident@yahoo.com) or PO Box 301325,
 Austin, TX 78703
 
@@ -28,12 +28,9 @@ December, VCCW also  has sponsored art projects in the community.  These include
 
 ## Board Members
 
-* Carla Guthrie (President)
-* Angie Ward (Treasurer)
+* Bradley Linscomb (President)
 * Sue Minear (Secretary)
-* Ben Combee (Webmaster)
-* Bradley Linscomb
-* Mona Prater
-* Laura Cruzada
+* Ben Combee (Webmaster & Treasurer)
+* Angie Ward
 * Lori Gieger
 * Mike McChesney
