@@ -34,3 +34,4 @@ December, VCCW also  has sponsored art projects in the community.  These include
 * Angie Ward
 * Lori Gieger
 * Mike McChesney
+* Ali Thompson
