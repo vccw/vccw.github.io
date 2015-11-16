@@ -16,6 +16,9 @@ in December, please contact <vccwpresident@yahoo.com>.
 <div class="container">
 <div class="row">
 <div class="col-md-3">
+    <a href="http://wheatsville.coop/" target="_blank"><img class="img-rounded" src="sponsors/carousel-vccw-wheatsville.png" alt="Wheatsville Co-op" title=""></a>
+</div>
+<div class="col-md-3">
     <a href="http://www.burnetroadstorage.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-BRStorage-bg.jpg" alt="Burnet Road Storage" title=""></a>
 </div>
 <div class="col-md-3">
