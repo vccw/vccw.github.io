@@ -64,15 +64,30 @@ title: Violet Crown Arts Festival (December 2015)
 
 	</div></div>
 
-<!--
 	<div class="row"><div class="col-md-8">
 
 		<h3>Music</h3>
 
-		TBA
-
+		<div class="col-md-5">
+		<p>Saturday</p>
+		<ul>
+		<li>10:00 - 11:30   CarpeSono - a cappella performers</li>
+		<li>12:00 -   1:00   Glowing Strands - original music &amp; covers</li>
+		<li>1:00 -   3:00   Shaidri & Ezra -  original music blues &amp; jazz</li>
+		<li>3:00 -   5:00   Paul Klemmerer - PK sax w/ Mitch Watkins &amp; Sarah Sharp</li>
+		</ul>
+		<p>Sunday</p>
+		<ul>
+		<li>10:00 - 11:00   Voices of Light  -  a cappella choir 20 voices strong</li>
+		<li>11:30 -   1:00   The Light Upstairs  ~  original music firmly rooted in folk</li>
+		<li>1:30 -   3:00   Kathy & The Kilowats  ~  original music rhythm &amp; blues</li>
+		<li>3:00 -   5:00   Diana Cantu Band  ~  original tunes &amp; rocking us out</li>
+		</ul>
+		</div>
+		
 	</div></div>
 
+<!--
 	<div class="row"><div class="col-md-8">
 
 		<h3>Artists</h3>
