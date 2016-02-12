@@ -35,7 +35,7 @@ in December, please contact <vccwpresident@yahoo.com>.
 <div class="container">
 <div class="row">
 <div class="col-md-3">
-    <a href="http://crestviewna.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-vccw-cna.jpg" alt="Crestview Neighborhood Association" title=""></a>
+    <a href="http://crestviewna.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-vccw-cna.png" alt="Crestview Neighborhood Association" title=""></a>
 </div>
 </div>
 </div>
