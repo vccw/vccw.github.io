@@ -8,8 +8,8 @@ volunteers and artists, and with the generous support of our sponsors. These
 businesses and individuals provided funding and services that help us run the
 festivals and sponsor local arts projects.  Join us in thanking them.
 
-If you're interested in being a sponsor for the 2015 Violet Crown Arts Festival
-in December, please contact <vccwpresident@yahoo.com>.
+If you&apos;re interested in being a sponsor for the 2016 Violet Crown Festival
+in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a>.
 
 ### Gold Sponsors
 
