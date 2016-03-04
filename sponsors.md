@@ -37,6 +37,12 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://crestviewna.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-vccw-cna.png" alt="Crestview Neighborhood Association" title=""></a>
 </div>
+<div class="col-md-3">
+    <a href="http://brentwoodaustin.blogspot.com" target="_blank"><img class="img-rounded" src="sponsors/carousel-vccw-bna.png" alt="Brentwood Neighborhood Association" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://www.barnstormersmusic.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-barnstormers.png" alt="Barnstormer's Studio" title=""></a>
+</div>
 </div>
 </div>
 
