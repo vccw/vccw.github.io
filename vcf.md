@@ -42,7 +42,7 @@ We're currently checking with local community groups to help with activities for
 
 Artist applications are live.  Please view our
 <a href="/docs/2016_VCF_Vendor_Guidelines.pdf">artist guidelines</a> and
-<a href="/docs/2016_VCF_Vendor_App.pdf">application form</a> for more details.
+<a href="/vcf_apply.html">application form</a> for more details.
 For questions, contact vccwartists@gmail.com.
 
 ### Community Groups
