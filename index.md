@@ -3,8 +3,8 @@ layout: default
 title: Home Page
 ---
 
-Planning is in progress for the spring Violet Crown Festival, coming May 7th at Brentwood Elementary.  Details about artist
-applications and sponsorship will be posted soon.
+Our next event is the <a href="vcf.html">Violet Crown Festival</a> on Saturday May 7th at Brentwood Elementary School.
+If you'd like to apply as an vendor, see <a href="vcf_apply.html">the online application</a>.
 
 To get up-to-date information as the festival nears, check the [Violet Crown Festival page on Facebook](https://www.facebook.com/VioletCrownFestival).
 
