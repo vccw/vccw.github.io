@@ -27,6 +27,9 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://juicehomes.com/idx/?idx-q-ListingAgentID%3C0%3E=491811" target="_blank"><img class="img-rounded" src="sponsors/carousel-vccw-gold-juice.jpg" alt="Juice Homes - John Dunham" title=""></a>
 </div>
+<div class="col-md-3">
+    <a href="http://www.txdpscu.org/" target="_blank"><img class="img-rounded" src="sponsors/carousel-TXdpsCU-logo.jpg" alt="Texas DPS Credit Union" title=""></a>
+</div>
 </div>
 </div>
 
@@ -54,3 +57,4 @@ TBD
 ### Friends of Violet Crown Community
 
 * [Mimosa Screen Printing](http://www.mimosascreenprinting.com/)
+* [Top Notch Hamburgers](http://www.topnotchaustin.com/)
