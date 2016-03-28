@@ -30,6 +30,9 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://www.txdpscu.org/" target="_blank"><img class="img-rounded" src="sponsors/carousel-TXdpsCU-logo.jpg" alt="Texas DPS Credit Union" title=""></a>
 </div>
+<div class="col-md-3">
+    <a href="http://austin.snapology.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-snapology.png" alt="Snapology Austin" title=""></a>
+</div>
 </div>
 </div>
 
