@@ -23,6 +23,8 @@ Art, music and more on tap at this year’s festival!
 There’s no better way to enjoy a spring Saturday than by spending it at the
 Violet Crown Festival. Admission is free.
 
+To volunteer, fill in [our application form at VolunteerSpot](https://www.volunteerspot.com/login/entry/103864880005).
+
 To get up-to-date information, check the [Violet Crown Festival page on Facebook](https://www.facebook.com/VioletCrownFestival).
 We are making frequent updates there with announcements of artists and activities.
 
