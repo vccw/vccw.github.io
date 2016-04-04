@@ -59,6 +59,7 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 ### Bronze Sponsors
 
 * [Dia's Market](https://www.facebook.com/diasmarketaustin)
+* [The Steam Team](http://www.thesteamteam.com/)
 
 ### Friends of Violet Crown Community
 
