@@ -12,6 +12,7 @@ If you&apos;re interested in being a sponsor for the 2016 Violet Crown Festival
 in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a>.
 
 ### Gold Sponsors
+<!-- $500 and up -->
 
 <div class="container">
 <div class="row">
@@ -36,10 +37,24 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://www.davesultimateautomotive.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-daves.png" alt="Dave's Ultimate Automotive" title=""></a>
 </div>
+<div class="col-md-3">
+    <a href="http://theblumfirm.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-blum.png" alt="Blum Firm Estate Planning" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://www.jump-austin.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-jump.png" alt="Jump Gymnastics" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://www.texastrustlaw.com/index.php" target="_blank"><img class="img-rounded" src="sponsors/carousel-wiewel.png" alt="Wiewel Firm Estate Planning" title=""></a>
+</div>
+
+
+
+
 </div>
 </div>
 
 ### Silver Sponsors
+<!-- $250 to $499 -->
 
 <div class="container">
 <div class="row">
@@ -52,16 +67,63 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://www.barnstormersmusic.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-barnstormers.png" alt="Barnstormer's Studio" title=""></a>
 </div>
+<div class="col-md-3">
+    <a href="http://chrischappellart.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-vccw-gold-ChrisChappell.jpg" alt="Chris Chappell" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="https://www.starkeymtg.com/lo/Julieblack" target="_blank"><img class="img-rounded" src="sponsors/carousel-starkey.png" alt="Starkey Mortgage - Julie Black" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://www.steppingstoneschool.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-steppingstone.png" alt="Stepping Stone School" title=""></a>
+</div>
 </div>
 </div>
 
 
 ### Bronze Sponsors
+<!-- $100 to $249 -->
 
-* [Dia's Market](https://www.facebook.com/diasmarketaustin)
-* [The Steam Team](http://www.thesteamteam.com/)
+<div class="container">
+<div class="row">
+<div class="col-md-3">
+    <a href="https://www.facebook.com/diasmarketaustin/" target="_blank"><img class="img-rounded" src="sponsors/carousel-dias-market.png" alt="Dia's Market" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://www.thesteamteam.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-steam-team.png" alt="The Steam Team" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://www.solartdesigns.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-solart.png" alt="SOLArt Designs" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://www.faithlutheranaustin.org/" target="_blank"><img class="img-rounded" src="sponsors/carousel-faith.png" alt="Faith Lutheran Church &amp; Child Development Center" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="https://www.rei.com/stores/austin-gateway.html" target="_blank"><img class="img-rounded" src="sponsors/carousel-rei.png" alt="REI Co-op" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://www.suntint.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-suntint.png" alt="Sun Tint" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://wordofmouthbakery.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-wordmouth.png" alt="Word of Mouth Bakery" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="https://www.abchomeandcommercial.com/austin" target="_blank"><img class="img-rounded" src="sponsors/carousel-abc.png" alt="ABC Home &amp; Commercial Services" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://adjtlaw.com/amy.html" target="_blank"><img class="img-rounded" src="sponsors/carousel-amywarr.png" alt="Amy Warr - Alexander Dubose &amp; Townsend" title=""></a>
+</div>
+<div class="col-md-3">
+    <img class="img-rounded" src="sponsors/carousel-mike.png" alt="Mike McChesney, brisket master" title="">
+</div>
+</div>
+</div>
 
 ### Friends of Violet Crown Community
+<!-- $50 to $99 -->
 
+* [BD Therapy](http://www.bdtherapy.com/)
 * [Mimosa Screen Printing](http://www.mimosascreenprinting.com/)
 * [Top Notch Hamburgers](http://www.topnotchaustin.com/)
+* [Hat Creek Burger Company](http://hatcreekburgers.com/)
+* Jerod Bork, Trumpet Lessons
+* [Yoga Yoga](http://www.yogayoga.com/)
