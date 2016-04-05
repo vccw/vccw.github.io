@@ -30,7 +30,13 @@ We are making frequent updates there with announcements of artists and activitie
 
 ### Food Vendors
 
-We're recuiting food trucks for the festival.  Contact vccwartists@gmail.com if you're interested.
+* [Amy's Ice Creams](http://www.amysicecreams.com/)
+* Snowie Shaved Ice
+* [Jack Hates Coffee](https://www.facebook.com/Jack-Hates-Coffee-133957846684052/)
+* [Com Bun Yeu](http://www.combunyeu.com/)
+* [Empanada Mia](https://www.facebook.com/empanada.mia.austin/)
+* [Fire & Slice Pizza](http://www.fireandsliceaustin.com/)
+* Domino Dogs & Drinks 
 
 ### Music
 
