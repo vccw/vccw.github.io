@@ -76,6 +76,9 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://www.steppingstoneschool.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-steppingstone.png" alt="Stepping Stone School" title=""></a>
 </div>
+<div class="col-md-3">
+    <a href="http://www.stilesswitchbbq.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-stilesswitch.png" alt="Stiles Switch BBQ" title=""></a>
+</div>
 </div>
 </div>
 
