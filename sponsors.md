@@ -11,7 +11,7 @@ festivals and sponsor local arts projects.  Join us in thanking them.
 If you&apos;re interested in being a sponsor for the 2016 Violet Crown Festival
 in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a>.
 
-### Gold Sponsors
+## Gold Sponsors
 <!-- $500 and up -->
 
 <div class="container">
@@ -46,14 +46,14 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://www.texastrustlaw.com/index.php" target="_blank"><img class="img-rounded" src="sponsors/carousel-wiewel.png" alt="Wiewel Firm Estate Planning" title=""></a>
 </div>
-
-
-
-
+<div class="col-md-3">
+    <a href="http://www.austinchronicle.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-chronicle.png" alt="Austin Chronicle" title=""></a>
 </div>
 </div>
+</div>
+<br>
 
-### Silver Sponsors
+## Silver Sponsors
 <!-- $250 to $499 -->
 
 <div class="container">
@@ -79,11 +79,14 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://www.stilesswitchbbq.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-stilesswitch.png" alt="Stiles Switch BBQ" title=""></a>
 </div>
+<div class="col-md-3">
+    <a href="http://www.drsherwood.net/" target="_blank"><img class="img-rounded" src="sponsors/carousel-sherwood.png" alt="Sherwood Pediatric Dentistry" title=""></a>
 </div>
 </div>
+</div>
+<br>
 
-
-### Bronze Sponsors
+## Bronze Sponsors
 <!-- $100 to $249 -->
 
 <div class="container">
@@ -118,8 +121,27 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <img class="img-rounded" src="sponsors/carousel-mike.png" alt="Mike McChesney, brisket master" title="">
 </div>
+<div class="col-md-3">
+    <a href="http://crestviewmethodist.org/" target="_blank"><img class="img-rounded" src="sponsors/carousel-crestview-umc.png" alt="Crestview United Methodist Church" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="https://www.solasalonstudios.com/region/austin" target="_blank"><img class="img-rounded" src="sponsors/carousel-sola.png" alt="SoLa Salon Studios" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://toybraryaustin.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-toybrary.png" alt="Toybrary Austin" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://foxfamilychiropractic.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-wes-fox.png" alt="Wes Fox Chiropractics" title=""></a>
+</div>
+<!--<div class="col-md-3">
+    <a href="" target="_blank"><img class="img-rounded" src="sponsors/carousel-linda-henderson.png" alt="Linda Henderson" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="" target="_blank"><img class="img-rounded" src="sponsors/carousel-marion-forbes.png" alt="Marion Forbes" title=""></a>
+</div>-->
 </div>
 </div>
+<br>
 
 ### Friends of Violet Crown Community
 <!-- $50 to $99 -->
@@ -130,3 +152,6 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 * [Hat Creek Burger Company](http://hatcreekburgers.com/)
 * Jerod Bork, Trumpet Lessons
 * [Yoga Yoga](http://www.yogayoga.com/)
+* [Bexbauer.com Photography](http://bexbauer.com/)
+* [Boomerang's Handheld Aussie Pies](http://www.boomerangsaustin.com/)
+* [Callahan's General Store](http://callahansgeneralstore.com/)
