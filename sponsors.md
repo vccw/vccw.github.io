@@ -49,6 +49,9 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://www.austinchronicle.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-chronicle.png" alt="Austin Chronicle" title=""></a>
 </div>
+<div class="col-md-3">
+    <a href="http://nativeedgelandscape.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-nativeedge.png" alt="Native Edge Landscape" title=""></a>
+</div>
 </div>
 </div>
 <br>
