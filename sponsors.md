@@ -85,6 +85,9 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://www.drsherwood.net/" target="_blank"><img class="img-rounded" src="sponsors/carousel-sherwood.png" alt="Sherwood Pediatric Dentistry" title=""></a>
 </div>
+<div class="col-md-3">
+    <a href="http://lsjcpa.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-lisajohnston.png" alt="Lisa S. Johnston, CPA" title=""></a>
+</div>
 </div>
 </div>
 <br>
