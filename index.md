@@ -5,7 +5,7 @@ title: Home Page
 
 Our next event is the <a href="vcf.html">Violet Crown Festival</a> on Saturday May 7th at Brentwood Elementary School.
 
-To volunteer, fill in [our application form at VolunteerSpot](https://www.volunteerspot.com/login/entry/103864880005).
+To volunteer, fill in [our application form at VolunteerSpot](http://vols.pt/Gw3EWC).
 
 If you'd like to apply as an vendor, see <a href="vcf_apply.html">the online application</a>.  The first round of applications closed April 1st, but we're still accepting vendors while slots remain available.
 
