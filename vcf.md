@@ -40,11 +40,21 @@ We are making frequent updates there with announcements of artists and activitie
 
 ### Music
 
-We're looking for musical artists to perform at this year's event.  Contact vccwartists@gmail.com if you're interested.
+| 10am | Feet First | neighborhood rock |
+| 11am | [Jungle Jill and the Jaybirds](http://www.myspace.com/junglejilljaybirds) | entertainment for kids of all ages |
+| 11:45am | [Leslie Pool](http://www.austintexas.gov/department/district-7) | Austin City Council Member for district 7 speaks |
+| noon | [Jamie Lynn](http://www.jamielynnbellydance.com/) | belly dancing |
+|  1pm | [Fingers and Lips](https://www.facebook.com/Fingers-and-Lips-137054729681977) | duo from Nacogdoches |
+|  2pm | [Ron Titter Band](https://www.facebook.com/RonTitterBand/) | rock, soul, folk, and twang |
+|  3pm | Punch Card | youth rock band |
+|  4pm | [Don Leady and his Rockin' Revue](http://www.donleady.com/) | swamp rock |
+{:.table .table-condensed}
 
 ### Kid's Activities
 
-We're currently checking with local community groups to help with activities for our children.  Contact vccwartists@gmail.com if you're interested.
+| 11am | Tree Man | giant tree walking around the festival! |
+|  1pm | Tree Man | giant tree walking around the festival! |
+{:.table .table-condensed}
 
 ### Artists and Vendors
 

@@ -26,6 +26,9 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
     <a href="http://www.grandecom.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-GrandeServices_ColorPMS_Vertical.jpg" alt="Grande Communications" title=""></a>
 </div>
 <div class="col-md-3">
+    <a href="http://www.amysicecreams.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-amys.jpg" alt="Amy's Ice Creams" title=""></a>
+</div>
+<div class="col-md-3">
     <a href="http://juicehomes.com/idx/?idx-q-ListingAgentID%3C0%3E=491811" target="_blank"><img class="img-rounded" src="sponsors/carousel-vccw-gold-juice.jpg" alt="Juice Homes - John Dunham" title=""></a>
 </div>
 <div class="col-md-3">
@@ -51,6 +54,12 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 </div>
 <div class="col-md-3">
     <a href="http://nativeedgelandscape.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-nativeedge.png" alt="Native Edge Landscape" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://www.hmoorelaw.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-hmoore.png" alt="Law Offices of Hilton K. Moore" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://www.mazdacentral.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-rogerbeasley.png" alt="Roger Beasley Mazda Central" title=""></a>
 </div>
 </div>
 </div>
