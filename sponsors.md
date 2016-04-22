@@ -97,6 +97,12 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://lsjcpa.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-lisajohnston.png" alt="Lisa S. Johnston, CPA" title=""></a>
 </div>
+<div class="col-md-3">
+    <a href="https://www.austindentalspa.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-austindentalspa.png" alt="Austin Dental Spa" title=""></a>
+</div>
+<div class="col-md-3">
+    <a href="http://magiccamp.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-magiccamp.png" alt="Fantastic Magic Camp" title=""></a>
+</div>
 </div>
 </div>
 <br>
@@ -148,6 +154,9 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 <div class="col-md-3">
     <a href="http://foxfamilychiropractic.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-wes-fox.png" alt="Wes Fox Chiropractics" title=""></a>
 </div>
+<div class="col-md-3">
+    <a href="" target="_blank"><img class="img-rounded" src="sponsors/carousel-fivestar.png" alt="Five Star Interiors" title=""></a>
+</div>
 <!--<div class="col-md-3">
     <a href="" target="_blank"><img class="img-rounded" src="sponsors/carousel-linda-henderson.png" alt="Linda Henderson" title=""></a>
 </div>
@@ -170,3 +179,5 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 * [Bexbauer.com Photography](http://bexbauer.com/)
 * [Boomerang's Handheld Aussie Pies](http://www.boomerangsaustin.com/)
 * [Callahan's General Store](http://callahansgeneralstore.com/)
+* [Empire Limousine](http://empirelimocharter.com/)
+* [Texas Performing Arts](http://texasperformingarts.org/)
