@@ -1,0 +1,152 @@
+gold:
+    - url: http://www.burnetroadstorage.com/
+      img: sponsors/carousel-BRStorage-bg.jpg
+      name: Burnet Road Storage
+    - url: http://www.grandecom.com/
+      img: sponsors/carousel-GrandeServices_ColorPMS_Vertical.jpg
+      name: Grande Communications
+    - url: http://www.amysicecreams.com/
+      img: sponsors/carousel-amys.jpg
+      name: Amy's Ice Creams
+    - url: http://juicehomes.com/idx/?idx-q-ListingAgentID%3C0%3E=491811
+      img: sponsors/carousel-vccw-gold-juice.jpg
+      name: Juice Homes - John Dunham
+    - url: http://www.txdpscu.org/
+      img: sponsors/carousel-TXdpsCU-logo.jpg
+      name: Texas DPS Credit Union
+    - url: http://austin.snapology.com/
+      img: sponsors/carousel-snapology.png
+      name: Snapology Austin
+    - url: http://www.davesultimateautomotive.com/
+      img: sponsors/carousel-daves.png
+      name: Dave's Ultimate Automotive
+    - url: http://theblumfirm.com/
+      img: sponsors/carousel-blum.png
+      name: Blum Firm Estate Planning
+    - url: http://www.jump-austin.com/
+      img: sponsors/carousel-jump.png
+      name: Jump Gymnastics
+    - url: http://www.texastrustlaw.com/index.php
+      img: sponsors/carousel-wiewel.png
+      name: Wiewel Firm Estate Planning
+    - url: http://www.austinchronicle.com/
+      img: sponsors/carousel-chronicle.png
+      name: Austin Chronicle
+    - url: http://nativeedgelandscape.com/
+      img: sponsors/carousel-nativeedge.png
+      name: Native Edge Landscape
+    - url: http://www.hmoorelaw.com/
+      img: sponsors/carousel-hmoore.png
+      name: Law Offices of Hilton K. Moore
+    - url: http://www.mazdacentral.com/
+      img: sponsors/carousel-rogerbeasley.png
+      name: Roger Beasley Mazda Central
+    # - url: http://wheatsville.coop/
+    #   img: sponsors/carousel-vccw-wheatsville.png
+    #   name: Wheatsville Co-op
+
+silver:
+    - url: http://crestviewna.com/
+      img: sponsors/carousel-vccw-cna.png
+      name: Crestview Neighborhood Association
+    - url: http://brentwoodaustin.blogspot.com
+      img: sponsors/carousel-vccw-bna.png
+      name: Brentwood Neighborhood Association
+    - url: http://www.barnstormersmusic.com/
+      img: sponsors/carousel-barnstormers.png
+      name: Barnstormer's Studio
+    - url: http://chrischappellart.com/
+      img: sponsors/carousel-vccw-gold-ChrisChappell.jpg
+      name: Chris Chappell
+    - url: https://www.starkeymtg.com/lo/Julieblack
+      img: sponsors/carousel-starkey.png
+      name: Starkey Mortgage - Julie Black
+    - url: http://www.steppingstoneschool.com/
+      img: sponsors/carousel-steppingstone.png
+      name: Stepping Stone School
+    - url: http://www.stilesswitchbbq.com/
+      img: sponsors/carousel-stilesswitch.png
+      name: Stiles Switch BBQ
+    - url: http://www.drsherwood.net/
+      img: sponsors/carousel-sherwood.png
+      name: Sherwood Pediatric Dentistry
+    - url: http://lsjcpa.com/
+      img: sponsors/carousel-lisajohnston.png
+      name: Lisa S. Johnston, CPA
+    - url: https://www.austindentalspa.com/
+      img: sponsors/carousel-austindentalspa.png
+      name: Austin Dental Spa
+    - url: http://magiccamp.com/
+      img: sponsors/carousel-magiccamp.png
+      name: Fantastic Magic Camp
+
+bronze:
+    - url: https://www.facebook.com/diasmarketaustin/
+      img: sponsors/carousel-dias-market.png
+      name: Dia's Market
+    - url: http://www.thesteamteam.com/
+      img: sponsors/carousel-steam-team.png
+      name: The Steam Team
+    - url: http://www.solartdesigns.com/
+      img: sponsors/carousel-solart.png
+      name: SOLArt Designs
+    - url: http://www.faithlutheranaustin.org/
+      img: sponsors/carousel-faith.png
+      name: Faith Lutheran Church &amp; Child Development Center
+    - url: https://www.rei.com/stores/austin-gateway.html
+      img: sponsors/carousel-rei.png
+      name: REI Co-op
+    - url: http://www.suntint.com/
+      img: sponsors/carousel-suntint.png
+      name: Sun Tint
+    - url: http://wordofmouthbakery.com/
+      img: sponsors/carousel-wordmouth.png
+      name: Word of Mouth Bakery
+    - url: https://www.abchomeandcommercial.com/austin
+      img: sponsors/carousel-abc.png
+      name: ABC Home &amp; Commercial Services
+    - url: http://adjtlaw.com/amy.html
+      img: sponsors/carousel-amywarr.png
+      name: Amy Warr - Alexander Dubose &amp; Townsend
+    - url: http://crestviewmethodist.org/
+      img: sponsors/carousel-crestview-umc.png
+      name: Crestview United Methodist Church
+    - url: https://www.solasalonstudios.com/region/austin
+      img: sponsors/carousel-sola.png
+      name: SoLa Salon Studios
+    - url: http://toybraryaustin.com/
+      img: sponsors/carousel-toybrary.png
+      name: Toybrary Austin
+    - url: http://foxfamilychiropractic.com/
+      img: sponsors/carousel-wes-fox.png
+      name: Wes Fox Chiropractics
+    - url: http://www.fivestarinteriors.com/
+      img: sponsors/carousel-fivestar.png
+      name: Five Star Interiors
+    - img: sponsors/carousel-mike.png
+      name: Mike McChesney, brisket master
+    # - name: Linda Henderson
+    # - name: Marion Forbes
+
+friends:
+    - name: BD Therapy
+      url: http://www.bdtherapy.com/
+    - name: Mimosa Screen Printing
+      url: http://www.mimosascreenprinting.com/
+    - name: Top Notch Hamburgers
+      url: http://www.topnotchaustin.com/
+    - name: Hat Creek Burger Company
+      url: http://hatcreekburgers.com/
+    - name: Jerod Bork, Trumpet Lessons
+    - name: Yoga Yoga
+      url: http://www.yogayoga.com/
+    - name: Bexbauer.com Photography
+      url: http://bexbauer.com/
+    - name: Boomerang's Handheld Aussie Pies
+      url: http://www.boomerangsaustin.com/
+    - name: Callahan's General Store
+      url: http://callahansgeneralstore.com/
+    - name: Empire Limousine
+      url: http://empirelimocharter.com/
+    - name: Texas Performing Arts
+      url: http://texasperformingarts.org/

@@ -12,53 +12,12 @@
 <div id="carousel-sponsors" class="carousel slide" data-interval="2500" data-ride="carousel">
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-        <div class="item active">
-            <a href="http://www.burnetroadstorage.com/" target="_blank"><img src="/sponsors/carousel-BRStorage-bg.jpg" alt="Burnet Road Storage" title=""></a>
+        {% for sponsor in site.data.sponsors_spring2016.gold %}
+        <div class="item{% if forloop.first %} active{% endif %}">
+            {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
+            <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
+            {% if sponsor.url %}</a>{% endif %}
         </div>
-        <div class="item">
-            <a href="http://www.grandecom.com/" target="_blank"><img src="/sponsors/carousel-GrandeServices_ColorPMS_Vertical.jpg" alt="Grande Communications" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://www.amysicecreams.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-amys.jpg" alt="Amy's Ice Creams" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://juicehomes.com/idx/?idx-q-ListingAgentID%3C0%3E=491811" target="_blank"><img class="img-rounded" src="/sponsors/carousel-vccw-gold-juice.jpg" alt="Juice Homes - John Dunham" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://www.txdpscu.org/" target="_blank"><img class="img-rounded" src="/sponsors/carousel-TXdpsCU-logo.jpg" alt="Texas DPS Credit Union" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://austin.snapology.com/" target="_blank"><img class="img-rounded" src="/sponsors/carousel-snapology.png" alt="Snapology" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://www.davesultimateautomotive.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-daves.png" alt="Dave's Ultimate Automotive" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://theblumfirm.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-blum.png" alt="Blum Firm Estate Planning" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://www.jump-austin.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-jump.png" alt="Jump Gymnastics" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://www.texastrustlaw.com/index.php" target="_blank"><img class="img-rounded" src="sponsors/carousel-wiewel.png" alt="Wiewel Firm Estate Planning" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://www.austinchronicle.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-chronicle.png" alt="Austin Chronicle" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://nativeedgelandscape.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-nativeedge.png" alt="Native Edge Landscape" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://www.hmoorelaw.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-hmoore.png" alt="Law Offices of Hilton K. Moore" title=""></a>
-        </div>
-        <div class="item">
-            <a href="http://www.mazdacentral.com/" target="_blank"><img class="img-rounded" src="sponsors/carousel-rogerbeasley.png" alt="Roger Beasley Mazda Central" title=""></a>
-        </div>
-        <!--<div class="item">
-            <a href="http://wheatsville.coop/" target="_blank"><img src="carousel-vccw-wheatsville.png" alt="Wheatsville Co-op" title=""></a>
-        </div>-->
-        <!--<div>
-            <a href="" target="_blank"><img src="sponsors/" alt="" title=""></a>
-        </div>-->
+        {% endfor %}
     </div><!-- carousel-inner -->
 </div><!-- carousel -->
