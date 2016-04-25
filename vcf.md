@@ -28,6 +28,40 @@ To volunteer, fill in [our application form at VolunteerSpot](http://vols.pt/Gw3
 To get up-to-date information, check the [Violet Crown Festival page on Facebook](https://www.facebook.com/VioletCrownFestival).
 We are making frequent updates there with announcements of artists and activities.
 
+### Special Guests
+
+| 11:45am | [Leslie Pool](http://www.austintexas.gov/department/district-7) | Austin City Council Member for district 7 speaks |
+{:.table .table-condensed}
+
+### Music
+
+| 10am | Feet First | neighborhood rock |
+| noon | Punch Card | youth rock band |
+|  1pm | [Fingers and Lips](https://www.facebook.com/Fingers-and-Lips-137054729681977) | duo from Nacogdoches |
+|  2pm | [Ron Titter Band](https://www.facebook.com/RonTitterBand/) | rock, soul, folk, and twang |
+|  4pm | [Don Leady and his Rockin' Revue](http://www.donleady.com/) | swamp rock |
+{:.table .table-condensed}
+
+### Kid's Activities
+
+| 11am | [Jungle Jill and the Jaybirds](http://www.myspace.com/junglejilljaybirds) | entertainment for kids of all ages |
+| 11am and 1pm | Tree Man | giant tree walking around the festival! |
+| 1pm to 4pm | Jugglers | they'll be performing around the festival grounds |
+|  3pm | [Jamie Lynn](http://www.jamielynnbellydance.com/) | belly dancing |
+{:.table .table-condensed}
+
+also featuring face-painting, spin art, paper plate crafts, ladder game, bean bag toss,
+life-sized chess, gardening, Mother's Day card-making, seed balls, robotics demonstrations,
+Lego bricks, colored-sand bracelets, bead crafts, balloons, pin-the-tail on Domino, giant
+Jenga, and more!
+
+### Artists and Vendors
+
+Artist applications are live.  Please view our
+<a href="/docs/2016_VCF_Vendor_Guidelines.pdf">artist guidelines</a> and
+<a href="/vcf_apply.html">application form</a> for more details.
+For questions, contact vccwartists@gmail.com.
+
 ### Food Vendors
 
 * [Amy's Ice Creams](http://www.amysicecreams.com/)
@@ -37,31 +71,6 @@ We are making frequent updates there with announcements of artists and activitie
 * [Empanada Mia](https://www.facebook.com/empanada.mia.austin/)
 * [Fire & Slice Pizza](http://www.fireandsliceaustin.com/)
 * Domino Dogs & Drinks 
-
-### Music
-
-| 10am | Feet First | neighborhood rock |
-| 11am | [Jungle Jill and the Jaybirds](http://www.myspace.com/junglejilljaybirds) | entertainment for kids of all ages |
-| 11:45am | [Leslie Pool](http://www.austintexas.gov/department/district-7) | Austin City Council Member for district 7 speaks |
-| noon | Punch Card | youth rock band |
-|  1pm | [Fingers and Lips](https://www.facebook.com/Fingers-and-Lips-137054729681977) | duo from Nacogdoches |
-|  2pm | [Ron Titter Band](https://www.facebook.com/RonTitterBand/) | rock, soul, folk, and twang |
-|  3pm | [Jamie Lynn](http://www.jamielynnbellydance.com/) | belly dancing |
-|  4pm | [Don Leady and his Rockin' Revue](http://www.donleady.com/) | swamp rock |
-{:.table .table-condensed}
-
-### Kid's Activities
-
-| 11am | Tree Man | giant tree walking around the festival! |
-|  1pm | Tree Man | giant tree walking around the festival! |
-{:.table .table-condensed}
-
-### Artists and Vendors
-
-Artist applications are live.  Please view our
-<a href="/docs/2016_VCF_Vendor_Guidelines.pdf">artist guidelines</a> and
-<a href="/vcf_apply.html">application form</a> for more details.
-For questions, contact vccwartists@gmail.com.
 
 ### Community Groups
 
