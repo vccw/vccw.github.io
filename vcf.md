@@ -57,10 +57,8 @@ Jenga, and more!
 
 ### Artists and Vendors
 
-Artist applications are live.  Please view our
-<a href="/docs/2016_VCF_Vendor_Guidelines.pdf">artist guidelines</a> and
-<a href="/vcf_apply.html">application form</a> for more details.
-For questions, contact vccwartists@gmail.com.
+At this time, we've filled all of our artist slots.  We'll be putting the list of accepted
+artists on the website soon.  If you want to be on the waitlist, please contact <vccwartists@gmail.com>.
 
 ### Food Vendors
 
