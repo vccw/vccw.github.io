@@ -41,6 +41,9 @@ gold:
     - url: http://www.mazdacentral.com/
       img: sponsors/carousel-rogerbeasley.png
       name: Roger Beasley Mazda Central
+    - url: http://woodrow.arlansmarket.com
+      img: sponsors/carousel-arlans.jpg
+      name: Arlan's Market
     # - url: http://wheatsville.coop/
     #   img: sponsors/carousel-vccw-wheatsville.png
     #   name: Wheatsville Co-op
