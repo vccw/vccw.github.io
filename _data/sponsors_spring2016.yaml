@@ -135,6 +135,9 @@ bronze:
     - url: http://colorespreschool.blogspot.com/p/about-us.html
       name: Colores Spanish Immersion Preschool
       img: sponsors/carousel-colores.png
+    - url: http://parkourandplay.com/
+      name: Parkour and Play Camp
+      img: sponsors/carousel-parkour.png
     - img: sponsors/carousel-mike.png
       name: Mike McChesney, brisket master
     # - name: Linda Henderson
