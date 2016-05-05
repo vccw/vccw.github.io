@@ -132,6 +132,9 @@ bronze:
     - url: https://www.facebook.com/pages/Lalas/114546581902525
       name: LaLa's
       img: sponsors/carousel-lalas.jpg
+    - url: http://colorespreschool.blogspot.com/p/about-us.html
+      name: Colores Spanish Immersion Preschool
+      img: sponsors/carousel-colores.png
     - img: sponsors/carousel-mike.png
       name: Mike McChesney, brisket master
     # - name: Linda Henderson
