@@ -90,7 +90,6 @@ Art Fixter | recycled, reused, or repurposed materials turned into furniture, la
 [Flameless Shirt](https://www.etsy.com/shop/flamelessshirt/) | highly unique hand-made shirts, shirt-dresses, and hats of the highest quality
 EarthArt Austin | functional stoneware pottery
 [Cornsootherz](http://www.cornsootherz.artfire.com) | microwave heating pads, back wraps, purses, iPad holders
-MettleWorks Studios	| "steampunk" and various other styles of jewelry
 [Enhanced Space](http://www.enhancedspace.com/) | canvas and prints, hand-made terrariums
 [RIG Jewelry Co.](https://www.etsy.com/shop/rigjewelryco) | boho jewelry using natural stones and crystals
 [Dalton Designs](http://daltondesignsonline.com/) | hand-fabricated jewelry wrought of sterling and copper
@@ -100,18 +99,16 @@ MettleWorks Studios	| "steampunk" and various other styles of jewelry
 [Illuminidol](http://www.illuminidol.com/) | celebrity saint candles
 [Aphrodite's Canvas](http://aphroditescanvas.com/) | Ceramics and paper crafted goods
 [Gail McGlamery](https://www.gailmcglamery.com/) | handspun yarn, handdyed and handblended fibers for spinning and felting.
-[Workhorse Fabrication](https://workhorserevival.wordpress.com/) | Specializing in vintage cycling art pieces as well as home and garage bicycle storage solutions.
 {:.table .table-condensed}
 
 ### Food Vendors
 
 * [Amy's Ice Creams](http://www.amysicecreams.com/)
 * Snowie Shaved Ice
-* [Jack Hates Coffee](https://www.facebook.com/Jack-Hates-Coffee-133957846684052/)
 * [Com Bun Yeu](http://www.combunyeu.com/)
 * [Empanada Mia](https://www.facebook.com/empanada.mia.austin/)
 * [Fire & Slice Pizza](http://www.fireandsliceaustin.com/)
-* Domino Dogs & Drinks
+* Domino Dogs & Drinks & Coffee
 
 ### Community Groups
 
