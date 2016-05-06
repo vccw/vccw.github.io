@@ -106,6 +106,7 @@ The Rustic Nook |
 [Elementals](https://www.facebook.com/elementals.austin) | fine crafted jewelry
 Prior Creations | 
 [Anthony Saldivar](https://www.etsy.com/shop/AnthonySaldivar) | masks, paintings, other eclectic art
+Bluebird Studio and Plant Project | cactus and succulent planter from repurposed and vintage vessels
 {:.table .table-condensed}
 
 ### Food Vendors
