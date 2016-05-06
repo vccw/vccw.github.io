@@ -105,6 +105,7 @@ EarthArt Austin | functional stoneware pottery
 The Rustic Nook | 
 [Elementals](https://www.facebook.com/elementals.austin) | fine crafted jewelry
 Prior Creations | 
+[Anthony Saldivar](https://www.etsy.com/shop/AnthonySaldivar) | masks, paintings, other eclectic art
 {:.table .table-condensed}
 
 ### Food Vendors
