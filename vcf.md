@@ -99,6 +99,12 @@ EarthArt Austin | functional stoneware pottery
 [Illuminidol](http://www.illuminidol.com/) | celebrity saint candles
 [Aphrodite's Canvas](http://aphroditescanvas.com/) | Ceramics and paper crafted goods
 [Gail McGlamery](https://www.gailmcglamery.com/) | handspun yarn, handdyed and handblended fibers for spinning and felting.
+[Keatley Designs & Ruffled Clothing](http://keatleydesigns.com/) | handmade jewelry
+[Art By MB Mitchell](https://www.instagram.com/artbymbmitchell/) | painting
+[Garden Gizmos](https://www.facebook.com/gardengizmos.org) | beautiful yard art
+The Rustic Nook | 
+[Elementals](https://www.facebook.com/elementals.austin) | fine crafted jewelry
+Prior Creations | 
 {:.table .table-condensed}
 
 ### Food Vendors
