@@ -1,0 +1,28 @@
+gold:
+    - url: http://www.burnetroadstorage.com/
+      img: sponsors/carousel-BRStorage-bg.jpg
+      name: Burnet Road Storage
+    - url: http://www.grandecom.com/
+      img: sponsors/carousel-GrandeServices_ColorPMS_Vertical.jpg
+      name: Grande Communications
+    - url: http://www.amysicecreams.com/
+      img: sponsors/carousel-amys.jpg
+      name: Amy's Ice Creams
+    - url: http://juicehomes.com/idx/?idx-q-ListingAgentID%3C0%3E=491811
+      img: sponsors/carousel-vccw-gold-juice.jpg
+      name: Juice Homes - John Dunham
+    - url: http://wheatsville.coop/
+      img: sponsors/carousel-vccw-wheatsville.png
+      name: Wheatsville Co-op
+
+silver:
+    - url: http://crestviewna.com/
+      img: sponsors/carousel-vccw-cna.png
+      name: Crestview Neighborhood Association
+    - url: http://brentwoodaustin.blogspot.com
+      img: sponsors/carousel-vccw-bna.png
+      name: Brentwood Neighborhood Association
+
+bronze:
+
+friends:
