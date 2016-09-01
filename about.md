@@ -35,3 +35,8 @@ December, VCCW also  has sponsored art projects in the community.  These include
 * Lori Gieger
 * Mike McChesney
 * Ali Thompson
+
+### Previous Festivals
+
+* Violet Crown Festival (1st Saturday in May): [2013](vcf_2013.html), [2014](vcf_2014.html), [2015](vcf_2015.html)
+* Violet Crown Arts Festival (1st weekend in December): [2013](artsfest_2013.html), [2014](artsfest_2014.html), [2015](artsfest_2015.html)
