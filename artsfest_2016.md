@@ -5,17 +5,19 @@ title: Violet Crown Arts Festival (December 2016)
 
 <div class="container">
 	<div class="row">
-		<div class="col-md-4"><img src="img/Accordion player 400x496.png" title="Many thanks to artist Jean Graham for the use of images from the Wall of Welcome" class="img-responsive"></div>
 		<div class="col-md-4">
 			<h1>2016 Violet Crown Arts Festival</h1>
 			<h2>
-				Saturday, December 3rd<br>
-				Sunday, December 4th<br>
-				10AM to 5PM<br>
-				<br>
-				<a href="https://goo.gl/maps/xov1S">Brentwood Elementary School</a>
+				<p>Saturday,<br>
+				<strong>December 3rd</strong><br></p>
+				<p>Sunday,<br>
+				<strong>December 4th</strong></p>
+				<p>10AM to 5PM</p>
+				<p><a href="https://goo.gl/maps/xov1S">Brentwood Elementary School</a><br>
+				<small>6700 Yates Ave, Austin, TX 78757</small></p>
 			</h2>
 		</div>
+		<div class="col-md-4"><img src="img/Accordion player 400x496.png" title="Many thanks to artist Jean Graham for the use of images from the Wall of Welcome" class="img-responsive"></div>
 	</div>
 	<div class="row"><p><br><br></p></div>
 	<div class="row">
@@ -24,16 +26,16 @@ title: Violet Crown Arts Festival (December 2016)
 
 			<h3>The Festival</h3>
 
-			<p>Brentwood Elementary School, a Creative Learning Classroom Initiative, has
-			embraced the Violet Crown Arts Festival and will host it in the heart of the
-			Brentwood &amp; Crestview neighborhoods that the VCCW supports. The festival
-			will be held in the school’s west parking lot at
-			<a href="https://goo.gl/maps/xov1S">6700 Yates, Austin, TX 78757</a>.</p>
+			<p>Great quality artwork is standard, unique designs, expected.
+			New and experienced local talent showcase paintings, sculpture,
+			pottery, and fiber art, woodworking, glass art of all kinds,
+			metal work and jewelry. Shop for hand-made gifts and support
+			artistic cottage businesses in a family friendly environment.</p>
 
-			<p>Expect to find unique artwork from talented sculptors, potters, and fiber
-			artists, painters, jewelers, glass artists, woodworkers and metal smiths. Shop
-			for hand made gifts and great quality art, and support local cottage
-			businesses.  It's always free admission for the whole family!</p>
+			<p>Brentwood Elementary School a Creative Learning Classroom
+			Initiative, is host for Violet Crown Arts Festival in the heart
+			of the Brentwood &amp; Crestview neighborhoods that VCCW
+			supports. Located in the west parking lot. Admission is free.</p>
 
 		</div>
 
@@ -41,11 +43,11 @@ title: Violet Crown Arts Festival (December 2016)
 
 	<div class="row"><div class="col-md-8">
 
-		<h3>RSVP on Facebook</h3>
+		<h3>Facebook</h3>
 
-		<p>We've created <a href="https://www.facebook.com/events/1569339103384040/">a
-		Facebook event for the Violet Crown Arts Festival</a> if you want to stay
-		informed as we provide updates on location, artists, and music.</p>
+		Stay informed on facebook event page for Violet Crown Arts Festival.
+		Updates on the artists, music and food trucks.
+
 
 	</div></div>
 
@@ -57,13 +59,15 @@ title: Violet Crown Arts Festival (December 2016)
 
 		<h3>Getting There</h3>
 
-		<p>The festival will be in the parking lot on the west side of the school.  Some
-		parking is available in the neighborhood, but we encourage you to walk, bike,
-		or take Capitol Metro bus service.  Bus lines 3, 5, 320, and 803 are all within
-		a fifteen minute walk of the school.</p>
+		<p>Festival site is the west parking lot adjacent to Brentwood Park
+		and school. Parking is available in the neighborhood, but you are
+		encouraged to walk, run, bike, carpool with friends and family or
+		take Capitol Metro. Bus lines 3, 5, 320 &amp; 803 are within a 15 minute
+		walk.</p>
 
 	</div></div>
 
+<!--
 	<div class="row"><div class="col-md-8">
 
 		<h3>Music</h3>
@@ -87,17 +91,18 @@ title: Violet Crown Arts Festival (December 2016)
 
 		<h3>Artists</h3>
 
-</div></div>
+	</div></div>
+-->
 
 	<div class="row"><div class="col-md-8">
 
 		<h3>Contact</h3>
 
-		<p>For questions about the festival, please mail <a href="mailto:violetcrownartsfestival@gmail.com">violetcrownartsfestival@gmail.com</a>.</p>
-
 		<p>If you wish to exhibit at the festival, please
 		<a href="artsfest_apply.html">visit our festival guidelines and
-		application page</a>.  Artist applications will open at the beginning of September.</p>
+		application page</a>.  Artist applications will open in early September.</p>
+
+		<p>For questions about the festival, please mail <a href="mailto:violetcrownartsfestival@gmail.com">violetcrownartsfestival@gmail.com</a>.</p>
 
 	</div></div>
 </div>
