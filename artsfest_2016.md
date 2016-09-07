@@ -45,9 +45,8 @@ title: Violet Crown Arts Festival (December 2016)
 
 		<h3>Facebook</h3>
 
-		Stay informed on facebook event page for Violet Crown Arts Festival.
-		Updates on the artists, music and food trucks.
-
+		<p>Stay informed on <a href="https://www.facebook.com/events/102067300252996/">our Facebook event page
+		for the Violet Crown Arts Festival</a> with updates on the artists, music and food trucks.</p>
 
 	</div></div>
 
@@ -100,7 +99,8 @@ title: Violet Crown Arts Festival (December 2016)
 
 		<p>If you wish to exhibit at the festival, please
 		<a href="artsfest_apply.html">visit our festival guidelines and
-		application page</a>.  Artist applications will open in early September.</p>
+		application page</a>.  Artist applications are now open; the deadline for
+		entry is October 31st.</p>
 
 		<p>For questions about the festival, please mail <a href="mailto:violetcrownartsfestival@gmail.com">violetcrownartsfestival@gmail.com</a>.</p>
 

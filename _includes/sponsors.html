@@ -12,7 +12,7 @@
 <div id="carousel-sponsors" class="carousel slide" data-interval="2500" data-ride="carousel">
     <!-- Wrapper for slides -->
     <div class="carousel-inner">
-        {% for sponsor in site.data.sponsors_spring2016.gold %}
+        {% for sponsor in site.data.sponsors_fall2016.gold %}
         <div class="item{% if forloop.first %} active{% endif %}">
             {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
             <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">

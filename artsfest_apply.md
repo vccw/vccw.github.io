@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Violet Crown Arts Festival Application (December 2015)
+title: Violet Crown Arts Festival Application (December 2016)
 ---
 
 <div class="container">
 	<div class="row">
-		<div class="col-md-4"><img src="img/Accordion player 400x496.png" title="Many thanks to Jean Graham mosaics master for the use of images" class="img-responsive"></div>
 		<div class="col-md-4">
 			<h1>Artist Application</h1>
-			<h2>2015 Violet Crown Arts Festival</h2>
+			<h1>2016 Violet Crown Arts Festival</h1>
 		</div>
+		<div class="col-md-4"><img src="img/Accordion player 400x496.png" title="Many thanks to artist Jean Graham for the use of images from the Wall of Welcome" class="img-responsive"></div>
 	</div>
 </div>
 
-## 2015 Entry Requirements
+## 2016 Entry Requirements
 
 1. Only original work will be accepted (no kits or imports).
 2. The jury will select all participating artists. Even if you have been accepted
@@ -30,7 +30,7 @@ title: Violet Crown Arts Festival Application (December 2015)
 
 ## Fees
 
-Our fees for 2015 are $155 for the booth rental (10' by 10' space) and $10 for the 
+Our fees for 2016 are $155 for the booth rental (10' by 10' space) and $10 for the
 non-refundable application fee.
 
 ## Timeline
@@ -46,15 +46,15 @@ Please, do not call for confirmation.
 ## Refunds and Cancellation
 
 Refunds will not be issued once you have been accepted unless you notify us before
-Dec. 1 and your booth space can be filled by another approved exhibitor. Spaces not
-occupied by 8:30 A.M. on Sat. Dec. 5th will be reassigned without a refund. This is a
+November 29th and your booth space can be filled by another approved exhibitor. Spaces not
+occupied by 8:30 A.M. on Sat. Dec. 3rd will be reassigned without a refund. This is a
 rain or shine event, there will be no refunds in case of rain.
 
-If the festival is cancelled, refunds will be issued less processing fees. 
+If the festival is cancelled, refunds will be issued less processing fees.
 
 ## Setup
 
-Set up begins 7:00 A.M. Saturday, Dec. 5th and at 8:00 A.M. Sunday, Dec. 6th. 
+Set up begins 7:00 A.M. Saturday, Dec. 3rd and at 8:00 A.M. Sunday, Dec. 4th.
 After check-in, participants must unload and immediately remove their vehicle to
 designated vendor parking area. Festival begins at 10:00 A.M.
 
@@ -62,7 +62,7 @@ Security will be provided overnight Saturday.
 
 ## Application
 
-<script type="text/javascript" src="http://form.jotform.us/jsform/52374722590154"></script>
+<script type="text/javascript" src="http://form.jotform.us/jsform/62499127324157"></script>
 
 ## Questions?
 

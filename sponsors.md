@@ -8,15 +8,14 @@ volunteers and artists, and with the generous support of our sponsors. These
 businesses and individuals provided funding and services that help us run the
 festivals and sponsor local arts projects.  Join us in thanking them.
 
-If you&apos;re interested in being a sponsor for the 2016 Violet Crown Festival
-in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a>.
+If you&apos;re interested in being a sponsor, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a>.
 
 ## Gold Sponsors
 <!-- $500 and up -->
 
 <div class="container">
 <div class="row">
-{% for sponsor in site.data.sponsors_spring2016.gold %}
+{% for sponsor in site.data.sponsors_fall2016.gold %}
 <div class="col-md-3">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
@@ -32,7 +31,7 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 
 <div class="container">
 <div class="row">
-{% for sponsor in site.data.sponsors_spring2016.silver %}
+{% for sponsor in site.data.sponsors_fall2016.silver %}
 <div class="col-md-3">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
@@ -48,7 +47,7 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 
 <div class="container">
 <div class="row">
-{% for sponsor in site.data.sponsors_spring2016.bronze %}
+{% for sponsor in site.data.sponsors_fall2016.bronze %}
 <div class="col-md-3">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
@@ -61,5 +60,5 @@ in May, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a
 
 ### Friends of Violet Crown Community
 <!-- $50 to $99 -->
-{% for sponsor in site.data.sponsors_spring2016.friends %}{% if sponsor.url %}* [{{ sponsor.name }}]({{ sponsor.url }}){% else %}* {{sponsor.name}}{% endif %}
+{% for sponsor in site.data.sponsors_fall2016.friends %}{% if sponsor.url %}* [{{ sponsor.name }}]({{ sponsor.url }}){% else %}* {{sponsor.name}}{% endif %}
 {% endfor %}
