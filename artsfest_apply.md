@@ -27,6 +27,7 @@ title: Violet Crown Arts Festival Application (December 2016)
 8. No alcoholic beverages and no smoking allowed; this is AISD-owned property.
 9. No electricity will be available for exhibitors.
 10. Booth assignments are made in the order applications are received.
+11. Artists must secure their tents using at least 20lbs of weight per tent leg.
 
 ## Fees
 
