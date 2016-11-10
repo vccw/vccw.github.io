@@ -50,10 +50,6 @@ title: Violet Crown Arts Festival (December 2016)
 
 	</div></div>
 
-	<div class="row">
-		<div class="col-md-8"><img src="img/arts2014_02.jpg" class="img-responsive"></div>
-        </div>
-
 	<div class="row"><div class="col-md-8">
 
 		<h3>Getting There</h3>
@@ -99,8 +95,7 @@ title: Violet Crown Arts Festival (December 2016)
 
 		<p>If you wish to exhibit at the festival, please
 		<a href="artsfest_apply.html">visit our festival guidelines and
-		application page</a>.  Artist applications are now open; the deadline for
-		entry is October 31st.</p>
+		application page</a>.  Artist applications are now open; a few spots are still available.</p>
 
 		<p>For questions about the festival, please mail <a href="mailto:violetcrownartsfestival@gmail.com">violetcrownartsfestival@gmail.com</a>.</p>
 
