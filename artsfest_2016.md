@@ -62,20 +62,29 @@ title: Violet Crown Arts Festival (December 2016)
 
 	</div></div>
 
-<!--
 	<div class="row"><div class="col-md-8">
 
 		<h3>Music</h3>
 
 		<p>Saturday</p>
 		<ul>
+		<li>10:00 - 11:30   Feet First</li>
+		<li>12:00 -  1:00   TBA</li>
+		<li>1:00 -   3:00   <a href="https://www.youtube.com/watch?v=68CgHD25fJ4">Teddy &amp; the Talltops</a></li>
+		<li>3:00 -   5:00   <a href="http://pksax.com/">Paul Klemperer Trio</a></li>
 		</ul>
+
 		<p>Sunday</p>
 		<ul>
+		<li>10:00 - 11:00   <a href="http://bethanybecker.com">Bethany Becker</a></li>
+		<li>11:30 -  1:00   The Bouza Boys</li>
+		<li>1:30 -   3:00   Kathy &amp; The Kilowatts</li>
+		<li>3:00 -   5:00   Diana Cantu Band</li>
 		</ul>
 
 	</div></div>
 
+<!--
 	<div class="row"><div class="col-md-8">
 
 		<h3>Food</h3>
