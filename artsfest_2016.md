@@ -62,15 +62,15 @@ title: Violet Crown Arts Festival (December 2016)
 
 	</div></div>
 
-	<div class="row"><div class="col-md-8">
+	<div class="row">
+	<div class="col-md-5">
 
 		<h3>Music</h3>
 
 		<p>Saturday</p>
 		<ul>
 		<li>10:00 - 11:30   Feet First</li>
-		<li>12:00 -  1:00   TBA</li>
-		<li>1:00 -   3:00   <a href="https://www.youtube.com/watch?v=68CgHD25fJ4">Teddy &amp; the Talltops</a></li>
+		<li>12:00 -  3:00   <a href="https://www.youtube.com/watch?v=68CgHD25fJ4">Teddy &amp; the Talltops</a></li>
 		<li>3:00 -   5:00   <a href="http://pksax.com/">Paul Klemperer Trio</a></li>
 		</ul>
 
@@ -82,7 +82,11 @@ title: Violet Crown Arts Festival (December 2016)
 		<li>3:00 -   5:00   Diana Cantu Band</li>
 		</ul>
 
-	</div></div>
+	</div>
+	<div class="col-md-3">
+	<img src="img/tedroddyharp2.jpg" title="Teddy and the Talltops" class="img-rounded">
+	</div>
+	</div>
 
 <!--
 	<div class="row"><div class="col-md-8">
@@ -96,7 +100,8 @@ title: Violet Crown Arts Festival (December 2016)
 
 		<h3>Artists</h3>
 
-	<div class="row"><div class="col-md-6">
+	<div class="row">
+	<div class="col-md-6">
 
         <ul>
         {% for artist in site.data.artists_fall2016 %}
@@ -108,7 +113,7 @@ title: Violet Crown Arts Festival (December 2016)
         </ul>
 
     </div>
-	<div class="row"><div class="col-md-6">
+	<div class="col-md-6">
 
         <ul>
         {% for artist in site.data.artists_fall2016 %}
@@ -120,8 +125,7 @@ title: Violet Crown Arts Festival (December 2016)
         </ul>
 
     </div>
-
-	</div></div>
+	</div>
 
 	<div class="row"><div class="col-md-8">
 
