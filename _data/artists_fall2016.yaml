@@ -1,0 +1,171 @@
+- name: Sarah Monger  
+  description: Hand made pottery, mugs, bowls, spoon rests
+- name: Anne Camp
+  url: http://anneelizabethcamp.com/
+  description: Abstract Collage using vintage fabrics and papers
+- name: Jamie Rood  
+  url: http://www.jamierood.com/
+  description: Photographic Art
+- name: David Kosbab
+  description: stained glass sun catchers, night lights, candle holders, and garden buddies
+- name: Reagan Billingsley
+  url: https://www.etsy.com/shop/Radiances
+  description: Handmade hair & body butter and crafty frames.
+- name: Kristen Langelier
+  url: myurbanponcho.com
+  description: Handmade light weight ponchos
+- name: Keridwyn Hershberger
+  url:  http://www.devonshireorganics.com/
+  description: natural incense, vegan soaps, body oils, lotions, and scrubs.
+- name: Leah Markov-Lindsey
+  description: hand-dyed accessories using the traditional Japanese process of shibori
+- name: RiverRock Handcrafted Jewelry (Diana Popham)
+  url: http://www.riverrockgems.com/
+  description: silver, copper, brass jewelry with gemstones
+- name: Elisabeth Flohr
+  url: https://www.etsy.com/shop/madebyelisabeth
+  description: handmade and wire-wrapped jewelry
+- name: Dalton Designs (Lacy Weyler)
+  url: http://daltondesignsonline.com/
+  description: sterling silver and copper jewelry using hand fabrication and lost wax casting
+- name: Jona Burkhalter
+  description: Mixed media jewelry, sculpture and paintings.
+- name: illuminidol (gavin inverso)
+  url: http://www.illuminidol.com/
+  description: Celebrity Saint Candles
+- name: Dolce Malatesta
+  description: handmade pillows, jewelry, wall hangings, and scarves made from recycled cotton saris
+- name: VibeCollections (Elizabeth Crandall)
+  url: https://www.etsy.com/shop/VibeCollections
+  description: gemstone necklaces on natural silk
+- name: Flameless Shirt (Brooke Wilton)
+  url: https://www.etsy.com/shop/flamelessshirt/
+  description: Highly original clothing of the highest quality.
+- name: Emily Hodgkinson
+  url: http://www.emilyspictures.com
+  description: watercolors of landscapes, florals and the southwest.
+- name: Nikki Dowd
+  url: http://www.nikkidowd.wordpress.com
+  description: watercolor - original, prints and cards
+- name: Deadly Creative (April Davis)
+  url: http://www.deadlycreative.com
+  description: fine art prints in varying sizes, coasters, coffin boxes, necklaces and magnets
+- name: Lillian Butler  
+  url: http://www.bylillian.com/
+  description: Enamel and wire-wrapping, with a side of coins.
+- name: Lady Alchemy 13 (Lori Struble)
+  url: https://www.etsy.com/shop/LadyAlchemy13
+  description: original paintings, prints, photography, drink coasters, necklaces, magnets, and trinket boxes
+- name: Green Dog Studio (Jim Bob Salazar)
+  url: http://www.greendogstudioart.com/
+  description: Wheel thrown, terra cotta, hanging flower pots, bird feeders, bird baths and ollas.
+- name: Marlena Jarjoura
+  url: http://www.marlenajarjoura.com/
+  description: jewelry using crystals found locally and in Arkansas
+- name: Michelle Wagner
+  url: http://www.michelledwagnerphotography.com
+  description: paper prints, canvas prints, metal prints, greeting cards, and gift items
+- name: Masterpieced by Michiel (Michiel Rushing)
+  description: Hand made jewelry and fused glass
+- name: Kristen O'Quinn
+  url: https://www.etsy.com/shop/Prisumworks
+  description: Jewelry, Earrings, Necklaces, Bracelets
+- name: Ross De La Garza
+  url: http://www.phishross.com/
+  description: whimsical hand-built Raku fired fish, teapots and vessels
+- name: Sweet Sparrow Studio (Lauren Johnson)
+  url: http://www.sweetsparrowstudio.com/
+  description: Vintage inspired jewelry and hair accessories with a modern touch
+- name: Rabbits, Feathers, & Bone (Laura McCann)
+  url: http://rabbitsfeathersandbone.com/
+  description: jewelry from found objects
+- name: 3 Hungry Racoons (Christine Buendel)
+  url: http://threehungryracoons.com/
+  description: 100% cotton napkins
+- name: Jamie McCormick
+  url: http://jamie-mccormick.com/
+  description: abstract and landscape paintings
+- name: Britta Ambauen
+  url: http://www.brittaambauen.com/
+  description: meaningful jewelry to inspire the wearer
+- name: Collar Me Crazee (Janet Merideth)
+  url: http://www.collarmecrazee.com/
+  description: hand made dog collars and leashes
+- name: Oh Little Foxes (Rachel Barnett)
+  url: https://ohlittlefoxes.com/
+  description: handmade jewelry line that creates pieces with a boho-chic but minimalist approach
+- name: Anne Thomas
+  description: Fun and functional stoneware, terrecotta and raku fired pottery
+- name: ArcheoModern Designs (Jamie Shelton)
+  url: http://www.archeomoderndesigns.com/
+  description: Hand Dyed Silk Scarves, Skirts, Pants and Tops
+- name: Nancy Hallmark
+  url: https://squareup.com/market/hallmark-potteryok
+  description: Hand thrown earthenware pottery with a Majolica glaze and hand painted decoration
+- name: Maria Eberle
+  description: textiles
+- name: Sporecloud (Jeff Bent)
+  url: http://www.sporecloud.com/
+  description: hand-built ceramics and slip-cast work
+- name: Brentwood Metal Works (Ryan Eberly)
+  url: https://www.facebook.com/BrentwoodMetalWorks/
+  description: Custom steel and wood furniture and other artistic metal objects
+- name: Mckinley Mizar
+  url: http://mckinleymizar.com/
+  description: minimal contemporary jewelry in sterling silver, brass and copper
+- name: Debra Carlisle
+  description: seed bead weaving, wire wrapped sculpturing/designs, and gemstone designs
+- name: tEChLECTIC
+  url: http://techlectic.com/
+  description: Computer Art, recycled computer lanterns
+- name: Salvation Central
+  url: http://salvationcentral.com/
+  description: Stained Glass
+- name: Stones Throw Studio (Kyle Gross)
+  url: http://stonesthrowstudio.com/
+  description: sterling silver and gold-fill ring designs along with pendants and earrings
+- name: Melody Williams
+  description: Handmade candles, tapers and wax hurricane luminaries
+- name: The Coggler's Shoppe (Troy Daniel)
+  url: http://www.thecogglersshoppe.com/
+  description: Steampunk inspired jewelry and accessories largely made from repurposed Vintage watch pieces
+- name: Wick Habit (Erica Huff)
+  url: https://www.etsy.com/shop/wickhabit/
+  description: hand-poured soy wax candles in unique Austin-themed scents
+- name: Connie Adcock
+  url: http://www.connieadcockart.com/
+  description: Watercolor and acrylic paintings
+- name: Carianne Schulte
+  url: https://squareup.com/store/Bycarianne
+  description: Handcrafted sterling silver jewelry
+- name: Fashion Outlaws (Sheva Hart)
+  url: https://www.etsy.com/shop/fashionoutlaws
+  description: Top shelf crocheted hats and art vessels
+- name: Stick Lizard Designs (Laura Zeiner)
+  url: http://www.sticklizarddesigns.com/
+  description: Nature and Victorian inspired bead-woven jewelry.
+- name: Shieldmaiden Designes (Julie Clawson)
+  url: http://www.shieldmaidendesigns.com/
+  description: handmade jewelry, decor, and wine accessories in precious metals, gemstones, and glass
+- name: Jamie Spinello
+  url: http://www.jamiespinello.com/
+  description: wearable art made from my hand sculpted wax models
+- name: Glenn Corser
+  description: Wooden light boxes, night lights, ornaments, ear rings
+- name: Bill  Woodburn
+  description: Rune Casting is an ancient form of divination and fortune telling
+- name: Muggs Studio (Morgan McBride)
+  url: http://www.muggsstudio.com/
+  description: Handmade and painted porcelain that is 100% functional
+- name: Elementals Austin (Kat Allison)
+  url: https://www.facebook.com/elementals.austin/
+  description: Precious metals and gemstone jewelry
+- name: Beautifully Bevilled (Christina Bevill)
+  url: https://www.beautifullybevilled.com/
+  description: hand illustrated stationery, invitations, and greeting cards
+- name: Garden Gizmos (Amelia Warnock)
+  url: https://www.facebook.com/gardengizmos.org
+  description: Glass yard art made from repurposed materials
+- name: Aphrodite's Canvas (Julie Taylor)
+  url: http://aphroditescanvas.com/
+  description:  Ceramics, pottery and paper crafts

@@ -90,13 +90,38 @@ title: Violet Crown Arts Festival (December 2016)
 		<h3>Food</h3>
 
 	</div></div>
+-->
 
 	<div class="row"><div class="col-md-8">
 
 		<h3>Artists</h3>
 
+	<div class="row"><div class="col-md-6">
+
+        <ul>
+        {% for artist in site.data.artists_fall2016 %}
+ 		{% assign mod = forloop.index | modulo: 2 %}
+        {% if mod == 1 %}
+        <li>{% if artist.url %}<a href="{{ artist.url }}" target="_blank">{% endif %}{{ artist.name }}{% if artist.url %}</a>{% endif %} - {{ artist.description }}</li>
+        {% endif %}
+        {% endfor %}
+        </ul>
+
+    </div>
+	<div class="row"><div class="col-md-6">
+
+        <ul>
+        {% for artist in site.data.artists_fall2016 %}
+ 		{% assign mod = forloop.index | modulo: 2 %}
+        {% if mod == 0 %}
+        <li>{% if artist.url %}<a href="{{ artist.url }}" target="_blank">{% endif %}{{ artist.name }}{% if artist.url %}</a>{% endif %} - {{ artist.description }}</li>
+        {% endif %}
+        {% endfor %}
+        </ul>
+
+    </div>
+
 	</div></div>
--->
 
 	<div class="row"><div class="col-md-8">
 
