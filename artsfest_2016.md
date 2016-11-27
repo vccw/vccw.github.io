@@ -13,8 +13,9 @@ title: Violet Crown Arts Festival (December 2016)
 				<p>Sunday,<br>
 				<strong>December 4th</strong></p>
 				<p>10AM to 5PM</p>
-				<p><a href="https://goo.gl/maps/xov1S">Brentwood Elementary School</a><br>
-				<small>6700 Yates Ave, Austin, TX 78757</small></p>
+				<p><a href="https://goo.gl/maps/xov1S">6700 Yates Ave,
+				<br>Austin, TX 78757</a>
+				<br><small>outside Brentwood Elementary School</small></p>
 			</h2>
 		</div>
 		<div class="col-md-4"><img src="img/Accordion player 400x496.png" title="Many thanks to artist Jean Graham for the use of images from the Wall of Welcome" class="img-responsive"></div>
