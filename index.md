@@ -9,4 +9,4 @@ If you'd like to apply as an vendor, see <a href="artsfest_apply.html">the onlin
 
 To get up-to-date information as the festival nears, check the [Violet Crown Arts Festival page on Facebook](https://www.facebook.com/events/102067300252996/).
 
-<img src="img/Joseph_Magnano_3.jpg" title="artist Joseph Magnano - Vibrant Cows" class="img-responsive img-rounded">
+<a href="http://www.violetcrowncommunity.org/artsfest_2016.html"><img src="img/Joseph_Magnano_3.jpg" title="artist Joseph Magnano - Vibrant Cows" class="img-responsive img-rounded"></a>
