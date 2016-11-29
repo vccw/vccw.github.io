@@ -1,9 +1,9 @@
-- name: Sarah Monger  
+- name: Sarah Monger
   description: Hand made pottery, mugs, bowls, spoon rests
 - name: Anne Camp
   url: http://anneelizabethcamp.com/
   description: Abstract Collage using vintage fabrics and papers
-- name: Jamie Rood  
+- name: Jamie Rood
   url: http://www.jamierood.com/
   description: Photographic Art
 - name: David Kosbab
@@ -50,7 +50,7 @@
 - name: Deadly Creative (April Davis)
   url: http://www.deadlycreative.com
   description: fine art prints in varying sizes, coasters, coffin boxes, necklaces and magnets
-- name: Lillian Butler  
+- name: Lillian Butler
   url: http://www.bylillian.com/
   description: Enamel and wire-wrapping, with a side of coins.
 - name: Lady Alchemy 13 (Lori Struble)
@@ -138,9 +138,6 @@
 - name: Carianne Schulte
   url: https://squareup.com/store/Bycarianne
   description: Handcrafted sterling silver jewelry
-- name: Fashion Outlaws (Sheva Hart)
-  url: https://www.etsy.com/shop/fashionoutlaws
-  description: Top shelf crocheted hats and art vessels
 - name: Stick Lizard Designs (Laura Zeiner)
   url: http://www.sticklizarddesigns.com/
   description: Nature and Victorian inspired bead-woven jewelry.
