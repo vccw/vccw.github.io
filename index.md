@@ -3,8 +3,10 @@ layout: default
 title: Home Page
 ---
 
-The spring 2017 Violet Crown Festival will be Saturday, May 6th.  We will have artist applications online by the first week of March.
+The <a href="vcf_2017.html">spring 2017 Violet Crown Festival</a> will be Saturday, May 6th.
+
+Applications for the festival are now open.  See our <a href="vcf_apply.html">artist application page for details.</a>
+
+<a href="vcf_apply.html"><img src="img/DominoIsComing.jpg" class="img-responsive img-rounded"></a>
 
 To get up-to-date information as the festival nears, check the [Violet Crown Arts Festival page on Facebook](https://www.facebook.com/events/102067300252996/).
-
-<img src="img/7000691842_260e5747fa_b.jpg" class="img-responsive img-rounded">
