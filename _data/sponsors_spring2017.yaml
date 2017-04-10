@@ -14,8 +14,24 @@ gold:
     - url: http://woodrow.arlansmarket.com
       img: sponsors/carousel-arlans.jpg
       name: Arlan's Market
+    - url: http://bodybusiness.com
+      name: Body Business
+      img: sponsors/carousel-bodybusiness.png
+      url: http://www.bodybusiness.com/
+    - name: City of Austin and Councilmember Leslie Pool
+      img: sponsors/carousel-cityofaustin.png
+      url: http://www.austintexas.gov/department/district-7
+    - url: http://www.drsherwood.net/
+      img: sponsors/carousel-sherwood.png
+      name: Sherwood Pediatric Dentistry
+    - url: http://www.rbaofaustin.com
+      name: Renewal by Anderson
+      img:  sponsors/carousel-rba.png
 
 silver:
+    - url: http://colorespreschool.blogspot.com/p/about-us.html
+      name: Colores Spanish Immersion Preschool
+      img: sponsors/carousel-colores.png
     - url: http://crestviewna.com/
       img: sponsors/carousel-vccw-cna.png
       name: Crestview Neighborhood Association
@@ -25,13 +41,35 @@ silver:
     - url: http://www.barnstormersmusic.com/
       img: sponsors/carousel-barnstormers.png
       name: Barnstormer's Studio
-
+    - nane: La Patisserie
+      url: http://www.lpaustin.com/
+      img: sponsors/carousel-lapatisserie.png
+    - url: http://austin.snapology.com/
+      img: sponsors/carousel-snapology.png
+      name: Snapology Austin
+    - url: http://www.julieblack.us/
+      name: Starkey Mortgage - Julie Black
+      img: sponsors/carousel-starkey.png
+    
 bronze:
     - img: sponsors/carousel-mike.png
       name: Mike McChesney, brisket master
-    # - name: Linda Henderson
-    # - name: Marion Forbes
+    - name: El Dorado Cafe
+      url: http://www.eldoradocafeatx.com/
+      img: sponsors/carousel-eldorado.png
 
 friends:
     - name: Mimosa Screen Printing
       url: http://www.mimosascreenprinting.com/
+    - url: http://www.thesteamteam.com/
+      name: The Steam Team
+    - url: http://www.hatcreekburgers.com
+      name: Hat Creek Burgers
+    - name: Lick Honest Ice Creams
+      url: http://www.ilikelick.com/
+    - name: P.Terry's Burgers
+      url: http://pterrys.com/
+    - name: Thunderbird Coffee
+      url: http://thunderbirdcoffee.com/
+    - name: Toybrary Austin
+      url: http://toybraryaustin.com/
