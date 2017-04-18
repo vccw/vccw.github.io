@@ -27,6 +27,21 @@ gold:
     - url: http://www.rbaofaustin.com
       name: Renewal by Anderson
       img:  sponsors/carousel-rba.png
+    - url: http://www.austinchronicle.com/
+      img: sponsors/carousel-chronicle.png
+      name: Austin Chronicle
+    - url: http://www.jump-austin.com/
+      img: sponsors/carousel-jump.png
+      name: Jump Gymnastics
+    - name: Paragon Prep
+      url: http://www.paragonprep.com/
+      img: sponsors/carousel-paragon.png
+    - url: http://www.drsherwood.net/
+      img: sponsors/carousel-sherwood.png
+      name: Sherwood Pediatric Dentistry
+    - url: https://www.austindentalspa.com/
+      img: sponsors/carousel-austindentalspa.png
+      name: Austin Dental Spa
 
 silver:
     - url: http://colorespreschool.blogspot.com/p/about-us.html
@@ -50,6 +65,15 @@ silver:
     - url: http://www.julieblack.us/
       name: Starkey Mortgage - Julie Black
       img: sponsors/carousel-starkey.png
+    - url: http://www.stilesswitchbbq.com/
+      img: sponsors/carousel-stilesswitch.png
+      name: Stiles Switch BBQ
+    - url: http://www.suntint.com/
+      img: sponsors/carousel-suntint.png
+      name: Sun Tint
+    - url: http://www.fivestarinteriors.com/
+      img: sponsors/carousel-fivestar.png
+      name: Five Star Interiors
     
 bronze:
     - img: sponsors/carousel-mike.png
@@ -57,6 +81,9 @@ bronze:
     - name: El Dorado Cafe
       url: http://www.eldoradocafeatx.com/
       img: sponsors/carousel-eldorado.png
+    - url: http://crestviewmethodist.org/
+      img: sponsors/carousel-crestview-umc.png
+      name: Crestview United Methodist Church
 
 friends:
     - name: Mimosa Screen Printing
@@ -73,3 +100,5 @@ friends:
       url: http://thunderbirdcoffee.com/
     - name: Toybrary Austin
       url: http://toybraryaustin.com/
+    - name: Ruby's BBQ
+      url: http://rubysbbq.com/
