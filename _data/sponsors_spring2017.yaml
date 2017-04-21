@@ -74,6 +74,9 @@ silver:
     - url: http://www.fivestarinteriors.com/
       img: sponsors/carousel-fivestar.png
       name: Five Star Interiors
+    - url: http://nativeedgelandscape.com/
+      img: sponsors/carousel-nativeedge.png
+      name: Native Edge Landscape
     
 bronze:
     - img: sponsors/carousel-mike.png
