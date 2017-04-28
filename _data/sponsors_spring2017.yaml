@@ -42,8 +42,8 @@ gold:
     - url: https://www.austindentalspa.com/
       img: sponsors/carousel-austindentalspa.png
       name: Austin Dental Spa
-    - url: sponsors/carousel-champion.png
-      img: http://www.getchampion.com/
+    - img: sponsors/carousel-champion.png
+      url: http://www.getchampion.com/
       name: Champion Window
     - url: https://www.amazingexteriors.com/
       img: sponsors/carousel-amazing.png
