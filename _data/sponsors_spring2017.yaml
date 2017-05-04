@@ -83,6 +83,9 @@ silver:
     - url: http://nativeedgelandscape.com/
       img: sponsors/carousel-nativeedge.png
       name: Native Edge Landscape
+    - name: Armadillo Karaoke
+      url: http://www.armadillokaraoke.com/
+      img: sponsors/carousel-armadillokaraoke.png
     
 bronze:
     - img: sponsors/carousel-mike.png
