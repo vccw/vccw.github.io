@@ -3,9 +3,6 @@ layout: default
 title: Home Page
 ---
 
-The <a href="vcf_2017.html">spring 2017 Violet Crown Festival</a> will be Saturday, May 6th at Brentwood Park.
-Check out our page for details on activities and artists.
+The Violet Crown Community Works Board would like to thank all of the vendors and neighbors who have made the Violet Crown Fall Arts Festival such a special event over these last few years.  While we have enjoyed bringing this festival to our neighborhood since 2013, the VCCW Board recognizes our limited resources and made the difficult decision to discontinue the Fall Arts Festival and focus our energy on the Violet Crown Festival in May.
 
-<a href="vcf_2017.html"><img src="img/MG_4776.jpg" class="img-responsive img-rounded"></a>
-
-To get up-to-date information as the festival nears, check the [Violet Crown Arts Festival page on Facebook](https://www.facebook.com/events/102067300252996/).
+The board would especially like to recognize the tireless work of our friend and neighbor, Judith Craft.  She started this event over 30 years ago as the Wheatsville Arts Festival, and it is amazing people like her who continue to inspire the makers, crafters and artists to create beautiful things in this world. Thank you Judith!
