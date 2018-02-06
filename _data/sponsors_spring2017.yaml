@@ -1,4 +1,7 @@
 gold:
+    - url: http://woodrow.arlansmarket.com
+      img: sponsors/carousel-arlans.jpg
+      name: Arlan's Market
     - url: http://www.burnetroadstorage.com/
       img: sponsors/carousel-BRStorage-bg.jpg
       name: Burnet Road Storage
@@ -11,9 +14,6 @@ gold:
     - url: http://juicehomes.com/idx/?idx-q-ListingAgentID%3C0%3E=491811
       img: sponsors/carousel-vccw-gold-juice.jpg
       name: Juice Homes - John Dunham
-    - url: http://woodrow.arlansmarket.com
-      img: sponsors/carousel-arlans.jpg
-      name: Arlan's Market
     - url: http://bodybusiness.com
       name: Body Business
       img: sponsors/carousel-bodybusiness.png
