@@ -1,8 +1,6 @@
 ---
 layout: default
-title: Violet Crown Festival Application (May 2017)
+title: Violet Crown Festival Application (May 2018)
 ---
 
-We're full!  New submissions have been disabled.  Check again this fall for our December festival.
-
-<!-- script type="text/javascript" src="https://form.jotform.com/jsform/70635472326153"></script -->
+<script type="text/javascript" src="https://form.jotform.com/jsform/80430333703142"></script>

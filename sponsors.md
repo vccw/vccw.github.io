@@ -8,7 +8,7 @@ volunteers and artists, and with the generous support of our sponsors. These
 businesses and individuals provided funding and services that help us run the
 festivals and sponsor local arts projects.  Join us in thanking them.
 
-If you&apos;re interested in being a sponsor, please see <a href="/docs/2016_VCF_Sponsor.pdf">our sponsorship guide</a>.
+If you&apos;re interested in being a sponsor, please see <a href="/docs/VCF_SponsorPacket_2017_pig.pdf">our sponsorship guide</a>.
 
 ## Gold Sponsors
 <!-- $500 and up -->
