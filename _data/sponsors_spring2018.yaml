@@ -14,6 +14,9 @@ gold:
     - name: City of Austin and Councilmember Leslie Pool
       img: sponsors/carousel-cityofaustin.png
       url: http://www.austintexas.gov/department/district-7
+    - url: https://austinfilmfestival.com/yfp/summercamp/
+      img: sponsors/carousel-aff.png
+      name: Austin Film Festival
 
 silver:
     - url: http://crestviewna.com/
