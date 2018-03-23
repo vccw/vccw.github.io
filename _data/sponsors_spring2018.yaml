@@ -17,6 +17,9 @@ gold:
     - url: https://austinfilmfestival.com/yfp/summercamp/
       img: sponsors/carousel-aff.png
       name: Austin Film Festival
+    - name: Paragon Prep
+      url: http://www.paragonprep.com/
+      img: sponsors/carousel-paragon.png
 
 silver:
     - url: http://crestviewna.com/
@@ -32,5 +35,11 @@ silver:
 bronze:
     - img: sponsors/carousel-mike.png
       name: Mike McChesney, brisket master
+    - url: http://www.drsherwood.net/
+      img: sponsors/carousel-sherwood.png
+      name: Sherwood Pediatric Dentistry
 
 friends:
+    - url: http://crestviewmethodist.org/
+      img: sponsors/carousel-crestview-umc.png
+      name: Crestview United Methodist Church
