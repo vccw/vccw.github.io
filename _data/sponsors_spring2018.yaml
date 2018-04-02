@@ -31,6 +31,9 @@ silver:
     - url: http://www.barnstormersmusic.com/
       img: sponsors/carousel-barnstormers.png
       name: Barnstormer's Studio
+    - url: http://nativeedgelandscape.com/
+      img: sponsors/carousel-nativeedge.png
+      name: Native Edge Landscape
     
 bronze:
     - img: sponsors/carousel-mike.png
