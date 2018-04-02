@@ -34,6 +34,9 @@ silver:
     - url: http://nativeedgelandscape.com/
       img: sponsors/carousel-nativeedge.png
       name: Native Edge Landscape
+    - url: http://www.suntint.com/
+      img: sponsors/carousel-suntint.png
+      name: Sun Tint
     
 bronze:
     - img: sponsors/carousel-mike.png
@@ -46,6 +49,3 @@ friends:
     - url: http://crestviewmethodist.org/
       img: sponsors/carousel-crestview-umc.png
       name: Crestview United Methodist Church
-    - url: http://www.suntint.com/
-      img: sponsors/carousel-suntint.png
-      name: Sun Tint
