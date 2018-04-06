@@ -1,3 +1,4 @@
+# $500+
 gold:
     - url: http://woodrow.arlansmarket.com
       img: sponsors/carousel-arlans.jpg
@@ -20,7 +21,14 @@ gold:
     - name: Paragon Prep
       url: http://www.paragonprep.com/
       img: sponsors/carousel-paragon.png
+    - url: http://www.austinchronicle.com/
+      img: sponsors/carousel-chronicle.png
+      name: Austin Chronicle
+    - url: https://magiccamp.com/
+      name: Fantastic Magic Camp
+      img: sponsors/carousel-fantastic.png
 
+# $250+
 silver:
     - url: http://crestviewna.com/
       img: sponsors/carousel-vccw-cna.png
@@ -37,14 +45,31 @@ silver:
     - url: http://www.suntint.com/
       img: sponsors/carousel-suntint.png
       name: Sun Tint
-    
+    - url: https://www.discountelectronics.com/
+      name: Discount Electronics
+      img: sponsors/carousel-discountelectronics.png
+    - url: http://partyhosthelper.com/hire-party-staff-austin/
+      name: Party Host Helpers
+      img: sponsors/carousel-partyhost.png
+    - name: Thunderbird Coffee
+      url: http://thunderbirdcoffee.com/
+      img: sponsors/carousel-thunderbird.png
+
+# $100+
 bronze:
+    - url: http://www.txdpscu.org/
+      img: sponsors/carousel-TXdpsCU-logo.jpg
+      name: Texas DPS Credit Union
     - img: sponsors/carousel-mike.png
       name: Mike McChesney, brisket master
     - url: http://www.drsherwood.net/
       img: sponsors/carousel-sherwood.png
       name: Sherwood Pediatric Dentistry
+    - url: http://austin.snapology.com/
+      img: sponsors/carousel-snapology.png
+      name: Snapology Austin
 
+# $50+
 friends:
     - url: http://crestviewmethodist.org/
       img: sponsors/carousel-crestview-umc.png
