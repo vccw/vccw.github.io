@@ -27,6 +27,9 @@ gold:
     - url: https://magiccamp.com/
       name: Fantastic Magic Camp
       img: sponsors/carousel-fantastic.png
+    - url: http://www.juicehomes.com/agents/910-john-dunham
+      img: sponsors/carousel-vccw-gold-juice.jpg
+      name: Juice Homes - John Dunham
 
 # $250+
 silver:
