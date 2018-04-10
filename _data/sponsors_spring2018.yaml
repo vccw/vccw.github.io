@@ -71,6 +71,9 @@ bronze:
     - url: http://austin.snapology.com/
       img: sponsors/carousel-snapology.png
       name: Snapology Austin
+    - url: https://www.kendrascott.com/
+      name: Kendra Scott
+      img: sponsors/carousel-kendrascott.png
 
 # $50+
 friends:
