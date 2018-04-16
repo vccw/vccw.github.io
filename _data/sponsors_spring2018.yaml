@@ -57,6 +57,9 @@ silver:
     - name: Thunderbird Coffee
       url: http://thunderbirdcoffee.com/
       img: sponsors/carousel-thunderbird.png
+    - url: http://www.fivestarinteriors.com/
+      img: sponsors/carousel-fivestar.png
+      name: Five Star Interiors
 
 # $100+
 bronze:
