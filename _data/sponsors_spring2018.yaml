@@ -60,6 +60,9 @@ silver:
     - url: http://www.fivestarinteriors.com/
       img: sponsors/carousel-fivestar.png
       name: Five Star Interiors
+    - url: http://littledeliandpizza.com/
+      name: Little Deli & Pizzeria
+      img: sponsors/carousel-littledeli.png      
 
 # $100+
 bronze:
