@@ -30,6 +30,9 @@ gold:
     - url: http://www.juicehomes.com/agents/910-john-dunham
       img: sponsors/carousel-vccw-gold-juice.jpg
       name: Juice Homes - John Dunham
+    - url: http://www.jump-austin.com/
+      img: sponsors/carousel-jump.png
+      name: Jump Gymnastics
 
 # $250+
 silver:
