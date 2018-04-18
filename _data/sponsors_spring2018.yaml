@@ -77,6 +77,9 @@ bronze:
     - url: https://www.kendrascott.com/
       name: Kendra Scott
       img: sponsors/carousel-kendrascott.png
+    - url: https://www.facebook.com/diasmarketaustin/
+      img: sponsors/carousel-dias-market.png
+      name: Dia's Market
 
 # $50+
 friends:
