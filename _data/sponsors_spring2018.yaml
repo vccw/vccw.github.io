@@ -33,6 +33,9 @@ gold:
     - url: http://www.jump-austin.com/
       img: sponsors/carousel-jump.png
       name: Jump Gymnastics
+    - url: http://www.aplusac.com/
+      name: A-Plus Energy Management
+      img: sponsors/carousel-aplus.png
 
 # $250+
 silver:
