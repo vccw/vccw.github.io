@@ -68,7 +68,10 @@ silver:
       name: Five Star Interiors
     - url: http://littledeliandpizza.com/
       name: Little Deli & Pizzeria
-      img: sponsors/carousel-littledeli.png      
+      img: sponsors/carousel-littledeli.png
+    - url: https://www.google.com/maps/place/Nugent+Grocery/@30.337145,-97.7221562,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca482a01e9a3:0xa5cd94913c7b8cf1!8m2!3d30.3371404!4d-97.7199675
+      name: Nugent Grocery
+      img: sponsors/carousel-nugent.png
 
 # $100+
 bronze:
