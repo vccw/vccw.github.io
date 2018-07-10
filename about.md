@@ -13,13 +13,13 @@ Austin, Texas, helping build and sustain community in
 enhancement projects.
 
 For more information about VCCW, contact Bradley Linscomb, President,
-[vccwpresident@yahoo.com](mailto:vccwpresident@yahoo.com) or PO Box 301325,
-Austin, TX 78703
+[vccwpresident@yahoo.com](mailto:vccwpresident@yahoo.com) or PO Box 66461,
+Austin, TX 78766.
 
 ## Sponsored Projects
 
-In addition to the annual Violet Crown Festival in May and Violet Crown Arts Festival in
-December, VCCW also  has sponsored art projects in the community.  These include:
+In addition to the annual Violet Crown Festival in May and the Violet Crown
+Oktoberfest, VCCW also has sponsored art projects in the community.  These include:
 
 * [The Wall of Welcome](wall.html), the mural in front of the Minimax grocery store
 * [Voices of the Violet Crown](voices.html), stories of neighbors creating community—past, present, and future
@@ -33,7 +33,7 @@ December, VCCW also  has sponsored art projects in the community.  These include
 * Angie Ward
 * Lori Gieger
 * Mike McChesney
-* Ali Thompson
+* Nancy Barnard
 
 ### Previous Festivals
 
