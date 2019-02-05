@@ -3,6 +3,16 @@ layout: default
 title: Home Page
 ---
 
-Thanks to everyone that helped put together the Spring 2018 Violet Crown Festival, including all the volunteers, vendors, sponsors, and attentees.
+# Coming in May, the Violet Crown Festival!
 
-We'll be back in the neighborhood in October with the 2nd Annual Violet Crown Oktoberfest, up over in the parking lot by the Wall of Welcome.  Details to come later in the summer.
+We're happy to announce the Spring 2019 Violet Crown Festival,
+back again at Brentwood Park.
+<a href="vcf_apply.html">Artist applications</a> are now open
+through mid-March. We're limited to 50 spots, so if you want
+to participate, please apply soon.
+
+We will be posting a lot of details both on the
+<a href="vcf_2019.html">VCF 2019 web page</a> and on
+<a href="https://www.facebook.com/events/2117433981825762">our Facebook page.</a>
+
+<img src="img/DSC_0652.jpg" class="img-responsive well">
