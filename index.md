@@ -7,9 +7,12 @@ title: Home Page
 
 We're happy to announce the Spring 2019 Violet Crown Festival,
 back again at Brentwood Park.
+Artist applications will open on Thursday, February 7th, so check back then!
+<!--
 <a href="vcf_apply.html">Artist applications</a> are now open
 through mid-March. We're limited to 50 spots, so if you want
 to participate, please apply soon.
+-->
 
 We will be posting a lot of details both on the
 <a href="vcf_2019.html">VCF 2019 web page</a> and on
