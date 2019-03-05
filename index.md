@@ -14,6 +14,6 @@ to participate, please apply soon.
 
 We will be posting a lot of details both on the
 <a href="vcf_2019.html">VCF 2019 web page</a> and on
-<a href="https://www.facebook.com/events/2117433981825762">our Facebook page.</a>
+<a href="https://www.facebook.com/events/492192407976759/">our Facebook page.</a>
 
 <img src="img/DSC_0652.jpg" class="img-responsive well">
