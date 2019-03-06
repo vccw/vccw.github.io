@@ -12,6 +12,10 @@ back again at Brentwood Park.
 through mid-March. We're limited to 50 spots, so if you want
 to participate, please apply soon.
 
+If you would like to volunteer to help with the festival,
+please see our <a href="https://www.givepulse.com/group/events/238305">sign-up page</a>.
+We have needs in setup, teardown, and during the festival.
+
 We will be posting a lot of details both on the
 <a href="vcf_2019.html">VCF 2019 web page</a> and on
 <a href="https://www.facebook.com/events/492192407976759/">our Facebook page.</a>
