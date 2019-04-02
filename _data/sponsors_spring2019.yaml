@@ -1,0 +1,117 @@
+# $1000+
+title:
+    - url: http://www.grandecom.com/
+      img: sponsors/carousel-GrandeServices_ColorPMS_Vertical.jpg
+      name: Grande Communications
+      title: Food Court
+    - url: http://www.juicehomes.com/agents/910-john-dunham
+      img: sponsors/carousel-vccw-gold-juice.jpg
+      name: Juice Homes - John Dunham
+      title: Music Stage
+
+# $500+
+gold:
+    - url: http://woodrow.arlansmarket.com
+      img: sponsors/carousel-arlans.jpg
+      name: Arlan's Market
+    - url: http://www.burnetroadstorage.com/
+      img: sponsors/carousel-BRStorage-bg.jpg
+      name: Burnet Road Storage
+    - url: http://www.amysicecreams.com/
+      img: sponsors/carousel-amys.jpg
+      name: Amy's Ice Creams
+    # - name: City of Austin and Councilmember Leslie Pool
+    #   img: sponsors/carousel-cityofaustin.png
+    - url: https://austinfilmfestival.com/yfp/summercamp/
+      img: sponsors/carousel-aff.png
+      name: Austin Film Festival
+    - name: Paragon Prep
+      url: http://www.paragonprep.com/
+      img: sponsors/carousel-paragon.png
+    # - url: http://www.austinchronicle.com/
+    #   img: sponsors/carousel-chronicle.png
+    #   name: Austin Chronicle
+    - url: https://magiccamp.com/
+      name: Fantastic Magic Camp
+      img: sponsors/carousel-fantastic.png
+    - url: http://www.jump-austin.com/
+      img: sponsors/carousel-jump.png
+      name: Jump Gymnastics
+    # - url: http://www.aplusac.com/
+    #   name: A-Plus Energy Management
+    #   img: sponsors/carousel-aplus.png
+    - url: http://brentwoodaustin.blogspot.com
+      img: sponsors/carousel-vccw-bna.png
+      name: Brentwood Neighborhood Association
+    - url: https://centralins.com/
+      img: sponsors/carousel-cia.png
+      name: Central Austin Insurance
+    - url: https://powerhrg.com/austin-replacement-windows/
+      img: sponsors/carousel-power.png
+      name: Power Home Remodeling
+
+# $250+
+silver:
+    - name: Brentwood Social House
+      url: https://www.brentwoodsocial.com/
+      img: sponsors/carousel-brentwoodsocial.png
+    - name: Planet Fitness
+      url: https://www.planetfitness.com/gyms/austin-w-anderson-lane-tx
+      img: sponsors/carousel-planetfitness.png
+    # - url: http://crestviewna.com/
+    #   img: sponsors/carousel-vccw-cna.png
+    #   name: Crestview Neighborhood Association
+    # - url: http://nativeedgelandscape.com/
+    #   img: sponsors/carousel-nativeedge.png
+    #   name: Native Edge Landscape
+    # - url: http://www.suntint.com/
+    #   img: sponsors/carousel-suntint.png
+    #   name: Sun Tint
+    # - url: https://www.discountelectronics.com/
+    #   name: Discount Electronics
+    #   img: sponsors/carousel-discountelectronics.png
+    # - url: http://partyhosthelper.com/hire-party-staff-austin/
+    #   name: Party Host Helpers
+    #   img: sponsors/carousel-partyhost.png
+    # - name: Thunderbird Coffee
+    #   url: http://thunderbirdcoffee.com/
+    #   img: sponsors/carousel-thunderbird.png
+    # - url: http://littledeliandpizza.com/
+    #   name: Little Deli & Pizzeria
+    #   img: sponsors/carousel-littledeli.png
+    # - url: https://www.google.com/maps/place/Nugent+Grocery/@30.337145,-97.7221562,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca482a01e9a3:0xa5cd94913c7b8cf1!8m2!3d30.3371404!4d-97.7199675
+    #   name: Nugent Grocery
+    #   img: sponsors/carousel-nugent.png
+
+# $100+
+bronze:
+    - img: sponsors/carousel-mike.png
+      name: Mike McChesney, brisket master
+    - img: sponsors/carousel-voices.png
+      name: Voices of the Violet Crown
+      url: http://www.violetcrownvoices.com/
+    # - url: http://www.txdpscu.org/
+    #   img: sponsors/carousel-TXdpsCU-logo.jpg
+    #   name: Texas DPS Credit Union
+    # - url: http://www.drsherwood.net/
+    #   img: sponsors/carousel-sherwood.png
+    #   name: Sherwood Pediatric Dentistry
+    # - url: http://austin.snapology.com/
+    #   img: sponsors/carousel-snapology.png
+    #   name: Snapology Austin
+    # - url: https://www.kendrascott.com/
+    #   name: Kendra Scott
+    #   img: sponsors/carousel-kendrascott.png
+    # - url: https://www.facebook.com/diasmarketaustin/
+    #   img: sponsors/carousel-dias-market.png
+    #   name: Dia's Market
+
+# $50+
+friends:
+    - url: https://barleyswine.com/
+      name: Barley Swine
+    - url: https://www.tinypies.com/
+      name: Tiny Pies
+    # - url: http://crestviewmethodist.org/
+    #   img: sponsors/carousel-crestview-umc.png
+    #   name: Crestview United Methodist Church
