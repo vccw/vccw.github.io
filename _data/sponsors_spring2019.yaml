@@ -3,11 +3,15 @@ title:
     - url: http://www.grandecom.com/
       img: sponsors/carousel-GrandeServices_ColorPMS_Vertical.jpg
       name: Grande Communications
-      title: Food Court
+      title: Pavilion
     - url: http://www.juicehomes.com/agents/910-john-dunham
       img: sponsors/carousel-vccw-gold-juice.jpg
       name: Juice Homes - John Dunham
       title: Music Stage
+    - url: http://littledeliandpizza.com/
+      name: Little Deli & Pizzeria
+      img: sponsors/carousel-littledeli.png
+      title: Food Court
 
 # $500+
 gold:
@@ -49,6 +53,15 @@ gold:
     - url: https://powerhrg.com/austin-replacement-windows/
       img: sponsors/carousel-power.png
       name: Power Home Remodeling
+    - url: https://www.simply-aligners.com/
+      name: Simply Aligners
+      img: sponsors/carousel-simply-aligners.png
+    - url: https://annamitchellmusiclessons.com/
+      name: Anna Mitchell Music Lessons
+      img: sponsors/carousel-anna-mitchell.png
+    - url: https://certaintyhomeloans.com/Branch?BranchId=1287
+      name: Certainity Home Loans
+      img: sponsors/carousel-certainity.png
 
 # $250+
 silver:
@@ -58,30 +71,9 @@ silver:
     - name: Planet Fitness
       url: https://www.planetfitness.com/gyms/austin-w-anderson-lane-tx
       img: sponsors/carousel-planetfitness.png
-    # - url: http://crestviewna.com/
-    #   img: sponsors/carousel-vccw-cna.png
-    #   name: Crestview Neighborhood Association
-    # - url: http://nativeedgelandscape.com/
-    #   img: sponsors/carousel-nativeedge.png
-    #   name: Native Edge Landscape
-    # - url: http://www.suntint.com/
-    #   img: sponsors/carousel-suntint.png
-    #   name: Sun Tint
-    # - url: https://www.discountelectronics.com/
-    #   name: Discount Electronics
-    #   img: sponsors/carousel-discountelectronics.png
-    # - url: http://partyhosthelper.com/hire-party-staff-austin/
-    #   name: Party Host Helpers
-    #   img: sponsors/carousel-partyhost.png
-    # - name: Thunderbird Coffee
-    #   url: http://thunderbirdcoffee.com/
-    #   img: sponsors/carousel-thunderbird.png
-    # - url: http://littledeliandpizza.com/
-    #   name: Little Deli & Pizzeria
-    #   img: sponsors/carousel-littledeli.png
-    # - url: https://www.google.com/maps/place/Nugent+Grocery/@30.337145,-97.7221562,17z/data=!3m1!4b1!4m5!3m4!1s0x8644ca482a01e9a3:0xa5cd94913c7b8cf1!8m2!3d30.3371404!4d-97.7199675
-    #   name: Nugent Grocery
-    #   img: sponsors/carousel-nugent.png
+    - url: http://crestviewna.com/
+      img: sponsors/carousel-vccw-cna.png
+      name: Crestview Neighborhood Association
 
 # $100+
 bronze:

@@ -16,10 +16,10 @@ If you want to help sponsor the festival, please see our <a href="docs/VCF%20201
 <div class="container">
 <div class="row">
 {% for sponsor in site.data.sponsors_spring2019.title %}
-<div class="col-md-3">
+<div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
-    {% if sponsor.url %}</a>{% endif %}<br>{{ sponsor.title }} Sponsor
+    {% if sponsor.url %}</a>{% endif %}<p>{{ sponsor.title }} Sponsor</p>
 </div>
 {% endfor %}
 </div>
@@ -31,7 +31,7 @@ If you want to help sponsor the festival, please see our <a href="docs/VCF%20201
 <div class="container">
 <div class="row">
 {% for sponsor in site.data.sponsors_spring2019.gold %}
-<div class="col-md-3">
+<div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
     {% if sponsor.url %}</a>{% endif %}
@@ -47,7 +47,7 @@ If you want to help sponsor the festival, please see our <a href="docs/VCF%20201
 <div class="container">
 <div class="row">
 {% for sponsor in site.data.sponsors_spring2019.silver %}
-<div class="col-md-3">
+<div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
     {% if sponsor.url %}</a>{% endif %}
@@ -63,7 +63,7 @@ If you want to help sponsor the festival, please see our <a href="docs/VCF%20201
 <div class="container">
 <div class="row">
 {% for sponsor in site.data.sponsors_spring2019.bronze %}
-<div class="col-md-3">
+<div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
     {% if sponsor.url %}</a>{% endif %}
@@ -73,7 +73,7 @@ If you want to help sponsor the festival, please see our <a href="docs/VCF%20201
 </div>
 <br>
 
-### Friends of Violet Crown Community
+## Friends of Violet Crown Community
 <!-- $50 to $99 -->
-{% for sponsor in site.data.sponsors_spring2019.friends %}{% if sponsor.url %}* [{{ sponsor.name }}]({{ sponsor.url }}){% else %}* {{sponsor.name}}{% endif %}
-{% endfor %}
+<h4><ul>{% for sponsor in site.data.sponsors_spring2019.friends %}{% if sponsor.url %}<li><a href="{{ sponsor.url }}">{{ sponsor.name }}</a></li>{% else %}<li> {{sponsor.name}}</li>{% endif %}
+{% endfor %}</ul></h4>

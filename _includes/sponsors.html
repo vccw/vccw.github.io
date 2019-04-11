@@ -6,24 +6,22 @@
 }
 </style>
 
-<h4 class="text-center">
-    <a href="/sponsors.html">Our Sponsors</a>
-</h4>
 <div id="carousel-sponsors" class="carousel slide" data-interval="2500" data-ride="carousel">
     <!-- Wrapper for slides -->
-    <div class="carousel-inner">
+    <div class="carousel-inner text-center">
         {% for sponsor in site.data.sponsors_spring2019.title %}
         <div class="item{% if forloop.first %} active{% endif %}">
             {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
             <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }} - {{ sponsor.title }} sponsor">
-            {% if sponsor.url %}</a>{% endif %}
+            {% if sponsor.url %}</a><br>{{ sponsor.title }} sponsor
+            {% endif %}
         </div>
         {% endfor %}
         {% for sponsor in site.data.sponsors_spring2019.gold %}
         <div class="item">
             {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
             <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }} - Gold sponsor">
-            {% if sponsor.url %}</a>{% endif %}
+            {% if sponsor.url %}</a>{% endif %}<br>Gold sponsor
         </div>
         {% endfor %}
     </div><!-- carousel-inner -->

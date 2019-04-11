@@ -25,16 +25,18 @@
                 {{ content }}
             </div><!-- col-md-8 -->
             <div class="col-md-4">
-                <div class="well">
-                {% include sponsors.html %}
+                <div class="panel panel-default">
+                    <div class="panel-heading text-center"><h4><a href="/sponsors.html">Our sponsors</a></h4></div>
+                    <div class="panel-body">{% include sponsors.html %}</div>
                 </div>
-                <div class="well">
-                    <p>Connect with VCCW on social media:</p>
-                    <div><a href="https://twitter.com/VioletCrownFest?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @VioletCrownFest</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
-                    <br>
-                    <div class="fb-page" data-href="https://www.facebook.com/VioletCrownFestival/" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/VioletCrownFestival/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/VioletCrownFestival/">Violet Crown Festival</a></blockquote></div>
-                    <br>
-                </div><!-- well -->
+                <div class="panel panel-default">
+                    <div class="panel-heading text-center"><h4>Connect with VCCW on social media</h4></div>
+                    <div class="panel-body">
+                        <div><a href="https://twitter.com/VioletCrownFest?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-size="large" data-show-count="false">Follow @VioletCrownFest</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></div>
+                        <br>
+                        <div class="fb-page" data-href="https://www.facebook.com/VioletCrownFestival/" data-small-header="true" data-adapt-container-width="true" data-hide-cover="false" data-show-facepile="false"><blockquote cite="https://www.facebook.com/VioletCrownFestival/" class="fb-xfbml-parse-ignore"><a href="https://www.facebook.com/VioletCrownFestival/">Violet Crown Festival</a></blockquote></div>
+                    </div><!-- panel-body -->
+                </div><!-- panel -->
             </div><!-- col-md-4 -->
         </div><!-- row -->
         {% include footer.html %}
