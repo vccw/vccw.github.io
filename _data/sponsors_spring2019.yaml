@@ -24,8 +24,8 @@ gold:
     - url: http://www.amysicecreams.com/
       img: sponsors/carousel-amys.jpg
       name: Amy's Ice Creams
-    # - name: City of Austin and Councilmember Leslie Pool
-    #   img: sponsors/carousel-cityofaustin.png
+    - name: City of Austin
+      img: sponsors/carousel-cityofaustin.png
     - url: https://austinfilmfestival.com/yfp/summercamp/
       img: sponsors/carousel-aff.png
       name: Austin Film Festival
@@ -41,9 +41,6 @@ gold:
     - url: http://www.jump-austin.com/
       img: sponsors/carousel-jump.png
       name: Jump Gymnastics
-    # - url: http://www.aplusac.com/
-    #   name: A-Plus Energy Management
-    #   img: sponsors/carousel-aplus.png
     - url: http://brentwoodaustin.blogspot.com
       img: sponsors/carousel-vccw-bna.png
       name: Brentwood Neighborhood Association
@@ -62,6 +59,9 @@ gold:
     - url: https://certaintyhomeloans.com/Branch?BranchId=1287
       name: Certainity Home Loans
       img: sponsors/carousel-certainity.png
+    - url: http://www.txdpscu.org/
+      img: sponsors/carousel-dps.png
+      name: Texas DPS Credit Union
 
 # $250+
 silver:
@@ -74,6 +74,15 @@ silver:
     - url: http://crestviewna.com/
       img: sponsors/carousel-vccw-cna.png
       name: Crestview Neighborhood Association
+    - url: https://www.kendrascott.com/
+      name: Kendra Scott
+      img: sponsors/carousel-kendrascott.png
+    - url: https://campgladiator.com/
+      name: Camp Gladiator
+      img: sponsors/carousel-campgladiator.png
+    - name: Garden Seventeen
+      url: http://www.gardenseventeen.com/
+      img: sponsors/carousel-gardenseventeen.png
 
 # $100+
 bronze:
@@ -82,18 +91,12 @@ bronze:
     - img: sponsors/carousel-voices.png
       name: Voices of the Violet Crown
       url: http://www.violetcrownvoices.com/
-    # - url: http://www.txdpscu.org/
-    #   img: sponsors/carousel-TXdpsCU-logo.jpg
-    #   name: Texas DPS Credit Union
     # - url: http://www.drsherwood.net/
     #   img: sponsors/carousel-sherwood.png
     #   name: Sherwood Pediatric Dentistry
     # - url: http://austin.snapology.com/
     #   img: sponsors/carousel-snapology.png
     #   name: Snapology Austin
-    # - url: https://www.kendrascott.com/
-    #   name: Kendra Scott
-    #   img: sponsors/carousel-kendrascott.png
     # - url: https://www.facebook.com/diasmarketaustin/
     #   img: sponsors/carousel-dias-market.png
     #   name: Dia's Market
