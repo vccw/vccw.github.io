@@ -32,9 +32,6 @@ gold:
     - name: Paragon Prep
       url: http://www.paragonprep.com/
       img: sponsors/carousel-paragon.png
-    # - url: http://www.austinchronicle.com/
-    #   img: sponsors/carousel-chronicle.png
-    #   name: Austin Chronicle
     - url: https://magiccamp.com/
       name: Fantastic Magic Camp
       img: sponsors/carousel-fantastic.png
@@ -94,15 +91,9 @@ bronze:
     - img: sponsors/carousel-voices.png
       name: Voices of the Violet Crown
       url: http://www.violetcrownvoices.com/
-    # - url: http://www.drsherwood.net/
-    #   img: sponsors/carousel-sherwood.png
-    #   name: Sherwood Pediatric Dentistry
-    # - url: http://austin.snapology.com/
-    #   img: sponsors/carousel-snapology.png
-    #   name: Snapology Austin
-    # - url: https://www.facebook.com/diasmarketaustin/
-    #   img: sponsors/carousel-dias-market.png
-    #   name: Dia's Market
+    - url: http://crestviewmethodist.org/
+      img: sponsors/carousel-crestview-umc.png
+      name: Crestview United Methodist Church
 
 # $50+
 friends:
@@ -110,6 +101,3 @@ friends:
       name: Barley Swine
     - url: https://www.tinypies.com/
       name: Tiny Pies
-    # - url: http://crestviewmethodist.org/
-    #   img: sponsors/carousel-crestview-umc.png
-    #   name: Crestview United Methodist Church
