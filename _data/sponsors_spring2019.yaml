@@ -62,6 +62,9 @@ gold:
     - url: https://www.steppingstoneschool.com/
       name: Stepping Stone School
       img: sponsors/carousel-steppingstone.png
+    - url: https://momentumsolar.com/
+      name: Momentum Solar
+      img: sponsors/carousel-momentumsolar.png
 
 # $250+
 silver:
