@@ -100,6 +100,12 @@ bronze:
     - url: http://www.gardenheads.net/
       name: Gardenheads
       img: sponsors/carousel-gardenheads.png
+    - name: Thunderbird Coffee
+      url: http://thunderbirdcoffee.com/
+      img: sponsors/carousel-thunderbird.png
+    - name: Eldorado Cafe
+      url: http://www.eldoradocafeatx.com/
+      img: sponsors/carousel-eldorado.png
 
 # $50+
 friends:
