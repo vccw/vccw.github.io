@@ -12,8 +12,10 @@ Austin, Texas, helping build and sustain community in
 [Crestview](http://www.crestviewna.org/) by supporting neighborhood
 enhancement projects.
 
+To support VCCW with your Amazon purchases, use this link to register with [smile.amazon.com](https://www.amazon.com/gp/f.html?C=CWZK0AZZZD4W&K=374RUGHU9YORS&M=urn:rtn:msg:2019062519530695efbe75209a4cad88c3f87b00c0p0na&R=392EZYS7T1WNH&T=C&U=https%3A%2F%2Fsmile.amazon.com%2Fch%2F45-0509342%3Fref_%3Dpe_1723670_203812010&H=JSLMQVADISFX0Q5KFDITDXVVLYIA&ref_=pe_1723670_203812010) and we will get a 0.5% commission on all your purchases.
+
 For more information about VCCW, contact Bradley Linscomb, President,
-[vccwpresident@yahoo.com](mailto:vccwpresident@yahoo.com) or PO Box 66461,
+[president@violetcrowncommunity.org](mailto:president@violetcrowncommunity.org) or PO Box 66461,
 Austin, TX 78766.
 
 ## Sponsored Projects
