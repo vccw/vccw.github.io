@@ -15,7 +15,7 @@ If you want to help sponsor the festival, please see our <a href="docs/VCF%20201
 
 <div class="container">
 <div class="row">
-{% for sponsor in site.data.sponsors_spring2019.title %}
+{% for sponsor in site.data.sponsors_spring2020.title %}
 <div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
@@ -30,7 +30,7 @@ If you want to help sponsor the festival, please see our <a href="docs/VCF%20201
 
 <div class="container">
 <div class="row">
-{% for sponsor in site.data.sponsors_spring2019.gold %}
+{% for sponsor in site.data.sponsors_spring2020.gold %}
 <div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
@@ -46,7 +46,7 @@ If you want to help sponsor the festival, please see our <a href="docs/VCF%20201
 
 <div class="container">
 <div class="row">
-{% for sponsor in site.data.sponsors_spring2019.silver %}
+{% for sponsor in site.data.sponsors_spring2020.silver %}
 <div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
@@ -62,7 +62,7 @@ If you want to help sponsor the festival, please see our <a href="docs/VCF%20201
 
 <div class="container">
 <div class="row">
-{% for sponsor in site.data.sponsors_spring2019.bronze %}
+{% for sponsor in site.data.sponsors_spring2020.bronze %}
 <div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
@@ -75,5 +75,5 @@ If you want to help sponsor the festival, please see our <a href="docs/VCF%20201
 
 ## Friends of Violet Crown Community
 <!-- $50 to $99 -->
-<h4><ul>{% for sponsor in site.data.sponsors_spring2019.friends %}{% if sponsor.url %}<li><a href="{{ sponsor.url }}">{{ sponsor.name }}</a></li>{% else %}<li> {{sponsor.name}}</li>{% endif %}
+<h4><ul>{% for sponsor in site.data.sponsors_spring2020.friends %}{% if sponsor.url %}<li><a href="{{ sponsor.url }}">{{ sponsor.name }}</a></li>{% else %}<li> {{sponsor.name}}</li>{% endif %}
 {% endfor %}</ul></h4>
