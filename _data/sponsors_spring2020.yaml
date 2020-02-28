@@ -29,12 +29,12 @@ gold:
     - url: http://brentwoodaustin.blogspot.com
       img: sponsors/carousel-vccw-bna.png
       name: Brentwood Neighborhood Association
+    - name: Paragon Prep
+      url: http://www.paragonprep.com/
+      img: sponsors/carousel-paragon.png
     # - url: https://austinfilmfestival.com/yfp/summercamp/
     #   img: sponsors/carousel-aff.png
     #   name: Austin Film Festival
-    # - name: Paragon Prep
-    #   url: http://www.paragonprep.com/
-    #   img: sponsors/carousel-paragon.png
     # - url: https://magiccamp.com/
     #   name: Fantastic Magic Camp
     #   img: sponsors/carousel-fantastic.png
