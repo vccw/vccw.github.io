@@ -5,7 +5,8 @@ title: Home Page
 
 # Violet Crown Festival Returns on May 2nd
 
-It's been a busy year in our neighborhoods, and we're happy to announce that Violet Crown Festival is happening again.
+It's been a busy year in our neighborhoods, and we're happy to announce that
+[the Violet Crown Festival is happening again](vcf_2020.md).
 As usual, it's on the first Saturday in May.  We should have the first phase of new playground equipment completed
 in Brentwood park, and our beloved Brentwood Elementary will have not yet started its major construction, so it will
 be a great time to be outside enjoying Spring with your fellow Austinites.
