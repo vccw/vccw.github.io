@@ -4,10 +4,10 @@ title:
     #   img: sponsors/carousel-GrandeServices_ColorPMS_Vertical.jpg
     #   name: Grande Communications
     #   title: Pavilion
-    # - url: http://www.juicehomes.com/agents/910-john-dunham
-    #   img: sponsors/carousel-vccw-gold-juice.jpg
-    #   name: Juice Homes - John Dunham
-    #   title: Music Stage
+    - url: http://www.juicehomes.com/agents/910-john-dunham
+      img: sponsors/carousel-vccw-gold-juice.jpg
+      name: Juice Homes - John Dunham
+      title: Music Stage
     # - url: http://littledeliandpizza.com/
     #   name: Little Deli & Pizzeria
     #   img: sponsors/carousel-littledeli.png
