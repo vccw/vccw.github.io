@@ -96,7 +96,7 @@ bronze:
       name: Mike McChesney, brisket master
     - url: https://barleyswine.com/
       name: Barley Swine
-      img: carousel-barleyswine.png
+      img: sponsors/carousel-barleyswine.png
     # - img: sponsors/carousel-voices.png
     #   name: Voices of the Violet Crown
     #   url: http://www.violetcrownvoices.com/
@@ -112,7 +112,7 @@ bronze:
 
 # $50+
 friends:
-    - Pruett-Ponvert Family
+    - name: Pruett-Ponvert Family
     # - url: https://www.tinypies.com/
     #   name: Tiny Pies
     # - url: http://www.topnotchaustin.com/
