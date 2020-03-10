@@ -32,6 +32,12 @@ gold:
     - name: Paragon Prep
       url: http://www.paragonprep.com/
       img: sponsors/carousel-paragon.png
+    - name: Freedom Solar
+      url: https://freedomsolarpower.com/
+      img: sponsors/carousel-freedomsolar.png
+    - url: http://www.txdpscu.org/
+      img: sponsors/carousel-dps.png
+      name: Texas DPS Credit Union
     # - url: https://austinfilmfestival.com/yfp/summercamp/
     #   img: sponsors/carousel-aff.png
     #   name: Austin Film Festival
@@ -56,9 +62,6 @@ gold:
     # - url: https://certaintyhomeloans.com/Branch?BranchId=1287
     #   name: Certainity Home Loans
     #   img: sponsors/carousel-certainity.png
-    # - url: http://www.txdpscu.org/
-    #   img: sponsors/carousel-dps.png
-    #   name: Texas DPS Credit Union
     # - url: https://www.steppingstoneschool.com/
     #   name: Stepping Stone School
     #   img: sponsors/carousel-steppingstone.png
@@ -91,6 +94,9 @@ silver:
 bronze:
     - img: sponsors/carousel-mike.png
       name: Mike McChesney, brisket master
+    - url: https://barleyswine.com/
+      name: Barley Swine
+      img: carousel-barleyswine.png
     # - img: sponsors/carousel-voices.png
     #   name: Voices of the Violet Crown
     #   url: http://www.violetcrownvoices.com/
@@ -106,8 +112,7 @@ bronze:
 
 # $50+
 friends:
-    # - url: https://barleyswine.com/
-    #   name: Barley Swine
+    - Pruett-Ponvert Family
     # - url: https://www.tinypies.com/
     #   name: Tiny Pies
     # - url: http://www.topnotchaustin.com/
