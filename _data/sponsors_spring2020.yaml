@@ -8,6 +8,10 @@ title:
       img: sponsors/carousel-GrandeServices_ColorPMS_Vertical.jpg
       name: Grande Communications
       title: Pavilion
+    - name: Eldorado Cafe
+      url: http://www.eldoradocafeatx.com/
+      img: sponsors/carousel-eldorado.png
+      title: Trail
     # - url: http://littledeliandpizza.com/
     #   name: Little Deli & Pizzeria
     #   img: sponsors/carousel-littledeli.png
@@ -106,9 +110,6 @@ bronze:
     # - name: Thunderbird Coffee
     #   url: http://thunderbirdcoffee.com/
     #   img: sponsors/carousel-thunderbird.png
-    # - name: Eldorado Cafe
-    #   url: http://www.eldoradocafeatx.com/
-    #   img: sponsors/carousel-eldorado.png
 
 # $50+
 friends:
