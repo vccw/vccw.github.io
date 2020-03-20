@@ -3,16 +3,13 @@ layout: default
 title: Home Page
 ---
 
-# Violet Crown Festival Returns on May 2nd
+# Violet Crown Festival cancelled
 
-It's been a busy year in our neighborhoods, and we're happy to announce that
-[the Violet Crown Festival is happening again](vcf_2020.md).
-As usual, it's on the first Saturday in May.  We should have the first phase of new playground equipment completed
-in Brentwood park, and our beloved Brentwood Elementary will have not yet started its major construction, so it will
-be a great time to be outside enjoying Spring with your fellow Austinites.
-
-If you're an artist wishing to have a booth at the event, see [our application page](vcf_apply.html).
-
-If you're a business or individual who wants to help sponsor the event, see [our sponsorship form](vcf_sponsor.html).
+Due to the Covid-19 Outbreak, the 2020 Violet Crown Festival has been canceled. If you are an artist who
+has already submitted an application with payment, refunds will be made via PayPal within 2 weeks; similarly
+food vendors will be refunded their festival fees in full. Paid sponsors are also entitled to a refund, or
+can opt to donate sponsorship funds to help cover our non-refundable expenditures. In exchange for this
+support, Violet Crown will continue to promote your business on our website and social media through
+the end of summer.
 
 <img src="img/DSC_0495.jpg" class="img-responsive well">
