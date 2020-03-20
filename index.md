@@ -12,4 +12,6 @@ can opt to donate sponsorship funds to help cover our non-refundable expenditure
 support, Violet Crown will continue to promote your business on our website and social media through
 the end of summer.
 
+We look forward to scheduling other events, like the annual neighborhood Oktoberfest, once this crisis is over.
+
 <img src="img/DSC_0495.jpg" class="img-responsive well">
