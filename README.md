@@ -8,7 +8,7 @@ View the production version at <http://vccw.github.io/>
 This site is powered by Jekyll which runs automatically as part of the GitHub Pages deploy process.
 Most content is edited in Markdown, although due to style concerns, we often have to put HTML markup into the pages.
 
-Content is Copyright (C) 2013-2019, Violet Crown Community Works.  All rights reserved.
+Content is Copyright (C) 2013-2020, Violet Crown Community Works.  All rights reserved.
 
 This site also uses [Twitter Bootstrap](http://getbootstrap.com) for styles and
 the [Bootswatch Spacelab theme](http://bootswatch.com/spacelab/) to make it prettier.
