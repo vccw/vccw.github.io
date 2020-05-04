@@ -3,15 +3,43 @@ layout: default
 title: Home Page
 ---
 
-# Violet Crown Festival cancelled
+We at Violet Crown Community Works are acting as a fiscal sponsor for a new neighborhood group, the Violet Crown Care Committee.
 
-Due to the Covid-19 Outbreak, the 2020 Violet Crown Festival has been canceled. If you are an artist who
-has already submitted an application with payment, refunds will be made via PayPal within 2 weeks; similarly
-food vendors will be refunded their festival fees in full. Paid sponsors are also entitled to a refund, or
-can opt to donate sponsorship funds to help cover our non-refundable expenditures. In exchange for this
-support, Violet Crown will continue to promote your business on our website and social media through
-the end of summer.
+<img src="img/vc_care_map.jpg" class="img-responsive">
 
-We look forward to scheduling other events, like the annual neighborhood Oktoberfest, once this crisis is over.
+The Violet Crown Care Network was formed by Crestview, Brentwood, and
+Allandale neighborhood leaders to assist neighbors during the COVID-19
+pandemic. They are working hard to provide aid to our community by helping
+friends and neighbors with grocery shopping, medical care, or other essentials
+people may need. 
+ 
+### How to Contact
 
-<img src="img/DSC_0495.jpg" class="img-responsive well">
+There are a lot of ways to reach out to them. Whether you need support or want
+to help out, they want to get in contact with you. 
+ 
+* [FACEBOOK PAGE](https://www.facebook.com/vccnetwork/)
+* [EMAIL](mailto:violetcrowncare@gmail.com)
+* [VOLUNTEER SIGNUP](https://docs.google.com/forms/d/e/1FAIpQLSc8GbpIWmlVHxkWkKOcXkMb55urYt1Tr7aQkwssprV4HlYyeA/viewform)
+
+### Donations
+
+If you are in a position to help via a financial contribution, we are taking donations specifically 
+to support the Violet Crown Care Committee. Money raised here will go to
+help people in the local neighborhoods directly affected by this pandemic, including
+
+1. Purchasing HEB gift cards to donated to neighbors who have been affected
+   financially by COVID19
+2. Purchasing gift cards from local restaurants providing take out and
+   delivery, and donating them to to healthcare workers at hospitals.
+
+Donations are through our 501(c)(3) non-profit and are tax-deductable. You'll
+get a tax receipt from the PayPal Giving Fund after submitting, and you'll
+have all of our thanks.
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
+<input type="hidden" name="cmd" value="_s-xclick" />
+<input type="hidden" name="hosted_button_id" value="XBWYV6D3WGPJJ" />
+<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" class="center-block"/>
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
+</form>
