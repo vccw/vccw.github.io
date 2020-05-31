@@ -20,12 +20,7 @@ Austin, TX 78766.
 
 You can donate through the PayPal Giving Fund:
 
-<form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
-<input type="hidden" name="cmd" value="_s-xclick" />
-<input type="hidden" name="hosted_button_id" value="XBWYV6D3WGPJJ" />
-<input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
-<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1" />
-</form>
+<a href="https://www.paypal.com/us/fundraiser/charity/1726667"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" /></a>
 
 You can also support us by choosing us as your sponsored charity to get 0.5% of you purchases through smile.amazon.com.
 
