@@ -37,4 +37,4 @@ Donations are through our 501(c)(3) non-profit and are tax-deductable. You'll
 get a tax receipt from the PayPal Giving Fund after submitting, and you'll
 have all of our thanks.
 
-<a href="https://paypal.com/us/fundraiser/charity/1726667"><input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" class="center-block"/></a>
+<a href="https://paypal.com/us/fundraiser/charity/1726667"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" class="center-block"/></a>
