@@ -3,6 +3,13 @@ layout: default
 title: Home Page
 ---
 
+### No Spring 2021 Festival
+
+Due to the continuing global pandemic, we have decided to not hold the annual Violet Crown Festival this May.  We're disappointed,
+but we hope that things will be better in the fall and we'll be able to hold some version of our Oktoberfest.
+
+### Violet Crown Care Network
+
 We at Violet Crown Community Works are acting as a fiscal sponsor for a new neighborhood group, the Violet Crown Care Committee.
 
 <img src="img/vc_care_map.jpg" class="img-responsive">
