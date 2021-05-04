@@ -38,12 +38,14 @@ Oktoberfest, VCCW also has sponsored art projects in the community.  These inclu
 ## Board Members
 
 * Nancy Barnard (President)
-* Sue Minear (Secretary)
-* Ben Combee (Webmaster & Treasurer)
-* Bradley Linscomb (Past President)
+* Ben Combee (Treasurer & Webmaster)
+* Bradley Linscomb (Secretary & Past President)
 * Angie Ward
 * Lori Gieger
+* Sue Minear
 * Mike McChesney
+* Anne-Charlotte Patterson
+* Billy Tweedie
 
 ### Previous Festivals
 
