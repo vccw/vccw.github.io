@@ -1,97 +1,125 @@
 ---
 layout: default
-title: The Tale of Domino the Pig
+title: The Story of Domino, the Violet Crown Pig
 ---
-The Tale of Domino the Pig
-==========================
+The Story of Domino, the Violet Crown Pig
+=========================================
 
-May 17, 2003. The day of the very first Violet Crown Festival had arrived. It
-was mid-morning, and a team of us were working to get everything ready,
-nervously hoping that everyone would show up in just a few hours.
+By Shayla Fleshman, 2004
 
-We had the first hint that something had gone astray during the music stage
-sound check: “Testing, one-two-three. Testing, one-two-three . . . Hey!
-There’s a pig running loose!” yelled John Fremgen into the mike. He had a
-bird’s-eye view of what was happening—A baby pig had escaped from the petting
-zoo and was running as fast as his little legs could carry him.
+May, 17, 2003. The day of the first Violet Crown Festival had arrived. After
+months of intensive planning, we were finally on the day of the event. It’s
+not easy trying new things. Several times, the festival had seemed doomed for
+disaster as we struggled to get needed permits, funding, volunteers and
+neighborhood support for a new idea. Details, details, so many details. But
+here we were all working together on a beautiful sunny day setting things up,
+nervously hoping folks would show. 
 
-<img src="img/domino-sm.jpg" alt="Domino the Pig" class="img-responsive well">
+This first hint that something had gone astray was in the sound check on the
+music stage. “Testing, one-two-three. Testing, one-two-three … hey, there’s a
+pig running, there’s a pig running loose,” said John Fremgen into the
+microphone. He had a bird’s eye view of what was about to happen. Apparently,
+a baby pig had jumped out from the petting zoo as fast as his little legs
+could carry him. Across the festival grounds volunteers stopped what they
+were doing and gave chase. It was a site to behold . . . people running,
+diving, lunging after this small pig who was too fast for all of us.
 
-Volunteers stopped what they were doing and gave chase. It was a sight to
-behold— people running, diving, lunging after this small pig, who made a
-beeline across the park and disappeared near Justin and Yates.
 
-After the festival, life returned to normal, but with a difference: Pig
-sightings began to crop up. Pam Jacks, owner of the Crestview Barber Shop,
-said she saw it running down the street one morning on her way to work. Jeff
-Dickey, who coordinated art booths at the festival from 2003-2005, said he saw
-Animal Control chase the pig down Arroyo Seco in a futile attempt to catch it.
+Turning our event topsy-turvy, it then shot across the open park and
+disappeared into the neighborhood. But that small pig had accomplished its
+mission of making folks stop what they were doing for a moment and laugh,
+thus lightening the mood that would carry us throughout the day. It was a
+success!
 
-Teresa Edwards, who coordinated family activities at the festival in 2004, was
-walking her newly adopted dog at dusk when the dog went into a frenzy. There
-in the twilight, at the end of the street, Teresa saw a pig, but it rounded
-the corner and disappeared. “The pig reappeared and dashed past us. Running
-behind the pig is this tall lanky cowboy, boots clicking on the pavement. It
-looked like a Texas ‘Keystone Cops,’” she said. “ Then a lady who lives down
-the street drove up in an SUV looking for the cowboy and the pig. As it turned
-out, she worked for the Humane Society and recognized my dog by name. It’s a
-small world!”
+Afterwards, life slowly returned to normal, but with one difference.
+Throughout the summer, pig sightings started cropping up. The new owner of
+the Crestview Barber Shop, Pam Jacks, saw it running down the street one
+morning on her way to work. Jeff Dickey [who coordinated festival art booths
+from 2003 to 2005] watched Animal Control chase it, hoping that they could
+actually catch this fast creature on foot with a noose.
 
-Our neighborhood had a new, elusive resident that seemed to be thriving in its
-urban habitat. Later that summer, pig sightings stopped. Had the pig become an
-urban legend, after all?
+Teresa Edwards [who ran children’s activities at the festival in 2004] clearly
+remembered her encounter with the pig. About a month after the festival, she
+was walking her new dog down the street at dusk and the dog went into a
+frenzy. There in the twilight was a pig standing at the end of the street but
+it rounded the corner and disappeared. “The pig then reappears, dashes past
+us and behind it is this tall lanky cowboy, boots on pavements, elbows up,
+running after this pig. It looked like a Texas “Keystone Cops,” she
+said. “Then this lady in an SUV who lives down the street drove up looking
+for both the cowboy and the pig. She worked for the Humane Society and then
+recognized my dog since I had gotten it there. It’s a small world.” 
 
-Then, sometime in September 2003, Shayla and Tom Fleshman were walking their
-dogs early one morning. They rounded the northwest corner of Woodrow and
-Arroyo Seco and heard the unmistakable sound of grunting in Paulette Fiske’s
-backyard. Yep, there was a pig wearing a red bandanna. But was it the pig?
-They knocked on the door to find out. Not many people knew shy Paulette, who
-created “Sunflower Way,” a beautiful sunflower garden that she grew every
-year. Sure enough, the pig had appeared out of nowhere two months earlier.
-She, too, had called Animal Control. They caught it, put it in their truck,
-and drove off.
+So our neighborhood had a new resident that was wreaking havoc, rooting around
+gardens and thriving in its city habitat. Eventually, pig sightings stopped.
+Then last September, my husband and I were walking the dogs early one
+morning. When we rounded the corner of Woodrow and Arroyo Seco, we heard the
+unmistakable sound of grunting coming out of Paulette’s backyard. Yep, there
+was a pig wearing a red bandana. But was it the pig?
 
-A week later the pig showed up again in Paulette’s backyard. This time, she
-kept it, named it Domino for the spots on its rump, and tied a red bandanna
-around its neck. She tamed this wild creature, actually a feral hog, just as
-she had tamed a blue jay that also lived with her. Domino slept at her feet
-and jumped into her lap to be petted. Domino was one smart pig to know to go
-back to Paulette’s, where he was well loved and well fed.
+We knocked on the door. Not many folks know shy Paulette, but most residents
+do enjoy her “Sunflower Way.” Every year Paulette creatively grows a
+beautiful sunflower garden across the street from Crestview Shopping Center.
+Sure enough, she said that the pig had appeared out of nowhere two months
+earlier. She, too, had called Animal Control. They came and this time caught
+the animal, put it in their truck, and drove off. 
 
-By now, Domino was getting much bigger on all the good food he was devouring.
-Then, in early October, Paulette’s landlord told her, “Either Domino goes, or
-you do.” Paulette called Shayla and made her promise to find Domino a loving
-home, as he was now a pet. What to do?
+Amazingly, about a week later the pig showed up again in Paulette’s back yard.
+This time, she kept it and named it Domino for the spots on its rump.
+Sleeping at her feet, she tamed this wild creature as she had tamed a blue
+jay that also lived with her. Domino was one smart pig to know to go back to
+Paulette’s house, where he would be loved and fed leftovers that she picked
+up from the farmers’ market several days a week.
 
-We got Domino on a waiting list at Kinky Friedman’s Utopia Animal Rescue Ranch
-and asked everyone we knew if they could adopt Domino. Time was running out.
-Then, Mike Jack, who coordinated the petting zoo in 2003, and his friend David
-Sherrill met Paulette and saw what a special relationship she had with Domino.
-They agreed to keep Domino in with the goats and raise him, and Paulette
-accepted his offer. It was a sad parting because Paulette and Domino were so
-attached to each other. On the same day Domino left Paulette learned that her
-husband had cancer. “I feel like I’m losing everything I love in the world,”
-she said. Less than two months later, Paulette’s husband passed away.
+But Domino was no longer a small pig. Domino was actually a feral hog and
+getting much bigger on all that good food he was devouring, yet Domino had
+become our neighborhood’s “Wilbur.” Folks would stop to look at him and
+sometimes feed him. But he was only tame with Paulette.
 
-Paulette, though, found a new love and a new life in Marble Falls. We will
-miss her wonderful garden every year. Not long after Paulette moved away,
-Domino escaped again, this time from his goat pen. Could he be on his way back
-to where his adventure began? David Sherrill says he keeps an eye out for a
-feral hog wearing a red bandana.
+In early October, I receive a call from Paulette. Her landlord had discovered
+Domino and told her, “Either he goes, or you do.” What to do? Well, the
+farmer who had sponsored our petting zoo (Mike Jack) was very willing to take
+Domino back as a farm animal, which meant Domino would probably be on
+someone’s table in the near future. Paulette made me promise to find Domino a
+loving home, as he was now a pet. Problem is, most folks don’t keep feral
+hogs as pets. The clock was ticking, even though he was on a waiting list for
+Kinky Friedman’s Pet Utopia. We had to get Domino out of Paulette’s yard and
+there were no options. Mike thought I was a crazy city-girl for even
+suggesting that the pig be raised as anything other than what it was. But a
+promise is a promise.  
 
-Domino inspired the design of the festival t-shirt in 2004 and Jean Graham’s
-vision for the Procession of the Violet Crowns, as part of First Night Austin.
-More than 100 Brentwood and Crestview neighbors participated in the event on
-New Year’s Eve in 2005 and 2009.
+So we worked out a deal. He would come get the animal and leave it in a
+trailer in front of my house for several days. If the pig is still in the
+trailer when picked up, it was supper. If the trailer was empty, good
+riddance. I sent an email to everyone I knew in a panic looking for a home
+for Domino. It wasn’t needed. When Mike and his friend David Sherrill met
+Paulette and saw the special relationship she had with this pig and how
+Domino had defied the odds, it melted this farmer’s heart, and he promised
+Paulette that he would throw the pig in with the goats and raise it. She
+accepted the offer.
 
-Sometime in 2006, the house where Paulette had lived was torn down, but you
-still can find a few sunflowers blooming around the edges of her yard.
+It was a sad parting because Paulette and Domino were very attached to each
+other. It also happened on the same day that she learned that her husband had
+an advanced case of cancer.  “I feel like I’m losing everything I love in the
+world,” she said at the time. Less than two months later, Paulette’s husband
+passed away. Paulette, though, has recently found a new love and a new life
+in Marble Falls. We will miss her wonderful garden every year. Domino escaped
+from the goat pen one morning to return to the very place where his adventure
+began. David Sherrill says he keeps an eye out for a feral hog wearing the
+red bandana.
 
-We pay tribute to Domino, the Violet Crown Pig; to Paulette Fiske and her
-beautiful sunflowers; and to all our neighborhood legends who make this such a
-unique place to call home.
+That’s why Domino graced our festival t-shirt in 2004. We give tribute to
+Domino, the Violet Crown Pig; to Paulette and her beautiful sunflowers; and
+to all our neighborhood legends who make this such a wonderful and unique
+place to call home.
 
-_&mdash; Shayla Fleshman and Susan Burneson_
+[Domino also inspired artist Jean Graham’s vision for the Procession of the
+Violet Crowns, as part of First Night Austin. More than 100 Brentwood and
+Crestview neighbors participated in the event on New Year’s Eve in 2005 and
+2009. The ten-foot-long Domino puppet Jean created for First Night still
+makes appearances at the Violet Crown Festival and other local events. The
+house where Paulette lived was torn down sometime in 2006. For a time you
+still could find a few sunflowers blooming around the edges of her
+yard. —Susan Burneson]
 
 <img src="img/vccw_domino_flu.jpg" alt="Domino the Pig" class="img-responsive well">
 
