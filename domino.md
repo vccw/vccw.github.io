@@ -24,7 +24,6 @@ could carry him. Across the festival grounds volunteers stopped what they
 were doing and gave chase. It was a site to behold . . . people running,
 diving, lunging after this small pig who was too fast for all of us.
 
-
 Turning our event topsy-turvy, it then shot across the open park and
 disappeared into the neighborhood. But that small pig had accomplished its
 mission of making folks stop what they were doing for a moment and laugh,
@@ -74,6 +73,8 @@ But Domino was no longer a small pig. Domino was actually a feral hog and
 getting much bigger on all that good food he was devouring, yet Domino had
 become our neighborhood’s “Wilbur.” Folks would stop to look at him and
 sometimes feed him. But he was only tame with Paulette.
+
+<img src="img/domino-sm.jpg" alt="Domino the Pig" class="img-responsive well">
 
 In early October, I receive a call from Paulette. Her landlord had discovered
 Domino and told her, “Either he goes, or you do.” What to do? Well, the
