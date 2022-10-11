@@ -3,10 +3,9 @@ layout: default
 title: Home Page
 ---
 
-### No Spring 2021 Festival
+### Oktoberfest 2022
 
-Due to the continuing global pandemic, we have decided to not hold the annual Violet Crown Festival this May.  We're disappointed,
-but we hope that things will be better in the fall and we'll be able to hold some version of our Oktoberfest.
+We will be having our annual Oktoberfest at Brentwood Park on Saturday, November 6th. Details to be announced soon!
 
 ### Violet Crown Care Network
 
