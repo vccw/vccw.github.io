@@ -12,9 +12,12 @@ Austin, Texas, helping build and sustain community in
 [Crestview](http://www.crestviewna.org/) by supporting neighborhood
 enhancement projects.
 
-For more information about VCCW, contact Bradley Linscomb, President,
-[president@violetcrowncommunity.org](mailto:president@violetcrowncommunity.org) or PO Box 66461,
-Austin, TX 78766.
+For more information about VCCW, contact Nancy Barnard, President,
+[president@violetcrowncommunity.org](mailto:president@violetcrowncommunity.org).  You can send up physical mail at
+
+Violet Crown Community Works<br>
+PO Box 66461<br>
+Austin, TX 78766
 
 ## Ways to Donate
 
