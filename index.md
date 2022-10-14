@@ -5,7 +5,30 @@ title: Home Page
 
 ### Oktoberfest 2022
 
-We will be having our annual Oktoberfest at Brentwood Park on Saturday, November 6th. Details to be announced soon!
+<img src="img/octoberfest_women.jpg" class="img-responsive">
+
+Get that lederhosen and dirndl ready!  The 5th Annual Violet Crown Oktoberfest is coming back to
+beautiful Brentwood Park on Saturday, November 5th from 1-5 pm. 
+
+Enjoy free beer from tons of local craft breweries, free sausage dogs,  live music,
+food trucks on site, and a big community picnic with your neighbors in our shady beer
+garden.  Visit our event page for more details: https://www.facebook.com/events/1250146925719734
+
+This beloved neighborhood party is a true community effort!  Consider pitching in
+with short (and beery, um, very fun) volunteer shift!
+
+Sign-up here: https://www.signupgenius.com/go/20f0448aaa92ba3fd0-oktoberfest
+
+Limited edition commemorative cups and steins will be available for purchase at the event as well as the
+week before at Dia’s Market and online - stay tuned for details!
+
+The proceeds from this event will benefit Violet Crown Community Works hyperlocal philanthropic
+endeavors, including the organization’s new Microgrant Program. The program’s first round of recipients
+will be announced at this year’s festival!  Are you part of or familiar with a not-for-profit organization
+that could do something meaningful with a grant of $500-1000? Apply here: https://bit.ly/3CY4UaH
+
+We are so grateful to our sponsors! Would your local business be interested in a festival
+sponsorship? Email annecharlottep@gmail.com to learn more and receive a sponsorship packet.
 
 ### Violet Crown Care Network
 
