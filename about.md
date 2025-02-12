@@ -9,7 +9,7 @@ title: About VCCW
 Violet Crown Community Works is a 501(c)(3) nonprofit organization based in
 Austin, Texas, helping build and sustain community in
 [Brentwood](http://brentwoodaustin.blogspot.com/) and
-[Crestview](http://www.crestviewna.org/) and the surrounding neighborhoods
+[Crestview](http://www.crestviewna.com/) and the surrounding neighborhoods
 by supporting neighborhood enhancement projects.
 
 For more information about VCCW, contact Nancy Barnard, President,
