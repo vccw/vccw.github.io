@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Violet Crown Festival Sponsorship Application (May 2020)
+title: Violet Crown Festival Sponsorship Application (May 2025)
 ---
 
 <script>
@@ -8,10 +8,7 @@ title: Violet Crown Festival Sponsorship Application (May 2020)
 		location.href = 'https:' + window.location.href.substring(window.location.protocol.length);
 	}
 </script>
-<script type="text/javascript" src="https://form.jotform.com/jsform/200556022540139"></script>
+<script type="text/javascript" src="https://form.jotform.com/jsform/250337666068160"></script>
 <noscript>
-<p>Visit <a href="https://form.jotform.com/200556022540139">the online application form</a> to apply.</p>
+<p>Visit <a href="https://form.jotform.com/250337666068160">the online application form</a> to apply.</p>
 </noscript>
-<!--
-The artist roster for the Spring festival is now full.  Thanks for your interest.
--->
