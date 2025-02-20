@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Violet Crown Festival Sponsor Application (May 2020)
+title: Violet Crown Festival Sponsor Application (May 2025)
 ---
 
 <script>
