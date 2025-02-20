@@ -175,7 +175,7 @@ title: Violet Crown Arts Festival (December 2015)
 		<p>For questions about the festival, please mail <a href="mailto:violetcrownartsfestival@gmail.com">violetcrownartsfestival@gmail.com</a>.</p>
 
 		<p>If you wish to exhibit at the festival, please
-		<a href="artsfest_apply.html">visit our festival guidelines and
+		<a href="artsfest_apply">visit our festival guidelines and
 		application page</a>.  Artist applications will open at the beginning of September.</p>
 
 	</div></div>

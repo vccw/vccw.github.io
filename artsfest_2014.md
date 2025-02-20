@@ -183,7 +183,7 @@ title: Violet Crown Arts Festival (December 2014)
 		<p>For questions about the festival, please mail <a href="mailto:violetcrownartsfestival@gmail.com">violetcrownartsfestival@gmail.com</a>.</p>
 
 		<p>There are still some slots available.  If you wish to exhibit at the festival,
-		please <a href="artsfest_apply.html">visit our festival guidelines and application page</a>.</p>
+		please <a href="artsfest_apply">visit our festival guidelines and application page</a>.</p>
 
 	</div></div>
 </div>
