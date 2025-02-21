@@ -3,7 +3,9 @@ layout: default
 title: Home Page
 ---
 
-### Violet Crown Festival is Back
+<img src="img/VCCW_2025_Logo.png" class="img-responsive">
+
+## Violet Crown Festival is Back!
 
 After a COVID-hiatus, we've regrouped and will be holding the
 <a href="vcf_2025">Violet Crown Festival</a> again in 2025 on the first
@@ -25,4 +27,3 @@ We will announce sign up for volunteers soon.
 You can get the latest updates on the
 <a href="https://www.facebook.com/VioletCrownCommunityWorks">Violet Crown Community Works Facebook page</a>.
 
-<img src="img/VCCW_2025_Logo.png" class="img-responsive">
