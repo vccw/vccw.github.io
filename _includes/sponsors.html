@@ -9,7 +9,7 @@
 <div id="carousel-sponsors" class="carousel slide" data-interval="2500" data-ride="carousel">
     <!-- Wrapper for slides -->
     <div class="carousel-inner text-center">
-        {% for sponsor in site.data.sponsors_spring2020.title %}
+        {% for sponsor in site.data.sponsors_spring2025.title %}
         <div class="item{% if forloop.first %} active{% endif %}">
             {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
             <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }} - {{ sponsor.title }} sponsor">
@@ -17,7 +17,7 @@
             {% endif %}
         </div>
         {% endfor %}
-        {% for sponsor in site.data.sponsors_spring2020.gold %}
+        {% for sponsor in site.data.sponsors_spring2025.gold %}
         <div class="item">
             {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
             <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }} - Gold sponsor">
