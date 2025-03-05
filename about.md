@@ -27,6 +27,8 @@ You can donate through the PayPal Giving Fund:
 
 You can also help as a sponsor for one of our festivals or Oktoberfests.  See the event pages for more information.
 
+If you want to donate using a donor-advised fund or other mechanism, our Employer Identification Number (EIN) is 45-0509342.
+
 ## Sponsored Projects
 
 In addition to the annual Violet Crown Festival in May and the Violet Crown
