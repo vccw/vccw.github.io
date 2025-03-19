@@ -22,7 +22,9 @@ If you're interesting in being a sponsor, please
 If you want to exhibit and sell your artwork at the festival,
 see <a href="vcf_apply">our artist signup submission form</a> for details.
 
-We will announce sign up for volunteers soon.
+If you'd like to help as a volunteer on the day of the festival,
+please see <a href="https://www.signupgenius.com/go/20F0A4AA5A829ABFA7-55767989-event">the festival's
+SignUpGenius form for open positions</a>.
 
 You can get the latest updates on the
 <a href="https://www.facebook.com/VioletCrownCommunityWorks">Violet Crown Community Works Facebook page</a>.
