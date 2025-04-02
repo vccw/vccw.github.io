@@ -3,12 +3,12 @@ layout: default
 title: Home Page
 ---
 
-## Our 2025 VCF Headliner! Dale Watson and His Lone Stars
+## Our 2025 VCF Headliner: Dale Watson and His Lone Stars
 
 <img src="img/DaleWatson2025.jpg" class="img-responsive center-block">
 
 We're pleased as punch to announce that playing our headline
-spot at 2pm is the one-and-only
+spot at 2pm during the Violet Crown Festival is the one-and-only
 [Dale Watson and His Lone Stars](https://dalewatson.com/).
 
 For more music announcements, see [the event page](vcf_2025).
