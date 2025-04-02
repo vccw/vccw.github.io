@@ -19,7 +19,7 @@ If you want to help sponsor the festival, please see our
 {% for sponsor in site.data.sponsors_spring2025.title %}
 <div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
-    <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
+    <img class="img-rounded" src="/{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
     {% if sponsor.url %}</a>{% endif %}<p>{{ sponsor.title }} Sponsor</p>
 </div>
 {% endfor %}
@@ -34,7 +34,7 @@ If you want to help sponsor the festival, please see our
 {% for sponsor in site.data.sponsors_spring2025.gold %}
 <div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
-    <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
+    <img class="img-rounded" src="/{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
     {% if sponsor.url %}</a>{% endif %}
 </div>
 {% endfor %}
@@ -50,7 +50,7 @@ If you want to help sponsor the festival, please see our
 {% for sponsor in site.data.sponsors_spring2025.silver %}
 <div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
-    <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
+    <img class="img-rounded" src="/{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
     {% if sponsor.url %}</a>{% endif %}
 </div>
 {% endfor %}
@@ -66,7 +66,7 @@ If you want to help sponsor the festival, please see our
 {% for sponsor in site.data.sponsors_spring2025.bronze %}
 <div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
-    <img class="img-rounded" src="{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
+    <img class="img-rounded" src="/{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
     {% if sponsor.url %}</a>{% endif %}
 </div>
 {% endfor %}

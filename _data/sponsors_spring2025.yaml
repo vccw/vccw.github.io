@@ -20,6 +20,10 @@ title:
       url: https://espinozachiropractic.com/
       img: sponsors/carousel-espinoza.png
       title: Music Stage
+    - name: Taskrabbit
+      url: https://www.taskrabbit.com/
+      img: sponsors/carousel-taskrabbit.png
+      title: Food Court
 
 # $750+
 gold:
@@ -82,6 +86,15 @@ silver:
     - name: Paragon Prep
       url: http://www.paragonprep.com/
       img: sponsors/carousel-paragon.png
+    - name: Parkfield Dental
+      url: https://www.parkfieldfamilydental.com/
+      img: sponsors/carousel-parkfield.png
+    - name: Parmer Lane Orthodontics
+      url: https://www.parmerlaneortho.com/
+      img: sponsors/carousel-parmerlane.png
+    - name: The Retreat Yoga + Soulful Fitness
+      url: https://retreatyogaaustin.com/
+      img: sponsors/carousel-retreat.png
     # - url: http://crestviewna.com/
     #   img: sponsors/carousel-vccw-cna.png
     #   name: Crestview Neighborhood Association
