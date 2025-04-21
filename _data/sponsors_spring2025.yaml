@@ -1,21 +1,9 @@
 # $1500+
 title:
-    # - url: http://www.juicehomes.com/agents/910-john-dunham
-    #   img: sponsors/carousel-vccw-gold-juice.jpg
-    #   name: Juice Homes - John Dunham
-    #   title: Music Stage
-    # - url: http://www.grandecom.com/
-    #   img: sponsors/carousel-GrandeServices_ColorPMS_Vertical.jpg
-    #   name: Grande Communications
-      # title: Trail
     - name: Eldorado Cafe
       url: http://www.eldoradocafeatx.com/
       img: sponsors/carousel-eldorado.png
-      title: Pavilion
-    # - url: http://littledeliandpizza.com/
-    #   name: Little Deli & Pizzeria
-    #   img: sponsors/carousel-littledeli.png
-    #   title: Food Court
+      title: Food Court
     - name: Espinoza Chiropractic
       url: https://espinozachiropractic.com/
       img: sponsors/carousel-espinoza.png
@@ -23,69 +11,46 @@ title:
     - name: Taskrabbit
       url: https://www.taskrabbit.com/
       img: sponsors/carousel-taskrabbit.png
-      title: Food Court
+      title: Pavilion
+    - name: Paragon Prep
+      url: http://www.paragonprep.com/
+      img: sponsors/carousel-paragon.png
+      title: Kids' Zone
+    - name: Stiles Switch BBQ
+      url: https://www.stilesswitchbbq.com/
+      img: sponsors/carousel-stilesswitch.png
+      title: BBQ Cookoff
+    - name: Freedom Solar
+      url: https://freedomsolarpower.com/
+      img: sponsors/carousel-freedomsolar.png
+      title: Artists' Market
 
 # $750+
 gold:
     - name: Austin Parks Foundation
       url: https://austinparks.org/
       img: sponsors/carousel-apf.png
-    # - url: http://woodrow.arlansmarket.com
-    #   img: sponsors/carousel-arlans.jpg
-    #   name: Arlan's Market
     - url: http://www.burnetroadstorage.com/
       img: sponsors/carousel-BRStorage-bg.jpg
       name: Burnet Road Storage
+    - name: Laser and Electrolysis Studio
+      url: https://laserelect.com/
+      img: sponsors/carousel-laserelect.png
+    - name: City of Austin
+      url: https://www.austintexas.gov/department/district-7
+      img: sponsors/carousel-cityofaustin.png
+    - name: Allandale Vet Clinic
+      url: https://www.allandalevetclinic.com/
+      img: sponsors/carousel-allandalevet.png
+    - name: Bedrock Realty and Property Managment (David Ezrailson)
+      url: https://bedrockaustin.com/agents/david-ezrailson
+      img: sponsors/carousel-bedrock.png
     # - url: http://www.amysicecreams.com/
     #   img: sponsors/carousel-amys.jpg
     #   name: Amy's Ice Creams
-    - name: City of Austin
-      img: sponsors/carousel-cityofaustin.png
-    # - url: http://brentwoodaustin.blogspot.com
-    #   img: sponsors/carousel-vccw-bna.png
-    #   name: Brentwood Neighborhood Association
-    # - name: Freedom Solar
-    #   url: https://freedomsolarpower.com/
-    #   img: sponsors/carousel-freedomsolar.png
-    # - url: http://www.txdpscu.org/
-    #   img: sponsors/carousel-dps.png
-    #   name: Texas DPS Credit Union
-    # - url: https://austinfilmfestival.com/yfp/summercamp/
-    #   img: sponsors/carousel-aff.png
-    #   name: Austin Film Festival
-    # - url: https://magiccamp.com/
-    #   name: Fantastic Magic Camp
-    #   img: sponsors/carousel-fantastic.png
-    # - url: http://www.jump-austin.com/
-    #   img: sponsors/carousel-jump.png
-    #   name: Jump Gymnastics
-    # - url: https://centralins.com/
-    #   img: sponsors/carousel-cia.png
-    #   name: Central Austin Insurance
-    # - url: https://powerhrg.com/austin-replacement-windows/
-    #   img: sponsors/carousel-power.png
-    #   name: Power Home Remodeling
-    # - url: https://www.simply-aligners.com/
-    #   name: Simply Aligners
-    #   img: sponsors/carousel-simply-aligners.png
-    # - url: https://annamitchellmusiclessons.com/
-    #   name: Anna Mitchell Music Lessons
-    #   img: sponsors/carousel-anna-mitchell.png
-    # - url: https://certaintyhomeloans.com/Branch?BranchId=1287
-    #   name: Certainity Home Loans
-    #   img: sponsors/carousel-certainity.png
-    # - url: https://www.steppingstoneschool.com/
-    #   name: Stepping Stone School
-    #   img: sponsors/carousel-steppingstone.png
-    # - url: https://momentumsolar.com/
-    #   name: Momentum Solar
-    #   img: sponsors/carousel-momentumsolar.png
 
 # $250+
 silver:
-    - name: Paragon Prep
-      url: http://www.paragonprep.com/
-      img: sponsors/carousel-paragon.png
     - name: Parkfield Dental
       url: https://www.parkfieldfamilydental.com/
       img: sponsors/carousel-parkfield.png
@@ -98,43 +63,19 @@ silver:
     - name: Stepping Stone School
       url: https://www.steppingstoneschool.com/
       img: sponsors/carousel-steppingstone-2025.png
+    - url: https://brentwoodaustin.blogspot.com
+      img: sponsors/carousel-vccw-bna.png
+      name: Brentwood Neighborhood Association
+    - name: Shuniya Yoga Collective
+      url: https://www.shuniyayogacollective.com/
+      img: sponsors/carousel-shuniya.png
+    - name: Top Notch Hamburgers
+      url: http://www.topnotchaustin.com/
+      img: sponsors/carousel-topnotch.png
     # - url: http://crestviewna.com/
     #   img: sponsors/carousel-vccw-cna.png
     #   name: Crestview Neighborhood Association
-    # - name: Brentwood Social House
-    #   url: https://www.brentwoodsocial.com/
-    #   img: sponsors/carousel-brentwoodsocial.png
-    # - name: Planet Fitness
-    #   url: https://www.planetfitness.com/gyms/austin-w-anderson-lane-tx
-    #   img: sponsors/carousel-planetfitness.png
-    # - url: https://www.kendrascott.com/
-    #   name: Kendra Scott
-    #   img: sponsors/carousel-kendrascott.png
-    # - url: https://campgladiator.com/
-    #   name: Camp Gladiator
-    #   img: sponsors/carousel-campgladiator.png
-    # - name: Garden Seventeen
-    #   url: http://www.gardenseventeen.com/
-    #   img: sponsors/carousel-gardenseventeen.png
 
 # $100+
 friends:
-    # - name: Pruett-Ponvert Family
-    # - url: https://www.tinypies.com/
-    #   name: Tiny Pies
-    # - url: http://www.topnotchaustin.com/
-    #   name: Top Notch Hamburgers
-    # - img: sponsors/carousel-mike.png
-    #   name: Mike McChesney, brisket master
-    # - url: https://barleyswine.com/
-    #   name: Barley Swine
-    #   img: sponsors/carousel-barleyswine.png
-    # - img: sponsors/carousel-voices.png
-    #   name: Voices of the Violet Crown
-    #   url: http://www.violetcrownvoices.com/
-    # - url: http://www.gardenheads.net/
-    #   name: Gardenheads
-    #   img: sponsors/carousel-gardenheads.png
-    # - name: Thunderbird Coffee
-    #   url: http://thunderbirdcoffee.com/
-    #   img: sponsors/carousel-thunderbird.png
+    - name: Bob & Angela Lee Ward

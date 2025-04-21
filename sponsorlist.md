@@ -12,7 +12,7 @@ If you want to help sponsor the festival, please see our
 <a href="vcf_sponsor">sponsorship application</a>.
 
 ## Title Sponsors
-<!-- $1000 and up -->
+<!-- $1500 and up -->
 
 <div class="container">
 <div class="row">
@@ -27,7 +27,7 @@ If you want to help sponsor the festival, please see our
 </div>
 
 ## Gold Sponsors
-<!-- $500 and up -->
+<!-- $750 and up -->
 
 <div class="container">
 <div class="row">
@@ -58,23 +58,7 @@ If you want to help sponsor the festival, please see our
 </div>
 <br>
 
-## Bronze Sponsors
-<!-- $100 to $249 -->
-
-<div class="container">
-<div class="row">
-{% for sponsor in site.data.sponsors_spring2025.bronze %}
-<div class="col-md-3 text-center">
-    {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
-    <img class="img-rounded" src="/{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
-    {% if sponsor.url %}</a>{% endif %}
-</div>
-{% endfor %}
-</div>
-</div>
-<br>
-
 ## Friends of Violet Crown Community
-<!-- $50 to $99 -->
+<!-- $100 to $249 -->
 <h4><ul>{% for sponsor in site.data.sponsors_spring2025.friends %}{% if sponsor.url %}<li><a href="{{ sponsor.url }}">{{ sponsor.name }}</a></li>{% else %}<li> {{sponsor.name}}</li>{% endif %}
 {% endfor %}</ul></h4>
