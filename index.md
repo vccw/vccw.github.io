@@ -23,21 +23,6 @@ spot at 2pm during the Violet Crown Festival is the one-and-only
 
 For more music announcements, see [the event page](vcf_2025).
 
-## Tickets for the BBQ Showdown are now available
-
-We have opened up online sales of tickets that grant you the right and
-obligation to sample the various briskets prepared by the hard-working
-crews in the Violet Crown BBQ Showdown!
-
-[They're available online ahead of the event for $15 a person.](https://square.link/u/VyvrDgfW)
-Slots are limited, so pre-order today.
-
-## We're still looking for volunteers
-
-If you'd like to help as a volunteer on the day of the festival,
-please see <a href="https://www.signupgenius.com/go/20F0A4AA5A829ABFA7-55767989-event">the festival's
-SignUpGenius form for open positions</a>.
-
 ## Violet Crown Festival is Back!
 
 After a COVID-hiatus, we've regrouped and will be holding the
