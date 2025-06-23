@@ -37,7 +37,7 @@ Oktoberfest, VCCW also has sponsored art projects in the community.  These inclu
 * [The Wall of Welcome](wall.html), the mural in front of the Minimax grocery store
 * [Voices of the Violet Crown](voices.html), stories of neighbors creating community—past, present, and future
 * [Brentwood Playground Project](https://www.brentwoodplaygroundproject.com/)
-* [Friends of Brentwood Park](http://friendsofbrentwoodpark.org/)
+* [Friends of Brentwood Park](https://fobp.info/)
 
 ## Board Members
 
