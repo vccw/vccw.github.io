@@ -20,3 +20,14 @@ Facebook page</a>.  You can also <a
 href="https://www.facebook.com/events/772487588722949/">RSVP for the event on
 Facebook</a> while you're there.
 
+## Pre-Oktoberfest Cup Sales Are Open
+
+<img src="img/oktoberfest2025_cups.jpg" class="img-responsive center-block" style="max-width: 80%">
+
+If you want to ensure you get your choice of color-changing cup
+or FrostBuddy stein, you can now
+<a href="https://square.link/u/bfTwfHS6">pre-buy these from
+Violet Crown Community Works</a> to pick up at the festival.
+
+Online sales close about 11PM on Friday night so we can get
+the pickup lists ready for the morning.
