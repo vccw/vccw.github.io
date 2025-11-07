@@ -20,6 +20,13 @@ Facebook page</a>.  You can also <a
 href="https://www.facebook.com/events/772487588722949/">RSVP for the event on
 Facebook</a> while you're there.
 
+## Music at Oktoberfest
+
+* Calvin Clary - 12:15-1:00
+* The BFlattitudes - 1:15 - 2:00
+* <a href="https://www.facebook.com/yesmaambrassband/">Yes Ma'am Brass Band</a> - 2:15-3:00
+* <a href="https://www.facebook.com/people/The-Meagles/100063691921052/">The Meagles</a> - 3:00-4:00
+
 ## Pre-Oktoberfest Cup Sales Are Open
 
 <img src="img/oktoberfest2025_cups.jpg" class="img-responsive center-block" style="max-width: 80%">
