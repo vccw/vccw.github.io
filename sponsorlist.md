@@ -16,7 +16,7 @@ If you want to help sponsor the festival, please see our
 
 <div class="container">
 <div class="row">
-{% for sponsor in site.data.sponsors_spring2025.title %}
+{% for sponsor in site.data.sponsors_spring2026.title %}
 <div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="/{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
@@ -31,7 +31,7 @@ If you want to help sponsor the festival, please see our
 
 <div class="container">
 <div class="row">
-{% for sponsor in site.data.sponsors_spring2025.gold %}
+{% for sponsor in site.data.sponsors_spring2026.gold %}
 <div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="/{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
@@ -47,7 +47,7 @@ If you want to help sponsor the festival, please see our
 
 <div class="container">
 <div class="row">
-{% for sponsor in site.data.sponsors_spring2025.silver %}
+{% for sponsor in site.data.sponsors_spring2026.silver %}
 <div class="col-md-3 text-center">
     {% if sponsor.url %}<a href="{{ sponsor.url }}" target="_blank">{% endif %}
     <img class="img-rounded" src="/{{ sponsor.img }}" alt="" title="{{ sponsor.name }}">
@@ -60,5 +60,5 @@ If you want to help sponsor the festival, please see our
 
 ## Friends of Violet Crown Community
 <!-- $100 to $249 -->
-<h4><ul>{% for sponsor in site.data.sponsors_spring2025.friends %}{% if sponsor.url %}<li><a href="{{ sponsor.url }}">{{ sponsor.name }}</a></li>{% else %}<li> {{sponsor.name}}</li>{% endif %}
+<h4><ul>{% for sponsor in site.data.sponsors_spring2026.friends %}{% if sponsor.url %}<li><a href="{{ sponsor.url }}">{{ sponsor.name }}</a></li>{% else %}<li> {{sponsor.name}}</li>{% endif %}
 {% endfor %}</ul></h4>

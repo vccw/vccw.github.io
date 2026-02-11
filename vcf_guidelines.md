@@ -35,7 +35,7 @@ refuse.
 early, please make arrangements with us in advance. 
  
 -  Cancellation Policy: If you find that you are unable to fulfill your
-obligation, please do us the courtesy of canceling by April 20, 2025 to receive
+obligation, please do us the courtesy of canceling by April 20, 2026 to receive
 a full refund.  Cancellations after April 20th will be refunded based on the
 discretion of the Violet Crown Festival Board.  If you do not show up by 10:00
 AM the day of the show, you run the risk of losing your space to a vendor on the

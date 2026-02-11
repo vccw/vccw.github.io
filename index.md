@@ -3,38 +3,21 @@ layout: default
 title: Home Page
 ---
 
-<img src="img/oktoberfest2025_poster.png" class="img-responsive center-block" style="max-width: 80%">
+<img src="img/arts2014_02.jpg" class="img-responsive center-block"
+ alt="image of vendor booth with a cardboard seal in front saying 'Come on back, Sealiously!'">
 
-Octoberfest 2025 is coming on Saturday, November 8th, from noon to 4pm.
-Presented by our neighborhood friends at <a
-href="https://www.eldoradocafeatx.com/">Eldorado Cafe</a>.
+<a href="vcf_2026">Violet Crown Festival</a>
+will return to Brentwood Park on Saturday, May 2nd, 2026.
 
-The event's once again at the <a
-href="https://maps.app.goo.gl/RuLQBc27tvmBmDZt7">Episcopal Church of the
-Resurrection at 2200 Justin Ln</a>.  Featuring beer from about 20 local
-breweries, along with family-friendly fun, food, and live music.
+If you're interested in being a sponsor for this classic Spring festival,
+please contact the VCF 2026 team.
 
-You can get the latest updates on the <a
-href="https://www.facebook.com/VioletCrownOktoberfest">Violet Crown Oktoberfest
-Facebook page</a>.  You can also <a
-href="https://www.facebook.com/events/772487588722949/">RSVP for the event on
-Facebook</a> while you're there.
+We are still working on our artist, music, and food lineup, so check back
+here and on our Facebook and Instagram feeds for more info at we get
+closer to May.
 
-## Music at Oktoberfest
+If you're interested in applying as an artist/vendor, see
+<a href="vcf_apply">our VCF 2026 artist application form</a>.
 
-* Calvin Clary - 12:15-1:00
-* The BFlattitudes - 1:15 - 2:00
-* <a href="https://www.facebook.com/yesmaambrassband/">Yes Ma'am Brass Band</a> - 2:15-3:00
-* <a href="https://www.facebook.com/people/The-Meagles/100063691921052/">The Meagles</a> - 3:00-4:00
-
-## Pre-Oktoberfest Cup Sales Are Open
-
-<img src="img/oktoberfest2025_cups.jpg" class="img-responsive center-block" style="max-width: 80%">
-
-If you want to ensure you get your choice of color-changing cup
-or FrostBuddy stein, you can now
-<a href="https://square.link/u/bfTwfHS6">pre-buy these from
-Violet Crown Community Works</a> to pick up at the festival.
-
-Online sales close about 11PM on Friday night so we can get
-the pickup lists ready for the morning.
+If you want to sponsor the festival, check out
+<a href="sponsorform">our VCF 2026 sponsorship form</a>.

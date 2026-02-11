@@ -41,19 +41,18 @@ Oktoberfest, VCCW also has sponsored art projects in the community.  These inclu
 
 ## Board Members
 
-* Nancy Barnard (President)
-* Ben Combee (Treasurer & Webmaster)
-* Bradley Linscomb (Secretary & Past President)
-* Lori Gieger
-* Sue Minear
+* David Ezrailson (President)
+* Greg Will (Vice-President)
+* Kristine Poland (Treasurer)
+* Joseph Gosselin (Secretary)
+* Nancy Barnard (Past President)
+* Ben Combee (Webmaster)
+* Bradley Linscomb
 * Mike McChesney
-* Kristine Poland
 * Rob Hill
-* David Ezrailson
 * Ryan Gordon Katz
-* Greg Will
 
 ### Previous Festivals
 
-* Violet Crown Festival (1st Saturday in May): [2013](vcf_2013.html), [2014](vcf_2014.html), [2015](vcf_2015.html), [2016](vcf_2016.html), [2017](vcf_2017.html), [2018](vcf_2018.html), [2019](vcf_2019.html), [2020](vcf_2020.html)
+* Violet Crown Festival (1st Saturday in May): [2013](vcf_2013.html), [2014](vcf_2014.html), [2015](vcf_2015.html), [2016](vcf_2016.html), [2017](vcf_2017.html), [2018](vcf_2018.html), [2019](vcf_2019.html), [2020](vcf_2020.html), [2025](vcf_2025.html)
 * Violet Crown Arts Festival (1st weekend in December): [2013](artsfest_2013.html), [2014](artsfest_2014.html), [2015](artsfest_2015.html),  [2016](artsfest_2016.html)
