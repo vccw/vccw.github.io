@@ -21,3 +21,8 @@ If you're interested in applying as an artist/vendor, see
 
 If you want to sponsor the festival, check out
 <a href="sponsorform">our VCF 2026 sponsorship form</a>.
+
+We're looking for volunteers to help with event setup and
+during-the-fest activities.
+<a href="https://www.signupgenius.com/go/20F0A4AA5A829ABFA7-62504712-may22026">
+Here's a link to sign up through SignupGenius.</a>
