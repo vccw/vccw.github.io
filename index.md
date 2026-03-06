@@ -20,7 +20,7 @@ If you're interested in applying as an artist/vendor, see
 <a href="vcf_apply">our VCF 2026 artist application form</a>.
 
 If you want to sponsor the festival, check out
-<a href="sponsorform">our VCF 2026 sponsorship form</a>.
+<a href="vcf_sponsor">our VCF 2026 sponsorship form</a>.
 
 We're looking for volunteers to help with event setup and
 during-the-fest activities.
